@@ -16,6 +16,7 @@ class Line(Region):
                  reconstructed=False,
 
                  sentence: Sentence = None,
+                 transcription_name: Optional[str] = None,
 
                  staff_lines: StaffLines = None,
                  symbols: List[MusicSymbol] = None,
@@ -25,6 +26,7 @@ class Line(Region):
 
         # text line
         self.sentence: Sentence = sentence if sentence else Sentence([])
+        self.transcription_name = transcription_name
 
         # music line
         self.staff_lines = staff_lines if staff_lines else StaffLines()
@@ -46,6 +48,7 @@ class Line(Region):
             Coords.from_json(d.get('coords', '')),
             d.get('reconstructed', False),
             Sentence.from_json(d.get('sentence', {})),
+            d.get('transcriptionName', None),
             StaffLines.from_json(d.get('staffLines', [])),
             [MusicSymbol.from_json(s) for s in d.get('symbols', [])]
         )
@@ -63,11 +66,15 @@ class Line(Region):
             d['symbols'] = [s.to_json() for s in self.symbols]
         elif block_type is not None:
             # text block
+            d['transcriptionName'] = self.transcription_name
             d['sentence'] = self.sentence.to_json()
         else:
             d['staffLines'] = self.staff_lines.to_json()
             d['symbols'] = [s.to_json() for s in self.symbols]
+            d['transcriptionName'] = self.transcription_name
             d['sentence'] = self.sentence.to_json()
+
+        print('Saving line {} to json with dict: {}'.format(self.id, d))
 
         return d
 

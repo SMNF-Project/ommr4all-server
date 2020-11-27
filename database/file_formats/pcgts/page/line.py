@@ -66,12 +66,14 @@ class Line(Region):
             d['symbols'] = [s.to_json() for s in self.symbols]
         elif block_type is not None:
             # text block
-            d['transcriptionName'] = self.transcription_name
+            if self.transcription_name:
+                d['transcriptionName'] = self.transcription_name
             d['sentence'] = self.sentence.to_json()
         else:
             d['staffLines'] = self.staff_lines.to_json()
             d['symbols'] = [s.to_json() for s in self.symbols]
-            d['transcriptionName'] = self.transcription_name
+            if self.transcription_name:
+                d['transcriptionName'] = self.transcription_name
             d['sentence'] = self.sentence.to_json()
 
         print('Saving line {} to json with dict: {}'.format(self.id, d))

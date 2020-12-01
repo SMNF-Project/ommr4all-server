@@ -1,4 +1,4 @@
-from typing import List, Optional
+from typing import List, Optional, Dict
 from .region import Region, Coords
 from .definitions import BlockType
 from .coords import Point
@@ -9,6 +9,33 @@ from .musicsymbol import MusicSymbol, MusicSymbolPositionInStaff, create_clef, C
 from uuid import uuid4
 
 
+class LineReading:
+    """Container class for a reading of a text Line."""
+    def __init__(self,
+                 readingName: str,
+                 sentence: Sentence,
+                 coords: Coords):
+        self.reading_name = readingName
+        self.sentence = sentence
+        self.coords = coords
+
+    @staticmethod
+    def from_json(d: dict) -> 'Reading':
+        return LineReading(
+            d.get('readingName'),
+            Sentence.from_json(d.get('sentence', '')),
+            Coords.from_json(d.get('coords', '')),
+        )
+
+    def to_json(self) -> dict:
+        return {'readingName': self.reading_name,
+                'coords': self.coords.to_json(),
+                'sentence': self.sentence.to_json()}
+
+    def syllable_by_id(self, syllable_id):
+        return self.sentence.syllable_by_id(syllable_id)
+
+
 class Line(Region):
     def __init__(self,
                  id: Optional[str] = None,
@@ -17,6 +44,7 @@ class Line(Region):
 
                  sentence: Sentence = None,
                  transcription_name: Optional[str] = None,
+                 readings: Optional[Dict[str, LineReading]] = None,
 
                  staff_lines: StaffLines = None,
                  symbols: List[MusicSymbol] = None,
@@ -27,6 +55,7 @@ class Line(Region):
         # text line
         self.sentence: Sentence = sentence if sentence else Sentence([])
         self.transcription_name = transcription_name
+        self.readings = readings
 
         # music line
         self.staff_lines = staff_lines if staff_lines else StaffLines()
@@ -49,9 +78,17 @@ class Line(Region):
             d.get('reconstructed', False),
             Sentence.from_json(d.get('sentence', {})),
             d.get('transcriptionName', None),
+            Line.readings_from_json(d.get('readings', None)),
             StaffLines.from_json(d.get('staffLines', [])),
             [MusicSymbol.from_json(s) for s in d.get('symbols', [])]
         )
+
+    @staticmethod
+    def readings_from_json(d: list) -> Dict[str, LineReading]:
+        if d is None:
+            return None
+        readings = {r.get('readingName'): LineReading.from_json(r) for r in d}
+        return readings
 
     def to_json(self, block_type: Optional[BlockType] = None) -> dict:
         d = {
@@ -69,16 +106,25 @@ class Line(Region):
             if self.transcription_name:
                 d['transcriptionName'] = self.transcription_name
             d['sentence'] = self.sentence.to_json()
+            if self.readings:
+                d['readings'] = self.readings_to_json()
         else:
+            # unknown block type
             d['staffLines'] = self.staff_lines.to_json()
             d['symbols'] = [s.to_json() for s in self.symbols]
             if self.transcription_name:
                 d['transcriptionName'] = self.transcription_name
             d['sentence'] = self.sentence.to_json()
+            if self.readings:
+                d['readings'] = self.readings_to_json()
 
-        print('Saving line {} to json with dict: {}'.format(self.id, d))
+        # print('Saving line {} to json with dict: {}'.format(self.id, d))
 
         return d
+
+    def readings_to_json(self):
+        readings_json = [r.to_json() for r in self.readings.values()]
+        return readings_json
 
     def rotate(self, degree, origin):
         self.coords.rotate(degree, origin)
@@ -99,7 +145,13 @@ class Line(Region):
     def text(self, with_drop_capital=True):
         return self.sentence.text(with_drop_capital=with_drop_capital)
 
-    def syllable_by_id(self, syllable_id):
+    def syllable_by_id(self, syllable_id, search_readings=True):
+        if search_readings and self.readings is not None:
+                for reading in self.readings.values():
+                    syllable = reading.syllable_by_id(syllable_id)
+                    if syllable is not None:
+                        return syllable
+
         return self.sentence.syllable_by_id(syllable_id)
 
     # music line

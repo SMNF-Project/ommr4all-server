@@ -1,0 +1,14 @@
+{
+  "id": "test_metadata",
+  "name": "test_metadata",
+  "created": "2020-11-26T13:22:56.676025",
+  "creator": {
+    "username": "hajicj",
+    "firstName": "",
+    "lastName": ""
+  },
+  "last_opened": "",
+  "notationStyle": "french14",
+  "numberOfStaffLines": 4,
+  "algorithmPredictorParams": {}
+}

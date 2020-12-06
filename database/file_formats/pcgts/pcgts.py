@@ -1,4 +1,4 @@
-from database.file_formats.pcgts.meta import Meta
+from database.file_formats.pcgts.meta import Meta, MEIheadMeta
 from database.file_formats.pcgts.page import Page
 from typing import Optional, TYPE_CHECKING
 import logging
@@ -13,9 +13,14 @@ logger = logging.getLogger(__name__)
 class PcGts:
     VERSION = 1
 
-    def __init__(self, meta: Meta, page: Page, version: int = VERSION):
+    def __init__(self,
+                 meta: Meta,
+                 page: Page,
+                 mei_head_meta: MEIheadMeta = None,
+                 version: int = VERSION):
         self.meta: Meta = meta
         self.page: Page = page
+        self.mei_head_meta: MEIheadMeta = mei_head_meta
         self.version = version
         assert(version == PcGts.VERSION)
 
@@ -60,6 +65,7 @@ class PcGts:
         pcgts = PcGts(
             Meta.from_json(json.get('meta', {})),
             Page.from_json(json.get('page', {}), location=location),
+            MEIheadMeta.from_json(json.get('meiHeadMeta', None)),
             json.get('version', None),
         )
         if location:
@@ -68,11 +74,14 @@ class PcGts:
         return pcgts
 
     def to_json(self):
-        return {
+        output = {
             'version': self.version,
             'meta': self.meta.to_json(),
             'page': self.page.to_json(),
         }
+        if self.mei_head_meta:
+            output['meiHeadMeta'] = self.mei_head_meta.to_json()
+        return output
 
 
 if __name__ == '__main__':

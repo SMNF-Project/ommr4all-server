@@ -1,16 +1,16 @@
 {
   "actions": {
-    "Locked": 10,
-    "Unlocked": 6,
+    "Locked": 11,
+    "Unlocked": 8,
     "LyricsEdit": 72,
     "LyricsDeselect": 64,
     "ReadingOrderAuto": 2
   },
   "toolTiming": {
-    "View": 462200,
+    "View": 623500,
     "Layout": 4400,
     "Symbol": 29400,
-    "Lyrics": 1042600
+    "Lyrics": 1063500
   },
   "actionHistory": [
     {
@@ -628,6 +628,18 @@
     {
       "action": 4,
       "time": 454400
+    },
+    {
+      "action": 5,
+      "time": 390100
+    },
+    {
+      "action": 4,
+      "time": 406700
+    },
+    {
+      "action": 5,
+      "time": 908600
     }
   ]
 }

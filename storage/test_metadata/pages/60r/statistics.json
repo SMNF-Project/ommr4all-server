@@ -3,15 +3,15 @@
     "Locked": 11,
     "Unlocked": 8,
     "LyricsEdit": 72,
-    "LyricsDeselect": 73,
+    "LyricsDeselect": 84,
     "ReadingOrderAuto": 2
   },
   "toolTiming": {
-    "View": 1042200,
+    "View": 1068500,
     "Layout": 4400,
     "Symbol": 29400,
-    "Lyrics": 1117200,
-    "Work": 20200
+    "Lyrics": 1186900,
+    "Work": 280000
   },
   "actionHistory": [
     {
@@ -677,6 +677,50 @@
     {
       "action": 404,
       "time": 38100
+    },
+    {
+      "action": 404,
+      "time": 265800
+    },
+    {
+      "action": 404,
+      "time": 277200
+    },
+    {
+      "action": 404,
+      "time": 298800
+    },
+    {
+      "action": 404,
+      "time": 256200
+    },
+    {
+      "action": 404,
+      "time": 257100
+    },
+    {
+      "action": 404,
+      "time": 670200
+    },
+    {
+      "action": 404,
+      "time": 861300
+    },
+    {
+      "action": 404,
+      "time": 862200
+    },
+    {
+      "action": 404,
+      "time": 867400
+    },
+    {
+      "action": 404,
+      "time": 41100
+    },
+    {
+      "action": 404,
+      "time": 41900
     }
   ]
 }

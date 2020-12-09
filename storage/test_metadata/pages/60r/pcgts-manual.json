@@ -4750,6 +4750,9 @@
       "works": [
         {
           "workTitle": "Židovstvo a Jeruzaléme",
+          "meta": {
+            "cantusId": "003511"
+          },
           "blocks": [
             "page_0:block_0",
             "page_0:block_1",
@@ -4760,6 +4763,9 @@
         },
         {
           "workTitle": "Raduj se a vesel se, Jeruzaléme",
+          "meta": {
+            "cantusId": "002922"
+          },
           "blocks": [
             "page_0:block_2",
             "page_0:block_3",
@@ -4772,6 +4778,9 @@
         },
         {
           "workTitle": "Zdrávas naděje naše",
+          "meta": {
+            "cantusId": "a00605"
+          },
           "blocks": [
             "page_0:block_5",
             "page_0:block_12",
@@ -4780,12 +4789,18 @@
         },
         {
           "workTitle": "Chvalte dítka Hospodina",
+          "meta": {
+            "cantusId": "920112"
+          },
           "blocks": [
             "page_0:block_13"
           ]
         },
         {
           "workTitle": "Chvalte Hospodina všichni národové",
+          "meta": {
+            "cantusId": "920116"
+          },
           "blocks": [
             "page_0:block_14"
           ]

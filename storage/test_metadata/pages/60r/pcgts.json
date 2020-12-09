@@ -4749,7 +4749,7 @@
     "works": {
       "works": [
         {
-          "workTitle": "Židovstvo a Jeruzaléme",
+          "workTitle": "\u017didovstvo a Jeruzal\u00e9me",
           "blocks": [
             "page_0:block_0",
             "page_0:block_1",
@@ -4759,7 +4759,13 @@
           ]
         },
         {
-          "workTitle": "Raduj se a vesel se, Jeruzaléme",
+          "workTitle": "Chvalte Hospodina v\u0161ichni n\u00e1rodov\u00e9",
+          "blocks": [
+            "page_0:block_14"
+          ]
+        },
+        {
+          "workTitle": "Raduj se a vesel se, Jeruzal\u00e9me",
           "blocks": [
             "page_0:block_2",
             "page_0:block_3",
@@ -4771,23 +4777,17 @@
           ]
         },
         {
-          "workTitle": "Zdrávas naděje naše",
-          "blocks": [
-            "page_0:block_5",
-            "page_0:block_12",
-            "page_0:block_16",
-          ]
-        },
-        {
-          "workTitle": "Chvalte dítka Hospodina",
+          "workTitle": "Chvalte d\u00edtka Hospodina",
           "blocks": [
             "page_0:block_13"
           ]
         },
         {
-          "workTitle": "Chvalte Hospodina všichni národové",
+          "workTitle": "Zdr\u00e1vas nad\u011bje na\u0161e",
           "blocks": [
-            "page_0:block_14"
+            "page_0:block_5",
+            "page_0:block_12",
+            "page_0:block_16"
           ]
         }
       ]

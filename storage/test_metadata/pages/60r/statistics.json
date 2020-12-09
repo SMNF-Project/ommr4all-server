@@ -3,14 +3,15 @@
     "Locked": 11,
     "Unlocked": 8,
     "LyricsEdit": 72,
-    "LyricsDeselect": 68,
+    "LyricsDeselect": 73,
     "ReadingOrderAuto": 2
   },
   "toolTiming": {
-    "View": 809800,
+    "View": 1042200,
     "Layout": 4400,
     "Symbol": 29400,
-    "Lyrics": 1083500
+    "Lyrics": 1117200,
+    "Work": 20200
   },
   "actionHistory": [
     {
@@ -656,6 +657,26 @@
     {
       "action": 404,
       "time": 49100
+    },
+    {
+      "action": 404,
+      "time": 150200
+    },
+    {
+      "action": 404,
+      "time": 154700
+    },
+    {
+      "action": 404,
+      "time": 31700
+    },
+    {
+      "action": 404,
+      "time": 33300
+    },
+    {
+      "action": 404,
+      "time": 38100
     }
   ]
 }

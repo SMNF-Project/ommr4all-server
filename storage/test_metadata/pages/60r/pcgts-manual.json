@@ -4744,7 +4744,9 @@
             }
           ]
         }
-      ],
+      ]
+    },
+    "works": {
       "works": [
         {
           "workTitle": "Židovstvo a Jeruzaléme",
@@ -4773,7 +4775,7 @@
           "blocks": [
             "page_0:block_5",
             "page_0:block_12",
-            "page_0:block_16",
+            "page_0:block_16"
           ]
         },
         {

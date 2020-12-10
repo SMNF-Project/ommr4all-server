@@ -2203,13 +2203,29 @@
             "sentence": {
               "syllables": [
                 {
-                  "id": "syl_0",
+                  "id": "syl_2",
                   "text": "Z",
                   "connection": 2,
                   "dropCapitalLength": 0
                 }
               ]
-            }
+            },
+            "readings": [
+              {
+                "readingName": "Transcription",
+                "coords": "0.20322301893621292,0.11974975409796297 0.17406503081496674,0.06993819105750079 0.1825694440169969,0.0310608735625059 0.0343496710673289,0.034705622077661674 0.056694310783583106,0.1670391690310691 0.0599593984585574,0.16740183020441568 0.066903369472206,0.16266730451329164 0.07321607039370473,0.16203603442114178 0.07700369094660396,0.16519238488189114 0.07416297553192955,0.1705581806651651 0.11502789668252124,0.15914845382161083 0.14198881229587704,0.15974673973951414 0.17875193249350965,0.16826888598353745 0.1922887733907456,0.13189891581514887",
+                "sentence": {
+                  "syllables": [
+                    {
+                      "id": "syl_1",
+                      "text": "Z",
+                      "connection": 2,
+                      "dropCapitalLength": 0
+                    }
+                  ]
+                }
+              }
+            ]
           }
         ]
       },
@@ -2225,103 +2241,103 @@
             "sentence": {
               "syllables": [
                 {
-                  "id": "syl_52",
+                  "id": "syl_54",
                   "text": "Zy",
                   "connection": 2,
                   "dropCapitalLength": 1
                 },
                 {
-                  "id": "syl_53",
+                  "id": "syl_55",
                   "text": "dow",
                   "connection": 1,
                   "dropCapitalLength": 0
                 },
                 {
-                  "id": "syl_54",
+                  "id": "syl_56",
                   "text": "stwo",
                   "connection": 1,
                   "dropCapitalLength": 0
                 },
                 {
-                  "id": "syl_55",
+                  "id": "syl_57",
                   "text": "a",
                   "connection": 2,
                   "dropCapitalLength": 0
                 },
                 {
-                  "id": "syl_56",
+                  "id": "syl_58",
                   "text": "ge",
                   "connection": 2,
                   "dropCapitalLength": 0
                 },
                 {
-                  "id": "syl_57",
+                  "id": "syl_59",
                   "text": "ru",
                   "connection": 1,
                   "dropCapitalLength": 0
                 },
                 {
-                  "id": "syl_58",
+                  "id": "syl_60",
                   "text": "sale",
                   "connection": 1,
                   "dropCapitalLength": 0
                 },
                 {
-                  "id": "syl_59",
+                  "id": "syl_61",
                   "text": "me",
                   "connection": 1,
                   "dropCapitalLength": 0
                 },
                 {
-                  "id": "syl_60",
+                  "id": "syl_62",
                   "text": "ne",
                   "connection": 2,
                   "dropCapitalLength": 0
                 },
                 {
-                  "id": "syl_61",
+                  "id": "syl_63",
                   "text": "rod",
                   "connection": 1,
                   "dropCapitalLength": 0
                 },
                 {
-                  "id": "syl_62",
+                  "id": "syl_64",
                   "text": "tes",
                   "connection": 1,
                   "dropCapitalLength": 0
                 },
                 {
-                  "id": "syl_63",
+                  "id": "syl_65",
                   "text": "se",
                   "connection": 1,
                   "dropCapitalLength": 0
                 },
                 {
-                  "id": "syl_64",
+                  "id": "syl_66",
                   "text": "ba",
                   "connection": 2,
                   "dropCapitalLength": 0
                 },
                 {
-                  "id": "syl_65",
+                  "id": "syl_67",
                   "text": "ty",
                   "connection": 1,
                   "dropCapitalLength": 0
                 },
                 {
-                  "id": "syl_66",
+                  "id": "syl_68",
                   "text": "zay",
                   "connection": 2,
                   "dropCapitalLength": 0
                 },
                 {
-                  "id": "syl_67",
+                  "id": "syl_69",
                   "text": "tra",
                   "connection": 1,
                   "dropCapitalLength": 0
                 },
                 {
-                  "id": "syl_68",
+                  "id": "syl_70",
                   "text": "wiu",
                   "connection": 2,
                   "dropCapitalLength": 0
@@ -2335,103 +2351,103 @@
                 "sentence": {
                   "syllables": [
                     {
-                      "id": "syl_18",
+                      "id": "syl_20",
                       "text": "Zy",
                       "connection": 2,
                       "dropCapitalLength": 1
                     },
                     {
-                      "id": "syl_19",
+                      "id": "syl_21",
                       "text": "dow",
                       "connection": 1,
                       "dropCapitalLength": 0
                     },
                     {
-                      "id": "syl_20",
+                      "id": "syl_22",
                       "text": "stwo",
                       "connection": 1,
                       "dropCapitalLength": 0
                     },
                     {
-                      "id": "syl_21",
+                      "id": "syl_23",
                       "text": "a",
                       "connection": 2,
                       "dropCapitalLength": 0
                     },
                     {
-                      "id": "syl_22",
+                      "id": "syl_24",
                       "text": "ge",
                       "connection": 2,
                       "dropCapitalLength": 0
                     },
                     {
-                      "id": "syl_23",
+                      "id": "syl_25",
                       "text": "ru",
                       "connection": 1,
                       "dropCapitalLength": 0
                     },
                     {
-                      "id": "syl_24",
+                      "id": "syl_26",
                       "text": "sale",
                       "connection": 1,
                       "dropCapitalLength": 0
                     },
                     {
-                      "id": "syl_25",
+                      "id": "syl_27",
                       "text": "me",
                       "connection": 1,
                       "dropCapitalLength": 0
                     },
                     {
-                      "id": "syl_26",
+                      "id": "syl_28",
                       "text": "ne",
                       "connection": 2,
                       "dropCapitalLength": 0
                     },
                     {
-                      "id": "syl_27",
+                      "id": "syl_29",
                       "text": "rod",
                       "connection": 1,
                       "dropCapitalLength": 0
                     },
                     {
-                      "id": "syl_28",
+                      "id": "syl_30",
                       "text": "tes",
                       "connection": 1,
                       "dropCapitalLength": 0
                     },
                     {
-                      "id": "syl_29",
+                      "id": "syl_31",
                       "text": "se",
                       "connection": 1,
                       "dropCapitalLength": 0
                     },
                     {
-                      "id": "syl_30",
+                      "id": "syl_32",
                       "text": "ba",
                       "connection": 2,
                       "dropCapitalLength": 0
                     },
                     {
-                      "id": "syl_31",
+                      "id": "syl_33",
                       "text": "ty",
                       "connection": 1,
                       "dropCapitalLength": 0
                     },
                     {
-                      "id": "syl_32",
+                      "id": "syl_34",
                       "text": "zay",
                       "connection": 2,
                       "dropCapitalLength": 0
                     },
                     {
-                      "id": "syl_33",
+                      "id": "syl_35",
                       "text": "tra",
                       "connection": 1,
                       "dropCapitalLength": 0
                     },
                     {
-                      "id": "syl_34",
+                      "id": "syl_36",
                       "text": "wiu",
                       "connection": 2,
                       "dropCapitalLength": 0
@@ -2445,104 +2461,104 @@
                 "sentence": {
                   "syllables": [
                     {
-                      "id": "syl_35",
-                      "text": "Zi",
+                      "id": "syl_37",
+                      "text": "\u017di",
                       "connection": 2,
                       "dropCapitalLength": 1
                     },
                     {
-                      "id": "syl_36",
+                      "id": "syl_38",
                       "text": "dow",
                       "connection": 1,
                       "dropCapitalLength": 0
                     },
                     {
-                      "id": "syl_37",
+                      "id": "syl_39",
                       "text": "stvo",
                       "connection": 1,
                       "dropCapitalLength": 0
                     },
                     {
-                      "id": "syl_38",
+                      "id": "syl_40",
                       "text": "a",
                       "connection": 2,
                       "dropCapitalLength": 0
                     },
                     {
-                      "id": "syl_39",
+                      "id": "syl_41",
                       "text": "Je",
                       "connection": 2,
                       "dropCapitalLength": 0
                     },
                     {
-                      "id": "syl_40",
+                      "id": "syl_42",
                       "text": "ru",
                       "connection": 1,
                       "dropCapitalLength": 0
                     },
                     {
-                      "id": "syl_41",
+                      "id": "syl_43",
                       "text": "zal\u00e9",
                       "connection": 1,
                       "dropCapitalLength": 0
                     },
                     {
-                      "id": "syl_42",
+                      "id": "syl_44",
                       "text": "me",
                       "connection": 1,
                       "dropCapitalLength": 0
                     },
                     {
-                      "id": "syl_43",
+                      "id": "syl_45",
                       "text": "ne",
                       "connection": 2,
                       "dropCapitalLength": 0
                     },
                     {
-                      "id": "syl_44",
+                      "id": "syl_46",
                       "text": "ro\u010f",
                       "connection": 1,
                       "dropCapitalLength": 0
                     },
                     {
-                      "id": "syl_45",
+                      "id": "syl_47",
                       "text": "te",
                       "connection": 1,
                       "dropCapitalLength": 0
                     },
                     {
-                      "id": "syl_46",
+                      "id": "syl_48",
                       "text": "se",
                       "connection": 2,
                       "dropCapitalLength": 0
                     },
                     {
-                      "id": "syl_47",
+                      "id": "syl_49",
                       "text": "b\u00e1",
                       "connection": 2,
                       "dropCapitalLength": 0
                     },
                     {
-                      "id": "syl_48",
+                      "id": "syl_50",
                       "text": "ti",
                       "connection": 1,
                       "dropCapitalLength": 0
                     },
                     {
-                      "id": "syl_49",
+                      "id": "syl_51",
                       "text": "z\u00ed",
                       "connection": 2,
                       "dropCapitalLength": 0
                     },
                     {
-                      "id": "syl_50",
+                      "id": "syl_52",
                       "text": "tra",
                       "connection": 1,
                       "dropCapitalLength": 0
                     },
                     {
-                      "id": "syl_51",
-                      "text": "vi",
+                      "id": "syl_53",
+                      "text": "vyn",
                       "connection": 2,
                       "dropCapitalLength": 0
                     }
@@ -2565,133 +2581,269 @@
             "sentence": {
               "syllables": [
                 {
-                  "id": "syl_69",
+                  "id": "syl_113",
                   "text": "dte",
                   "connection": 2,
                   "dropCapitalLength": 0
                 },
                 {
-                  "id": "syl_70",
+                  "id": "syl_114",
                   "text": "a",
                   "connection": 2,
                   "dropCapitalLength": 0
                 },
                 {
-                  "id": "syl_71",
+                  "id": "syl_115",
                   "text": "hos",
                   "connection": 2,
                   "dropCapitalLength": 0
                 },
                 {
-                  "id": "syl_72",
+                  "id": "syl_116",
                   "text": "po",
                   "connection": 1,
                   "dropCapitalLength": 0
                 },
                 {
-                  "id": "syl_73",
+                  "id": "syl_117",
                   "text": "dyn",
                   "connection": 1,
                   "dropCapitalLength": 0
                 },
                 {
-                  "id": "syl_74",
+                  "id": "syl_118",
                   "text": "bu",
                   "connection": 2,
                   "dropCapitalLength": 0
                 },
                 {
-                  "id": "syl_75",
+                  "id": "syl_119",
                   "text": "de",
                   "connection": 1,
                   "dropCapitalLength": 0
                 },
                 {
-                  "id": "syl_76",
+                  "id": "syl_120",
                   "text": "swa",
                   "connection": 2,
                   "dropCapitalLength": 0
                 },
                 {
-                  "id": "syl_77",
+                  "id": "syl_121",
                   "text": "my",
                   "connection": 1,
                   "dropCapitalLength": 0
                 },
                 {
-                  "id": "syl_78",
+                  "id": "syl_122",
                   "text": "chwal",
                   "connection": 2,
                   "dropCapitalLength": 0
                 },
                 {
-                  "id": "syl_79",
+                  "id": "syl_123",
                   "text": "mez",
                   "connection": 1,
                   "dropCapitalLength": 0
                 },
                 {
-                  "id": "syl_80",
+                  "id": "syl_124",
                   "text": "bo",
                   "connection": 2,
                   "dropCapitalLength": 0
                 },
                 {
-                  "id": "syl_81",
+                  "id": "syl_125",
                   "text": "ha",
                   "connection": 1,
                   "dropCapitalLength": 0
                 },
                 {
-                  "id": "syl_82",
+                  "id": "syl_126",
                   "text": "y",
                   "connection": 2,
                   "dropCapitalLength": 0
                 },
                 {
-                  "id": "syl_83",
+                  "id": "syl_127",
                   "text": "na",
                   "connection": 2,
                   "dropCapitalLength": 0
                 },
                 {
-                  "id": "syl_84",
+                  "id": "syl_128",
                   "text": "wye",
                   "connection": 2,
                   "dropCapitalLength": 0
                 },
                 {
-                  "id": "syl_85",
+                  "id": "syl_129",
                   "text": "ki",
                   "connection": 1,
                   "dropCapitalLength": 0
                 },
                 {
-                  "id": "syl_86",
+                  "id": "syl_130",
                   "text": "wye",
                   "connection": 2,
                   "dropCapitalLength": 0
                 },
                 {
-                  "id": "syl_87",
+                  "id": "syl_131",
                   "text": "kow",
                   "connection": 1,
                   "dropCapitalLength": 0
                 },
                 {
-                  "id": "syl_88",
+                  "id": "syl_132",
                   "text": "a",
                   "connection": 2,
                   "dropCapitalLength": 0
                 },
                 {
-                  "id": "syl_89",
+                  "id": "syl_133",
                   "text": "men",
                   "connection": 1,
                   "dropCapitalLength": 0
                 }
               ]
-            }
+            },
+            "readings": [
+              {
+                "readingName": "Transcription",
+                "coords": "0.06836732387544942,0.2691844432193496 0.06958224004716801,0.241241371269822 0.17855881343856667,0.23935023767517735 0.18101103553133888,0.24155723755867234 0.18308508815908225,0.24155723755867234 0.18493926703115496,0.23923951396858142 0.6296585952094381,0.23152204189607326 0.6296585952094381,0.2570352815021637",
+                "sentence": {
+                  "syllables": [
+                    {
+                      "id": "syl_92",
+                      "text": "\u010fte",
+                      "connection": 2,
+                      "dropCapitalLength": 0
+                    },
+                    {
+                      "id": "syl_93",
+                      "text": "a",
+                      "connection": 2,
+                      "dropCapitalLength": 0
+                    },
+                    {
+                      "id": "syl_94",
+                      "text": "Hos",
+                      "connection": 2,
+                      "dropCapitalLength": 0
+                    },
+                    {
+                      "id": "syl_95",
+                      "text": "po",
+                      "connection": 1,
+                      "dropCapitalLength": 0
+                    },
+                    {
+                      "id": "syl_96",
+                      "text": "din",
+                      "connection": 1,
+                      "dropCapitalLength": 0
+                    },
+                    {
+                      "id": "syl_97",
+                      "text": "bu",
+                      "connection": 2,
+                      "dropCapitalLength": 0
+                    },
+                    {
+                      "id": "syl_98",
+                      "text": "de",
+                      "connection": 1,
+                      "dropCapitalLength": 0
+                    },
+                    {
+                      "id": "syl_99",
+                      "text": "s v\u00e1",
+                      "connection": 2,
+                      "dropCapitalLength": 0
+                    },
+                    {
+                      "id": "syl_100",
+                      "text": "mi",
+                      "connection": 1,
+                      "dropCapitalLength": 0
+                    },
+                    {
+                      "id": "syl_101",
+                      "text": "Chwal",
+                      "connection": 2,
+                      "dropCapitalLength": 0
+                    },
+                    {
+                      "id": "syl_102",
+                      "text": "me\u017e",
+                      "connection": 1,
+                      "dropCapitalLength": 0
+                    },
+                    {
+                      "id": "syl_103",
+                      "text": "Bo",
+                      "connection": 2,
+                      "dropCapitalLength": 0
+                    },
+                    {
+                      "id": "syl_104",
+                      "text": "ha",
+                      "connection": 1,
+                      "dropCapitalLength": 0
+                    },
+                    {
+                      "id": "syl_105",
+                      "text": "y",
+                      "connection": 2,
+                      "dropCapitalLength": 0
+                    },
+                    {
+                      "id": "syl_106",
+                      "text": "na",
+                      "connection": 2,
+                      "dropCapitalLength": 0
+                    },
+                    {
+                      "id": "syl_107",
+                      "text": "v\u011b",
+                      "connection": 2,
+                      "dropCapitalLength": 0
+                    },
+                    {
+                      "id": "syl_108",
+                      "text": "ky",
+                      "connection": 1,
+                      "dropCapitalLength": 0
+                    },
+                    {
+                      "id": "syl_109",
+                      "text": "v\u011b",
+                      "connection": 2,
+                      "dropCapitalLength": 0
+                    },
+                    {
+                      "id": "syl_110",
+                      "text": "k\u00f3v",
+                      "connection": 1,
+                      "dropCapitalLength": 0
+                    },
+                    {
+                      "id": "syl_111",
+                      "text": "a",
+                      "connection": 2,
+                      "dropCapitalLength": 0
+                    },
+                    {
+                      "id": "syl_112",
+                      "text": "men",
+                      "connection": 1,
+                      "dropCapitalLength": 0
+                    }
+                  ]
+                }
+              }
+            ]
           }
         ]
       },
@@ -2707,127 +2859,257 @@
             "sentence": {
               "syllables": [
                 {
-                  "id": "syl_90",
+                  "id": "syl_174",
                   "text": "Ra",
                   "connection": 2,
                   "dropCapitalLength": 1
                 },
                 {
-                  "id": "syl_91",
+                  "id": "syl_175",
                   "text": "dug",
                   "connection": 1,
                   "dropCapitalLength": 0
                 },
                 {
-                  "id": "syl_92",
+                  "id": "syl_176",
                   "text": "sse",
                   "connection": 2,
                   "dropCapitalLength": 0
                 },
                 {
-                  "id": "syl_93",
+                  "id": "syl_177",
                   "text": "a",
                   "connection": 2,
                   "dropCapitalLength": 0
                 },
                 {
-                  "id": "syl_94",
+                  "id": "syl_178",
                   "text": "wes",
                   "connection": 2,
                   "dropCapitalLength": 0
                 },
                 {
-                  "id": "syl_95",
+                  "id": "syl_179",
                   "text": "sel",
                   "connection": 1,
                   "dropCapitalLength": 0
                 },
                 {
-                  "id": "syl_96",
+                  "id": "syl_180",
                   "text": "sse",
                   "connection": 2,
                   "dropCapitalLength": 0
                 },
                 {
-                  "id": "syl_97",
+                  "id": "syl_181",
                   "text": "ge",
                   "connection": 2,
                   "dropCapitalLength": 0
                 },
                 {
-                  "id": "syl_98",
+                  "id": "syl_182",
                   "text": "ru",
                   "connection": 1,
                   "dropCapitalLength": 0
                 },
                 {
-                  "id": "syl_99",
+                  "id": "syl_183",
                   "text": "za",
                   "connection": 1,
                   "dropCapitalLength": 0
                 },
                 {
-                  "id": "syl_100",
+                  "id": "syl_184",
                   "text": "le",
                   "connection": 1,
                   "dropCapitalLength": 0
                 },
                 {
-                  "id": "syl_101",
+                  "id": "syl_185",
                   "text": "me",
                   "connection": 1,
                   "dropCapitalLength": 0
                 },
                 {
-                  "id": "syl_102",
+                  "id": "syl_186",
                   "text": "a",
                   "connection": 2,
                   "dropCapitalLength": 0
                 },
                 {
-                  "id": "syl_103",
+                  "id": "syl_187",
                   "text": "ay",
                   "connection": 2,
                   "dropCapitalLength": 0
                 },
                 {
-                  "id": "syl_104",
+                  "id": "syl_188",
                   "text": "kral",
                   "connection": 2,
                   "dropCapitalLength": 0
                 },
                 {
-                  "id": "syl_105",
+                  "id": "syl_189",
                   "text": "twoy",
                   "connection": 2,
                   "dropCapitalLength": 0
                 },
                 {
-                  "id": "syl_106",
+                  "id": "syl_190",
                   "text": "prig",
                   "connection": 2,
                   "dropCapitalLength": 0
                 },
                 {
-                  "id": "syl_107",
+                  "id": "syl_191",
                   "text": "de",
                   "connection": 1,
                   "dropCapitalLength": 0
                 },
                 {
-                  "id": "syl_108",
+                  "id": "syl_192",
                   "text": "o",
                   "connection": 2,
                   "dropCapitalLength": 0
                 },
                 {
-                  "id": "syl_109",
+                  "id": "syl_193",
                   "text": "nyemz",
                   "connection": 2,
                   "dropCapitalLength": 0
                 }
               ]
-            }
+            },
+            "readings": [
+              {
+                "readingName": "Transcription",
+                "coords": "0.6442375892700611,0.5206720907650977 0.6405928407549054,0.5510449950580625 0.15584128823918791,0.5510449950580625 0.15584128823918791,0.5291765039671278",
+                "sentence": {
+                  "syllables": [
+                    {
+                      "id": "syl_154",
+                      "text": "Ra",
+                      "connection": 2,
+                      "dropCapitalLength": 1
+                    },
+                    {
+                      "id": "syl_155",
+                      "text": "duj",
+                      "connection": 1,
+                      "dropCapitalLength": 0
+                    },
+                    {
+                      "id": "syl_156",
+                      "text": "se",
+                      "connection": 2,
+                      "dropCapitalLength": 0
+                    },
+                    {
+                      "id": "syl_157",
+                      "text": "a",
+                      "connection": 2,
+                      "dropCapitalLength": 0
+                    },
+                    {
+                      "id": "syl_158",
+                      "text": "ve",
+                      "connection": 2,
+                      "dropCapitalLength": 0
+                    },
+                    {
+                      "id": "syl_159",
+                      "text": "sel",
+                      "connection": 1,
+                      "dropCapitalLength": 0
+                    },
+                    {
+                      "id": "syl_160",
+                      "text": "se,",
+                      "connection": 2,
+                      "dropCapitalLength": 0
+                    },
+                    {
+                      "id": "syl_161",
+                      "text": "Je",
+                      "connection": 2,
+                      "dropCapitalLength": 0
+                    },
+                    {
+                      "id": "syl_162",
+                      "text": "ru",
+                      "connection": 1,
+                      "dropCapitalLength": 0
+                    },
+                    {
+                      "id": "syl_163",
+                      "text": "za",
+                      "connection": 1,
+                      "dropCapitalLength": 0
+                    },
+                    {
+                      "id": "syl_164",
+                      "text": "l\u00e9",
+                      "connection": 1,
+                      "dropCapitalLength": 0
+                    },
+                    {
+                      "id": "syl_165",
+                      "text": "me,",
+                      "connection": 1,
+                      "dropCapitalLength": 0
+                    },
+                    {
+                      "id": "syl_166",
+                      "text": "a",
+                      "connection": 2,
+                      "dropCapitalLength": 0
+                    },
+                    {
+                      "id": "syl_167",
+                      "text": "aj,",
+                      "connection": 2,
+                      "dropCapitalLength": 0
+                    },
+                    {
+                      "id": "syl_168",
+                      "text": "kr\u00e1l",
+                      "connection": 2,
+                      "dropCapitalLength": 0
+                    },
+                    {
+                      "id": "syl_169",
+                      "text": "tv\u00f3j",
+                      "connection": 2,
+                      "dropCapitalLength": 0
+                    },
+                    {
+                      "id": "syl_170",
+                      "text": "p\u0159ij",
+                      "connection": 2,
+                      "dropCapitalLength": 0
+                    },
+                    {
+                      "id": "syl_171",
+                      "text": "de",
+                      "connection": 1,
+                      "dropCapitalLength": 0
+                    },
+                    {
+                      "id": "syl_172",
+                      "text": "o",
+                      "connection": 2,
+                      "dropCapitalLength": 0
+                    },
+                    {
+                      "id": "syl_173",
+                      "text": "n\u011bm\u017e",
+                      "connection": 2,
+                      "dropCapitalLength": 0
+                    }
+                  ]
+                }
+              }
+            ]
           }
         ]
       },
@@ -2843,145 +3125,293 @@
             "sentence": {
               "syllables": [
                 {
-                  "id": "syl_110",
+                  "id": "syl_240",
                   "text": "pro",
                   "connection": 2,
                   "dropCapitalLength": 0
                 },
                 {
-                  "id": "syl_111",
+                  "id": "syl_241",
                   "text": "ro",
                   "connection": 1,
                   "dropCapitalLength": 0
                 },
                 {
-                  "id": "syl_112",
+                  "id": "syl_242",
                   "text": "ko",
                   "connection": 1,
                   "dropCapitalLength": 0
                 },
                 {
-                  "id": "syl_113",
+                  "id": "syl_243",
                   "text": "we",
                   "connection": 1,
                   "dropCapitalLength": 0
                 },
                 {
-                  "id": "syl_114",
+                  "id": "syl_244",
                   "text": "zwyes",
                   "connection": 2,
                   "dropCapitalLength": 0
                 },
                 {
-                  "id": "syl_115",
+                  "id": "syl_245",
                   "text": "to",
                   "connection": 1,
                   "dropCapitalLength": 0
                 },
                 {
-                  "id": "syl_116",
+                  "id": "syl_246",
                   "text": "va",
                   "connection": 1,
                   "dropCapitalLength": 0
                 },
                 {
-                  "id": "syl_117",
+                  "id": "syl_247",
                   "text": "li",
                   "connection": 1,
                   "dropCapitalLength": 0
                 },
                 {
-                  "id": "syl_118",
+                  "id": "syl_248",
                   "text": "ge",
                   "connection": 2,
                   "dropCapitalLength": 0
                 },
                 {
-                  "id": "syl_119",
+                  "id": "syl_249",
                   "text": "muz",
                   "connection": 1,
                   "dropCapitalLength": 0
                 },
                 {
-                  "id": "syl_120",
+                  "id": "syl_250",
                   "text": "an",
                   "connection": 2,
                   "dropCapitalLength": 0
                 },
                 {
-                  "id": "syl_121",
+                  "id": "syl_251",
                   "text": "ge",
                   "connection": 1,
                   "dropCapitalLength": 0
                 },
                 {
-                  "id": "syl_122",
+                  "id": "syl_252",
                   "text": "le",
                   "connection": 1,
                   "dropCapitalLength": 0
                 },
                 {
-                  "id": "syl_123",
+                  "id": "syl_253",
                   "text": "kla",
                   "connection": 2,
                   "dropCapitalLength": 0
                 },
                 {
-                  "id": "syl_124",
+                  "id": "syl_254",
                   "text": "nye",
                   "connection": 1,
                   "dropCapitalLength": 0
                 },
                 {
-                  "id": "syl_125",
+                  "id": "syl_255",
                   "text": "li",
                   "connection": 1,
                   "dropCapitalLength": 0
                 },
                 {
-                  "id": "syl_126",
+                  "id": "syl_256",
                   "text": "ssu",
                   "connection": 2,
                   "dropCapitalLength": 0
                 },
                 {
-                  "id": "syl_127",
+                  "id": "syl_257",
                   "text": "sse",
                   "connection": 2,
                   "dropCapitalLength": 0
                 },
                 {
-                  "id": "syl_128",
+                  "id": "syl_258",
                   "text": "ge",
                   "connection": 2,
                   "dropCapitalLength": 0
                 },
                 {
-                  "id": "syl_129",
+                  "id": "syl_259",
                   "text": "muz",
                   "connection": 1,
                   "dropCapitalLength": 0
                 },
                 {
-                  "id": "syl_130",
+                  "id": "syl_260",
                   "text": "che",
                   "connection": 2,
                   "dropCapitalLength": 0
                 },
                 {
-                  "id": "syl_131",
+                  "id": "syl_261",
                   "text": "ru",
                   "connection": 1,
                   "dropCapitalLength": 0
                 },
                 {
-                  "id": "syl_132",
+                  "id": "syl_262",
                   "text": "bin",
                   "connection": 1,
                   "dropCapitalLength": 0
                 }
               ]
-            }
+            },
+            "readings": [
+              {
+                "readingName": "Transcription",
+                "coords": "0.6430226730983426,0.6251548815328966 0.07201207239060518,0.6360891270783637 0.07412259957755113,0.6561391353543503 0.07822828038198232,0.654907431113021 0.08225856238326339,0.6557134875132772 0.0855273019624469,0.6589822270924607 0.6405928407549054,0.6494532049672682",
+                "sentence": {
+                  "syllables": [
+                    {
+                      "id": "syl_217",
+                      "text": "pro",
+                      "connection": 2,
+                      "dropCapitalLength": 0
+                    },
+                    {
+                      "id": "syl_218",
+                      "text": "ro",
+                      "connection": 1,
+                      "dropCapitalLength": 0
+                    },
+                    {
+                      "id": "syl_219",
+                      "text": "ko",
+                      "connection": 1,
+                      "dropCapitalLength": 0
+                    },
+                    {
+                      "id": "syl_220",
+                      "text": "v\u00e9",
+                      "connection": 1,
+                      "dropCapitalLength": 0
+                    },
+                    {
+                      "id": "syl_221",
+                      "text": "zv\u011bs",
+                      "connection": 2,
+                      "dropCapitalLength": 0
+                    },
+                    {
+                      "id": "syl_222",
+                      "text": "to",
+                      "connection": 1,
+                      "dropCapitalLength": 0
+                    },
+                    {
+                      "id": "syl_223",
+                      "text": "va",
+                      "connection": 1,
+                      "dropCapitalLength": 0
+                    },
+                    {
+                      "id": "syl_224",
+                      "text": "li",
+                      "connection": 1,
+                      "dropCapitalLength": 0
+                    },
+                    {
+                      "id": "syl_225",
+                      "text": "je",
+                      "connection": 2,
+                      "dropCapitalLength": 0
+                    },
+                    {
+                      "id": "syl_226",
+                      "text": "mu\u017e",
+                      "connection": 1,
+                      "dropCapitalLength": 0
+                    },
+                    {
+                      "id": "syl_227",
+                      "text": "an",
+                      "connection": 2,
+                      "dropCapitalLength": 0
+                    },
+                    {
+                      "id": "syl_228",
+                      "text": "je",
+                      "connection": 1,
+                      "dropCapitalLength": 0
+                    },
+                    {
+                      "id": "syl_229",
+                      "text": "l\u00e9",
+                      "connection": 1,
+                      "dropCapitalLength": 0
+                    },
+                    {
+                      "id": "syl_230",
+                      "text": "kla",
+                      "connection": 2,
+                      "dropCapitalLength": 0
+                    },
+                    {
+                      "id": "syl_231",
+                      "text": "n\u011b",
+                      "connection": 1,
+                      "dropCapitalLength": 0
+                    },
+                    {
+                      "id": "syl_232",
+                      "text": "li",
+                      "connection": 1,
+                      "dropCapitalLength": 0
+                    },
+                    {
+                      "id": "syl_233",
+                      "text": "s\u00fa",
+                      "connection": 2,
+                      "dropCapitalLength": 0
+                    },
+                    {
+                      "id": "syl_234",
+                      "text": "se",
+                      "connection": 2,
+                      "dropCapitalLength": 0
+                    },
+                    {
+                      "id": "syl_235",
+                      "text": "je",
+                      "connection": 2,
+                      "dropCapitalLength": 0
+                    },
+                    {
+                      "id": "syl_236",
+                      "text": "mu\u017e",
+                      "connection": 1,
+                      "dropCapitalLength": 0
+                    },
+                    {
+                      "id": "syl_237",
+                      "text": "che",
+                      "connection": 2,
+                      "dropCapitalLength": 0
+                    },
+                    {
+                      "id": "syl_238",
+                      "text": "ru",
+                      "connection": 1,
+                      "dropCapitalLength": 0
+                    },
+                    {
+                      "id": "syl_239",
+                      "text": "bin",
+                      "connection": 1,
+                      "dropCapitalLength": 0
+                    }
+                  ]
+                }
+              }
+            ]
           }
         ]
       },
@@ -2997,127 +3427,257 @@
             "sentence": {
               "syllables": [
                 {
-                  "id": "syl_133",
+                  "id": "syl_303",
                   "text": "a",
                   "connection": 2,
                   "dropCapitalLength": 0
                 },
                 {
-                  "id": "syl_134",
+                  "id": "syl_304",
                   "text": "se",
                   "connection": 2,
                   "dropCapitalLength": 0
                 },
                 {
-                  "id": "syl_135",
+                  "id": "syl_305",
                   "text": "ra",
                   "connection": 1,
                   "dropCapitalLength": 0
                 },
                 {
-                  "id": "syl_136",
+                  "id": "syl_306",
                   "text": "phin",
                   "connection": 1,
                   "dropCapitalLength": 0
                 },
                 {
-                  "id": "syl_137",
+                  "id": "syl_307",
                   "text": "Swa",
                   "connection": 2,
                   "dropCapitalLength": 0
                 },
                 {
-                  "id": "syl_138",
+                  "id": "syl_308",
                   "text": "ti",
                   "connection": 1,
                   "dropCapitalLength": 0
                 },
                 {
-                  "id": "syl_139",
+                  "id": "syl_309",
                   "text": "Swa",
                   "connection": 2,
                   "dropCapitalLength": 0
                 },
                 {
-                  "id": "syl_140",
+                  "id": "syl_310",
                   "text": "ti",
                   "connection": 1,
                   "dropCapitalLength": 0
                 },
                 {
-                  "id": "syl_141",
+                  "id": "syl_311",
                   "text": "Swa",
                   "connection": 2,
                   "dropCapitalLength": 0
                 },
                 {
-                  "id": "syl_142",
+                  "id": "syl_312",
                   "text": "ti",
                   "connection": 1,
                   "dropCapitalLength": 0
                 },
                 {
-                  "id": "syl_143",
+                  "id": "syl_313",
                   "text": "pro",
                   "connection": 2,
                   "dropCapitalLength": 0
                 },
                 {
-                  "id": "syl_144",
+                  "id": "syl_314",
                   "text": "zpye",
                   "connection": 1,
                   "dropCapitalLength": 0
                 },
                 {
-                  "id": "syl_145",
+                  "id": "syl_315",
                   "text": "wa",
                   "connection": 1,
                   "dropCapitalLength": 0
                 },
                 {
-                  "id": "syl_146",
+                  "id": "syl_316",
                   "text": "gi",
                   "connection": 1,
                   "dropCapitalLength": 0
                 },
                 {
-                  "id": "syl_147",
+                  "id": "syl_317",
                   "text": "e",
                   "connection": 2,
                   "dropCapitalLength": 0
                 },
                 {
-                  "id": "syl_148",
+                  "id": "syl_318",
                   "text": "u",
                   "connection": 2,
                   "dropCapitalLength": 0
                 },
                 {
-                  "id": "syl_149",
+                  "id": "syl_319",
                   "text": "o",
                   "connection": 2,
                   "dropCapitalLength": 0
                 },
                 {
-                  "id": "syl_150",
+                  "id": "syl_320",
                   "text": "u",
                   "connection": 2,
                   "dropCapitalLength": 0
                 },
                 {
-                  "id": "syl_151",
+                  "id": "syl_321",
                   "text": "a",
                   "connection": 2,
                   "dropCapitalLength": 0
                 },
                 {
-                  "id": "syl_152",
+                  "id": "syl_322",
                   "text": "e",
                   "connection": 2,
                   "dropCapitalLength": 0
                 }
               ]
-            }
+            },
+            "readings": [
+              {
+                "readingName": "Transcription",
+                "coords": "0.5306443263538194,0.7404641875033444 0.5369554337617329,0.7617641750050524 0.35235554208026315,0.7649197287090093 0.07782236983602599,0.7672863939869768 0.0770334814100368,0.7412530759293335",
+                "sentence": {
+                  "syllables": [
+                    {
+                      "id": "syl_283",
+                      "text": "a",
+                      "connection": 2,
+                      "dropCapitalLength": 0
+                    },
+                    {
+                      "id": "syl_284",
+                      "text": "se",
+                      "connection": 2,
+                      "dropCapitalLength": 0
+                    },
+                    {
+                      "id": "syl_285",
+                      "text": "ra",
+                      "connection": 1,
+                      "dropCapitalLength": 0
+                    },
+                    {
+                      "id": "syl_286",
+                      "text": "fin",
+                      "connection": 1,
+                      "dropCapitalLength": 0
+                    },
+                    {
+                      "id": "syl_287",
+                      "text": "Sva",
+                      "connection": 2,
+                      "dropCapitalLength": 0
+                    },
+                    {
+                      "id": "syl_288",
+                      "text": "t\u00fd",
+                      "connection": 1,
+                      "dropCapitalLength": 0
+                    },
+                    {
+                      "id": "syl_289",
+                      "text": "Sva",
+                      "connection": 2,
+                      "dropCapitalLength": 0
+                    },
+                    {
+                      "id": "syl_290",
+                      "text": "t\u00fd",
+                      "connection": 1,
+                      "dropCapitalLength": 0
+                    },
+                    {
+                      "id": "syl_291",
+                      "text": "Sva",
+                      "connection": 2,
+                      "dropCapitalLength": 0
+                    },
+                    {
+                      "id": "syl_292",
+                      "text": "t\u00fd",
+                      "connection": 1,
+                      "dropCapitalLength": 0
+                    },
+                    {
+                      "id": "syl_293",
+                      "text": "pro",
+                      "connection": 2,
+                      "dropCapitalLength": 0
+                    },
+                    {
+                      "id": "syl_294",
+                      "text": "zp\u011b",
+                      "connection": 1,
+                      "dropCapitalLength": 0
+                    },
+                    {
+                      "id": "syl_295",
+                      "text": "va",
+                      "connection": 1,
+                      "dropCapitalLength": 0
+                    },
+                    {
+                      "id": "syl_296",
+                      "text": "j\u00ed",
+                      "connection": 1,
+                      "dropCapitalLength": 0
+                    },
+                    {
+                      "id": "syl_297",
+                      "text": "Sae",
+                      "connection": 2,
+                      "dropCapitalLength": 0
+                    },
+                    {
+                      "id": "syl_298",
+                      "text": "cu",
+                      "connection": 1,
+                      "dropCapitalLength": 0
+                    },
+                    {
+                      "id": "syl_299",
+                      "text": "lo",
+                      "connection": 1,
+                      "dropCapitalLength": 0
+                    },
+                    {
+                      "id": "syl_300",
+                      "text": "rum",
+                      "connection": 1,
+                      "dropCapitalLength": 0
+                    },
+                    {
+                      "id": "syl_301",
+                      "text": "a",
+                      "connection": 2,
+                      "dropCapitalLength": 0
+                    },
+                    {
+                      "id": "syl_302",
+                      "text": "men",
+                      "connection": 1,
+                      "dropCapitalLength": 0
+                    }
+                  ]
+                }
+              }
+            ]
           }
         ]
       },
@@ -3133,109 +3693,221 @@
             "sentence": {
               "syllables": [
                 {
-                  "id": "syl_153",
+                  "id": "syl_357",
                   "text": "Zdra",
                   "connection": 2,
                   "dropCapitalLength": 1
                 },
                 {
-                  "id": "syl_154",
+                  "id": "syl_358",
                   "text": "wa",
                   "connection": 1,
                   "dropCapitalLength": 0
                 },
                 {
-                  "id": "syl_155",
+                  "id": "syl_359",
                   "text": "na",
                   "connection": 2,
                   "dropCapitalLength": 0
                 },
                 {
-                  "id": "syl_156",
+                  "id": "syl_360",
                   "text": "dye",
                   "connection": 1,
                   "dropCapitalLength": 0
                 },
                 {
-                  "id": "syl_157",
+                  "id": "syl_361",
                   "text": "ge",
                   "connection": 1,
                   "dropCapitalLength": 0
                 },
                 {
-                  "id": "syl_158",
+                  "id": "syl_362",
                   "text": "na",
                   "connection": 2,
                   "dropCapitalLength": 0
                 },
                 {
-                  "id": "syl_159",
+                  "id": "syl_363",
                   "text": "ssie",
                   "connection": 1,
                   "dropCapitalLength": 0
                 },
                 {
-                  "id": "syl_160",
+                  "id": "syl_364",
                   "text": "bo",
                   "connection": 2,
                   "dropCapitalLength": 0
                 },
                 {
-                  "id": "syl_161",
+                  "id": "syl_365",
                   "text": "zye",
                   "connection": 1,
                   "dropCapitalLength": 0
                 },
                 {
-                  "id": "syl_162",
+                  "id": "syl_366",
                   "text": "ro",
                   "connection": 2,
                   "dropCapitalLength": 0
                 },
                 {
-                  "id": "syl_163",
+                  "id": "syl_367",
                   "text": "dy",
                   "connection": 1,
                   "dropCapitalLength": 0
                 },
                 {
-                  "id": "syl_164",
+                  "id": "syl_368",
                   "text": "ce",
                   "connection": 1,
                   "dropCapitalLength": 0
                 },
                 {
-                  "id": "syl_165",
+                  "id": "syl_369",
                   "text": "ne",
                   "connection": 2,
                   "dropCapitalLength": 0
                 },
                 {
-                  "id": "syl_166",
+                  "id": "syl_370",
                   "text": "po",
                   "connection": 1,
                   "dropCapitalLength": 0
                 },
                 {
-                  "id": "syl_167",
+                  "id": "syl_371",
                   "text": "skvr",
                   "connection": 1,
                   "dropCapitalLength": 0
                 },
                 {
-                  "id": "syl_168",
+                  "id": "syl_372",
                   "text": "nye",
                   "connection": 1,
                   "dropCapitalLength": 0
                 },
                 {
-                  "id": "syl_169",
+                  "id": "syl_373",
                   "text": "na",
                   "connection": 1,
                   "dropCapitalLength": 0
                 }
               ]
-            }
+            },
+            "readings": [
+              {
+                "readingName": "Transcription",
+                "coords": "0.5756109666352031,0.8800974389034305 0.29786494096115385,0.8892875647529396 0.2932709706678512,0.8860717855476278 0.27298869316315455,0.8838986843864103 0.24908458038976206,0.8838986843864103 0.24328964395984876,0.8875205196551061 0.24035365018455435,0.8911905118742242 0.23318151610194696,0.8914278251343104 0.23025103699254376,0.8875205196551061 0.21866116413271708,0.8846230514401494 0.14664704588978944,0.8853024299141393 0.14724455132307446,0.8572196745497441 0.4332360341252179,0.8555728905796742 0.4345225461469886,0.860718938666757 0.4381443814156844,0.860718938666757 0.44260150364534795,0.8555189627321494 0.558255421263441,0.8548530092717767 0.5763998550611923,0.8658974472356252",
+                "sentence": {
+                  "syllables": [
+                    {
+                      "id": "syl_340",
+                      "text": "Zdr\u00e1",
+                      "connection": 2,
+                      "dropCapitalLength": 1
+                    },
+                    {
+                      "id": "syl_341",
+                      "text": "va",
+                      "connection": 1,
+                      "dropCapitalLength": 0
+                    },
+                    {
+                      "id": "syl_342",
+                      "text": "na",
+                      "connection": 2,
+                      "dropCapitalLength": 0
+                    },
+                    {
+                      "id": "syl_343",
+                      "text": "d\u011b",
+                      "connection": 1,
+                      "dropCapitalLength": 0
+                    },
+                    {
+                      "id": "syl_344",
+                      "text": "je",
+                      "connection": 1,
+                      "dropCapitalLength": 0
+                    },
+                    {
+                      "id": "syl_345",
+                      "text": "na",
+                      "connection": 2,
+                      "dropCapitalLength": 0
+                    },
+                    {
+                      "id": "syl_346",
+                      "text": "\u0161e",
+                      "connection": 1,
+                      "dropCapitalLength": 0
+                    },
+                    {
+                      "id": "syl_347",
+                      "text": "Bo",
+                      "connection": 2,
+                      "dropCapitalLength": 0
+                    },
+                    {
+                      "id": "syl_348",
+                      "text": "\u017e\u00ed",
+                      "connection": 1,
+                      "dropCapitalLength": 0
+                    },
+                    {
+                      "id": "syl_349",
+                      "text": "ro",
+                      "connection": 2,
+                      "dropCapitalLength": 0
+                    },
+                    {
+                      "id": "syl_350",
+                      "text": "di",
+                      "connection": 1,
+                      "dropCapitalLength": 0
+                    },
+                    {
+                      "id": "syl_351",
+                      "text": "ce",
+                      "connection": 1,
+                      "dropCapitalLength": 0
+                    },
+                    {
+                      "id": "syl_352",
+                      "text": "ne",
+                      "connection": 2,
+                      "dropCapitalLength": 0
+                    },
+                    {
+                      "id": "syl_353",
+                      "text": "po",
+                      "connection": 1,
+                      "dropCapitalLength": 0
+                    },
+                    {
+                      "id": "syl_354",
+                      "text": "skvr",
+                      "connection": 1,
+                      "dropCapitalLength": 0
+                    },
+                    {
+                      "id": "syl_355",
+                      "text": "n\u011b",
+                      "connection": 1,
+                      "dropCapitalLength": 0
+                    },
+                    {
+                      "id": "syl_356",
+                      "text": "n\u00e1",
+                      "connection": 1,
+                      "dropCapitalLength": 0
+                    }
+                  ]
+                }
+              }
+            ]
           }
         ]
       },
@@ -3251,157 +3923,317 @@
             "sentence": {
               "syllables": [
                 {
-                  "id": "syl_170",
+                  "id": "syl_424",
                   "text": "Chwalte",
                   "connection": 2,
                   "dropCapitalLength": 0
                 },
                 {
-                  "id": "syl_171",
+                  "id": "syl_425",
                   "text": "ho\u222bpodyna",
                   "connection": 2,
                   "dropCapitalLength": 0
                 },
                 {
-                  "id": "syl_172",
+                  "id": "syl_426",
                   "text": "w\u222b\u222bi\u010bkni",
                   "connection": 2,
                   "dropCapitalLength": 0
                 },
                 {
-                  "id": "syl_173",
+                  "id": "syl_427",
                   "text": "narodowe,",
                   "connection": 2,
                   "dropCapitalLength": 0
                 },
                 {
-                  "id": "syl_174",
+                  "id": "syl_428",
                   "text": "chwalte",
                   "connection": 2,
                   "dropCapitalLength": 0
                 },
                 {
-                  "id": "syl_175",
+                  "id": "syl_429",
                   "text": "geho",
                   "connection": 2,
                   "dropCapitalLength": 0
                 },
                 {
-                  "id": "syl_176",
+                  "id": "syl_430",
                   "text": "w\u222b\u222bi\u010bkny",
                   "connection": 2,
                   "dropCapitalLength": 0
                 },
                 {
-                  "id": "syl_177",
+                  "id": "syl_431",
                   "text": "lyde",
                   "connection": 2,
                   "dropCapitalLength": 0
                 },
                 {
-                  "id": "syl_178",
+                  "id": "syl_432",
                   "text": "A",
                   "connection": 2,
                   "dropCapitalLength": 0
                 },
                 {
-                  "id": "syl_179",
+                  "id": "syl_433",
                   "text": "prawda",
                   "connection": 2,
                   "dropCapitalLength": 0
                 },
                 {
-                  "id": "syl_180",
+                  "id": "syl_434",
                   "text": "bozie",
                   "connection": 2,
                   "dropCapitalLength": 0
                 },
                 {
-                  "id": "syl_181",
+                  "id": "syl_435",
                   "text": "zuo\u222btawa",
                   "connection": 2,
                   "dropCapitalLength": 0
                 },
                 {
-                  "id": "syl_182",
+                  "id": "syl_436",
                   "text": "na",
                   "connection": 2,
                   "dropCapitalLength": 0
                 },
                 {
-                  "id": "syl_183",
+                  "id": "syl_437",
                   "text": "wyeky",
                   "connection": 2,
                   "dropCapitalLength": 0
                 },
                 {
-                  "id": "syl_184",
+                  "id": "syl_438",
                   "text": "Nebo",
                   "connection": 2,
                   "dropCapitalLength": 0
                 },
                 {
-                  "id": "syl_185",
+                  "id": "syl_439",
                   "text": "potwrzeno",
                   "connection": 2,
                   "dropCapitalLength": 0
                 },
                 {
-                  "id": "syl_186",
+                  "id": "syl_440",
                   "text": "ge\u222bt",
                   "connection": 2,
                   "dropCapitalLength": 0
                 },
                 {
-                  "id": "syl_187",
+                  "id": "syl_441",
                   "text": "nad",
                   "connection": 2,
                   "dropCapitalLength": 0
                 },
                 {
-                  "id": "syl_188",
+                  "id": "syl_442",
                   "text": "namy",
                   "connection": 2,
                   "dropCapitalLength": 0
                 },
                 {
-                  "id": "syl_189",
+                  "id": "syl_443",
                   "text": "mylo\u222brden\u222btwye",
                   "connection": 2,
                   "dropCapitalLength": 0
                 },
                 {
-                  "id": "syl_190",
+                  "id": "syl_444",
                   "text": "geho",
                   "connection": 2,
                   "dropCapitalLength": 0
                 },
                 {
-                  "id": "syl_191",
+                  "id": "syl_445",
                   "text": "Chwala",
                   "connection": 2,
                   "dropCapitalLength": 0
                 },
                 {
-                  "id": "syl_192",
+                  "id": "syl_446",
                   "text": "ot\u010bi",
                   "connection": 2,
                   "dropCapitalLength": 0
                 },
                 {
-                  "id": "syl_193",
+                  "id": "syl_447",
                   "text": "y",
                   "connection": 2,
                   "dropCapitalLength": 0
                 },
                 {
-                  "id": "syl_194",
+                  "id": "syl_448",
                   "text": "\u222binu",
                   "connection": 2,
                   "dropCapitalLength": 0
                 }
               ]
-            }
+            },
+            "readings": [
+              {
+                "readingName": "Transcription",
+                "coords": "0.5606220865414085,0.8643196703836468 0.5589735884613926,0.8066222375830875 0.5620111476050818,0.799872106152667 0.5587807275633805,0.799872106152667 0.558255421263441,0.7814863856547821 0.5266998842238735,0.7806974972287929 0.4257221656972575,0.7838530509327497 0.07624459298404761,0.7830641625067606 0.0770334814100368,0.76413084028302 0.5361665453357438,0.7586086213010957 0.5361665453357438,0.7365197453733985 0.5385332106137113,0.6986531009259176 0.5369554337617329,0.6536864606445338 0.6347775985843921,0.6505309069405771 0.6363553754363706,0.8635307819576576",
+                "sentence": {
+                  "syllables": [
+                    {
+                      "id": "syl_399",
+                      "text": "Chvalte",
+                      "connection": 2,
+                      "dropCapitalLength": 0
+                    },
+                    {
+                      "id": "syl_400",
+                      "text": "Hospodina",
+                      "connection": 2,
+                      "dropCapitalLength": 0
+                    },
+                    {
+                      "id": "syl_401",
+                      "text": "v\u0161ickni",
+                      "connection": 2,
+                      "dropCapitalLength": 0
+                    },
+                    {
+                      "id": "syl_402",
+                      "text": "n\u00e1rodov\u00e9,",
+                      "connection": 2,
+                      "dropCapitalLength": 0
+                    },
+                    {
+                      "id": "syl_403",
+                      "text": "chvalte",
+                      "connection": 2,
+                      "dropCapitalLength": 0
+                    },
+                    {
+                      "id": "syl_404",
+                      "text": "jeho",
+                      "connection": 2,
+                      "dropCapitalLength": 0
+                    },
+                    {
+                      "id": "syl_405",
+                      "text": "v\u0161ickni",
+                      "connection": 2,
+                      "dropCapitalLength": 0
+                    },
+                    {
+                      "id": "syl_406",
+                      "text": "lid\u00e9",
+                      "connection": 2,
+                      "dropCapitalLength": 0
+                    },
+                    {
+                      "id": "syl_407",
+                      "text": "A",
+                      "connection": 2,
+                      "dropCapitalLength": 0
+                    },
+                    {
+                      "id": "syl_408",
+                      "text": "pravda",
+                      "connection": 2,
+                      "dropCapitalLength": 0
+                    },
+                    {
+                      "id": "syl_409",
+                      "text": "Bo\u017e\u00ed",
+                      "connection": 2,
+                      "dropCapitalLength": 0
+                    },
+                    {
+                      "id": "syl_410",
+                      "text": "z\u016fst\u00e1v\u00e1",
+                      "connection": 2,
+                      "dropCapitalLength": 0
+                    },
+                    {
+                      "id": "syl_411",
+                      "text": "na",
+                      "connection": 2,
+                      "dropCapitalLength": 0
+                    },
+                    {
+                      "id": "syl_412",
+                      "text": "v\u011bky",
+                      "connection": 2,
+                      "dropCapitalLength": 0
+                    },
+                    {
+                      "id": "syl_413",
+                      "text": "Nebo",
+                      "connection": 2,
+                      "dropCapitalLength": 0
+                    },
+                    {
+                      "id": "syl_414",
+                      "text": "potvrzeno",
+                      "connection": 2,
+                      "dropCapitalLength": 0
+                    },
+                    {
+                      "id": "syl_415",
+                      "text": "jest",
+                      "connection": 2,
+                      "dropCapitalLength": 0
+                    },
+                    {
+                      "id": "syl_416",
+                      "text": "nad",
+                      "connection": 2,
+                      "dropCapitalLength": 0
+                    },
+                    {
+                      "id": "syl_417",
+                      "text": "n\u00e1mi",
+                      "connection": 2,
+                      "dropCapitalLength": 0
+                    },
+                    {
+                      "id": "syl_418",
+                      "text": "milosrdenstv\u00ed",
+                      "connection": 2,
+                      "dropCapitalLength": 0
+                    },
+                    {
+                      "id": "syl_419",
+                      "text": "jeho",
+                      "connection": 2,
+                      "dropCapitalLength": 0
+                    },
+                    {
+                      "id": "syl_420",
+                      "text": "Chv\u00e1la",
+                      "connection": 2,
+                      "dropCapitalLength": 0
+                    },
+                    {
+                      "id": "syl_421",
+                      "text": "Otci",
+                      "connection": 2,
+                      "dropCapitalLength": 0
+                    },
+                    {
+                      "id": "syl_422",
+                      "text": "i",
+                      "connection": 2,
+                      "dropCapitalLength": 0
+                    },
+                    {
+                      "id": "syl_423",
+                      "text": "Synu",
+                      "connection": 2,
+                      "dropCapitalLength": 0
+                    }
+                  ]
+                }
+              }
+            ]
           }
         ]
       },
@@ -3417,691 +4249,691 @@
             "sentence": {
               "syllables": [
                 {
-                  "id": "syl_195",
+                  "id": "syl_449",
                   "text": "Chwalte",
                   "connection": 2,
                   "dropCapitalLength": 0
                 },
                 {
-                  "id": "syl_196",
+                  "id": "syl_450",
                   "text": "dyetki",
                   "connection": 2,
                   "dropCapitalLength": 0
                 },
                 {
-                  "id": "syl_197",
+                  "id": "syl_451",
                   "text": "ho\u222bpodyna",
                   "connection": 2,
                   "dropCapitalLength": 0
                 },
                 {
-                  "id": "syl_198",
+                  "id": "syl_452",
                   "text": "chwalte",
                   "connection": 2,
                   "dropCapitalLength": 0
                 },
                 {
-                  "id": "syl_199",
+                  "id": "syl_453",
                   "text": "gmeno",
                   "connection": 2,
                   "dropCapitalLength": 0
                 },
                 {
-                  "id": "syl_200",
+                  "id": "syl_454",
                   "text": "ho\u222bpodynowo//bozie",
                   "connection": 2,
                   "dropCapitalLength": 0
                 },
                 {
-                  "id": "syl_201",
+                  "id": "syl_455",
                   "text": "suprascr.//",
                   "connection": 2,
                   "dropCapitalLength": 0
                 },
                 {
-                  "id": "syl_202",
+                  "id": "syl_456",
                   "text": "Bud",
                   "connection": 2,
                   "dropCapitalLength": 0
                 },
                 {
-                  "id": "syl_203",
+                  "id": "syl_457",
                   "text": "gmeno",
                   "connection": 2,
                   "dropCapitalLength": 0
                 },
                 {
-                  "id": "syl_204",
+                  "id": "syl_458",
                   "text": "bozie",
                   "connection": 2,
                   "dropCapitalLength": 0
                 },
                 {
-                  "id": "syl_205",
+                  "id": "syl_459",
                   "text": "pochwaleno",
                   "connection": 2,
                   "dropCapitalLength": 0
                 },
                 {
-                  "id": "syl_206",
+                  "id": "syl_460",
                   "text": "ot",
                   "connection": 2,
                   "dropCapitalLength": 0
                 },
                 {
-                  "id": "syl_207",
+                  "id": "syl_461",
                   "text": "nenyey\u222b\u222byeho",
                   "connection": 2,
                   "dropCapitalLength": 0
                 },
                 {
-                  "id": "syl_208",
+                  "id": "syl_462",
                   "text": "\u010ba\u222b\u222bu",
                   "connection": 2,
                   "dropCapitalLength": 0
                 },
                 {
-                  "id": "syl_209",
+                  "id": "syl_463",
                   "text": "(z\u00a0toho",
                   "connection": 2,
                   "dropCapitalLength": 0
                 },
                 {
-                  "id": "syl_210",
+                  "id": "syl_464",
                   "text": "marg.)",
                   "connection": 2,
                   "dropCapitalLength": 0
                 },
                 {
-                  "id": "syl_211",
+                  "id": "syl_465",
                   "text": "(wzdicky",
                   "connection": 2,
                   "dropCapitalLength": 0
                 },
                 {
-                  "id": "syl_212",
+                  "id": "syl_466",
                   "text": "marg.)",
                   "connection": 2,
                   "dropCapitalLength": 0
                 },
                 {
-                  "id": "syl_213",
+                  "id": "syl_467",
                   "text": "nynye",
                   "connection": 2,
                   "dropCapitalLength": 0
                 },
                 {
-                  "id": "syl_214",
+                  "id": "syl_468",
                   "text": "az",
                   "connection": 2,
                   "dropCapitalLength": 0
                 },
                 {
-                  "id": "syl_215",
+                  "id": "syl_469",
                   "text": "na",
                   "connection": 2,
                   "dropCapitalLength": 0
                 },
                 {
-                  "id": "syl_216",
+                  "id": "syl_470",
                   "text": "wyeki",
                   "connection": 2,
                   "dropCapitalLength": 0
                 },
                 {
-                  "id": "syl_217",
+                  "id": "syl_471",
                   "text": "Ot",
                   "connection": 2,
                   "dropCapitalLength": 0
                 },
                 {
-                  "id": "syl_218",
+                  "id": "syl_472",
                   "text": "wichoda",
                   "connection": 2,
                   "dropCapitalLength": 0
                 },
                 {
-                  "id": "syl_219",
+                  "id": "syl_473",
                   "text": "\u222blune\u010bneho",
                   "connection": 2,
                   "dropCapitalLength": 0
                 },
                 {
-                  "id": "syl_220",
+                  "id": "syl_474",
                   "text": "az",
                   "connection": 2,
                   "dropCapitalLength": 0
                 },
                 {
-                  "id": "syl_221",
+                  "id": "syl_475",
                   "text": "do",
                   "connection": 2,
                   "dropCapitalLength": 0
                 },
                 {
-                  "id": "syl_222",
+                  "id": "syl_476",
                   "text": "zapada",
                   "connection": 2,
                   "dropCapitalLength": 0
                 },
                 {
-                  "id": "syl_223",
+                  "id": "syl_477",
                   "text": "chwaleno",
                   "connection": 2,
                   "dropCapitalLength": 0
                 },
                 {
-                  "id": "syl_224",
+                  "id": "syl_478",
                   "text": "bud",
                   "connection": 2,
                   "dropCapitalLength": 0
                 },
                 {
-                  "id": "syl_225",
+                  "id": "syl_479",
                   "text": "gmeno",
                   "connection": 2,
                   "dropCapitalLength": 0
                 },
                 {
-                  "id": "syl_226",
+                  "id": "syl_480",
                   "text": "bozie",
                   "connection": 2,
                   "dropCapitalLength": 0
                 },
                 {
-                  "id": "syl_227",
+                  "id": "syl_481",
                   "text": "Wy\u222b\u222boky",
                   "connection": 2,
                   "dropCapitalLength": 0
                 },
                 {
-                  "id": "syl_228",
+                  "id": "syl_482",
                   "text": "(powi\u222b\u222beny",
                   "connection": 2,
                   "dropCapitalLength": 0
                 },
                 {
-                  "id": "syl_229",
+                  "id": "syl_483",
                   "text": "marg.)",
                   "connection": 2,
                   "dropCapitalLength": 0
                 },
                 {
-                  "id": "syl_230",
+                  "id": "syl_484",
                   "text": "nade",
                   "connection": 2,
                   "dropCapitalLength": 0
                 },
                 {
-                  "id": "syl_231",
+                  "id": "syl_485",
                   "text": "w\u222b\u222be\u010bki",
                   "connection": 2,
                   "dropCapitalLength": 0
                 },
                 {
-                  "id": "syl_232",
+                  "id": "syl_486",
                   "text": "lidy",
                   "connection": 2,
                   "dropCapitalLength": 0
                 },
                 {
-                  "id": "syl_233",
+                  "id": "syl_487",
                   "text": "ho\u222bpodyn//pan",
                   "connection": 2,
                   "dropCapitalLength": 0
                 },
                 {
-                  "id": "syl_234",
+                  "id": "syl_488",
                   "text": "suprascr.//",
                   "connection": 2,
                   "dropCapitalLength": 0
                 },
                 {
-                  "id": "syl_235",
+                  "id": "syl_489",
                   "text": "a",
                   "connection": 2,
                   "dropCapitalLength": 0
                 },
                 {
-                  "id": "syl_236",
+                  "id": "syl_490",
                   "text": "nad",
                   "connection": 2,
                   "dropCapitalLength": 0
                 },
                 {
-                  "id": "syl_237",
+                  "id": "syl_491",
                   "text": "nebe\u222b\u222ba",
                   "connection": 2,
                   "dropCapitalLength": 0
                 },
                 {
-                  "id": "syl_238",
+                  "id": "syl_492",
                   "text": "chwala",
                   "connection": 2,
                   "dropCapitalLength": 0
                 },
                 {
-                  "id": "syl_239",
+                  "id": "syl_493",
                   "text": "geho",
                   "connection": 2,
                   "dropCapitalLength": 0
                 },
                 {
-                  "id": "syl_240",
+                  "id": "syl_494",
                   "text": "Kto",
                   "connection": 2,
                   "dropCapitalLength": 0
                 },
                 {
-                  "id": "syl_241",
+                  "id": "syl_495",
                   "text": "yakzto",
                   "connection": 2,
                   "dropCapitalLength": 0
                 },
                 {
-                  "id": "syl_242",
+                  "id": "syl_496",
                   "text": "ho\u222bpodyn",
                   "connection": 2,
                   "dropCapitalLength": 0
                 },
                 {
-                  "id": "syl_243",
+                  "id": "syl_497",
                   "text": "boh",
                   "connection": 2,
                   "dropCapitalLength": 0
                 },
                 {
-                  "id": "syl_244",
+                  "id": "syl_498",
                   "text": "nas",
                   "connection": 2,
                   "dropCapitalLength": 0
                 },
                 {
-                  "id": "syl_245",
+                  "id": "syl_499",
                   "text": "kteriz",
                   "connection": 2,
                   "dropCapitalLength": 0
                 },
                 {
-                  "id": "syl_246",
+                  "id": "syl_500",
                   "text": "v",
                   "connection": 2,
                   "dropCapitalLength": 0
                 },
                 {
-                  "id": "syl_247",
+                  "id": "syl_501",
                   "text": "wi\u222b\u222boko\u222bty",
                   "connection": 2,
                   "dropCapitalLength": 0
                 },
                 {
-                  "id": "syl_248",
+                  "id": "syl_502",
                   "text": "p\u1e59ebiwa",
                   "connection": 2,
                   "dropCapitalLength": 0
                 },
                 {
-                  "id": "syl_249",
+                  "id": "syl_503",
                   "text": "a",
                   "connection": 2,
                   "dropCapitalLength": 0
                 },
                 {
-                  "id": "syl_250",
+                  "id": "syl_504",
                   "text": "//nas",
                   "connection": 2,
                   "dropCapitalLength": 0
                 },
                 {
-                  "id": "syl_251",
+                  "id": "syl_505",
                   "text": "suprascr.//",
                   "connection": 2,
                   "dropCapitalLength": 0
                 },
                 {
-                  "id": "syl_252",
+                  "id": "syl_506",
                   "text": "pokorne",
                   "connection": 2,
                   "dropCapitalLength": 0
                 },
                 {
-                  "id": "syl_253",
+                  "id": "syl_507",
                   "text": "obe\u017c\u1e59zi",
                   "connection": 2,
                   "dropCapitalLength": 0
                 },
                 {
-                  "id": "syl_254",
+                  "id": "syl_508",
                   "text": "na",
                   "connection": 2,
                   "dropCapitalLength": 0
                 },
                 {
-                  "id": "syl_255",
+                  "id": "syl_509",
                   "text": "neby",
                   "connection": 2,
                   "dropCapitalLength": 0
                 },
                 {
-                  "id": "syl_256",
+                  "id": "syl_510",
                   "text": "y",
                   "connection": 2,
                   "dropCapitalLength": 0
                 },
                 {
-                  "id": "syl_257",
+                  "id": "syl_511",
                   "text": "na",
                   "connection": 2,
                   "dropCapitalLength": 0
                 },
                 {
-                  "id": "syl_258",
+                  "id": "syl_512",
                   "text": "zemy",
                   "connection": 2,
                   "dropCapitalLength": 0
                 },
                 {
-                  "id": "syl_259",
+                  "id": "syl_513",
                   "text": "Wzk\u1e59e\u222b\u222buge",
                   "connection": 2,
                   "dropCapitalLength": 0
                 },
                 {
-                  "id": "syl_260",
+                  "id": "syl_514",
                   "text": "od",
                   "connection": 2,
                   "dropCapitalLength": 0
                 },
                 {
-                  "id": "syl_261",
+                  "id": "syl_515",
                   "text": "zemye",
                   "connection": 2,
                   "dropCapitalLength": 0
                 },
                 {
-                  "id": "syl_262",
+                  "id": "syl_516",
                   "text": "pra\u010bneho",
                   "connection": 2,
                   "dropCapitalLength": 0
                 },
                 {
-                  "id": "syl_263",
+                  "id": "syl_517",
                   "text": "a",
                   "connection": 2,
                   "dropCapitalLength": 0
                 },
                 {
-                  "id": "syl_264",
+                  "id": "syl_518",
                   "text": "z\u00a0blata",
                   "connection": 2,
                   "dropCapitalLength": 0
                 },
                 {
-                  "id": "syl_265",
+                  "id": "syl_519",
                   "text": "wyzdwyhuge",
                   "connection": 2,
                   "dropCapitalLength": 0
                 },
                 {
-                  "id": "syl_266",
+                  "id": "syl_520",
                   "text": "chudeho",
                   "connection": 2,
                   "dropCapitalLength": 0
                 },
                 {
-                  "id": "syl_267",
+                  "id": "syl_521",
                   "text": "Abi",
                   "connection": 2,
                   "dropCapitalLength": 0
                 },
                 {
-                  "id": "syl_268",
+                  "id": "syl_522",
                   "text": "v\u222badyl",
                   "connection": 2,
                   "dropCapitalLength": 0
                 },
                 {
-                  "id": "syl_269",
+                  "id": "syl_523",
                   "text": "geho",
                   "connection": 2,
                   "dropCapitalLength": 0
                 },
                 {
-                  "id": "syl_270",
+                  "id": "syl_524",
                   "text": "\u222b",
                   "connection": 2,
                   "dropCapitalLength": 0
                 },
                 {
-                  "id": "syl_271",
+                  "id": "syl_525",
                   "text": "knyezaty",
                   "connection": 2,
                   "dropCapitalLength": 0
                 },
                 {
-                  "id": "syl_272",
+                  "id": "syl_526",
                   "text": "\u222b",
                   "connection": 2,
                   "dropCapitalLength": 0
                 },
                 {
-                  "id": "syl_273",
+                  "id": "syl_527",
                   "text": "knyezati",
                   "connection": 2,
                   "dropCapitalLength": 0
                 },
                 {
-                  "id": "syl_274",
+                  "id": "syl_528",
                   "text": "lydu",
                   "connection": 2,
                   "dropCapitalLength": 0
                 },
                 {
-                  "id": "syl_275",
+                  "id": "syl_529",
                   "text": "\u222bweho",
                   "connection": 2,
                   "dropCapitalLength": 0
                 },
                 {
-                  "id": "syl_276",
+                  "id": "syl_530",
                   "text": "Kteriz",
                   "connection": 2,
                   "dropCapitalLength": 0
                 },
                 {
-                  "id": "syl_277",
+                  "id": "syl_531",
                   "text": "przebiwaty",
                   "connection": 2,
                   "dropCapitalLength": 0
                 },
                 {
-                  "id": "syl_278",
+                  "id": "syl_532",
                   "text": "wely",
                   "connection": 2,
                   "dropCapitalLength": 0
                 },
                 {
-                  "id": "syl_279",
+                  "id": "syl_533",
                   "text": "bezdyetkiny",
                   "connection": 2,
                   "dropCapitalLength": 0
                 },
                 {
-                  "id": "syl_280",
+                  "id": "syl_534",
                   "text": "(neplodne",
                   "connection": 2,
                   "dropCapitalLength": 0
                 },
                 {
-                  "id": "syl_281",
+                  "id": "syl_535",
                   "text": "marg.)",
                   "connection": 2,
                   "dropCapitalLength": 0
                 },
                 {
-                  "id": "syl_282",
+                  "id": "syl_536",
                   "text": "w",
                   "connection": 2,
                   "dropCapitalLength": 0
                 },
                 {
-                  "id": "syl_283",
+                  "id": "syl_537",
                   "text": "domu",
                   "connection": 2,
                   "dropCapitalLength": 0
                 },
                 {
-                  "id": "syl_284",
+                  "id": "syl_538",
                   "text": "materzi",
                   "connection": 2,
                   "dropCapitalLength": 0
                 },
                 {
-                  "id": "syl_285",
+                  "id": "syl_539",
                   "text": "\u222bynow",
                   "connection": 2,
                   "dropCapitalLength": 0
                 },
                 {
-                  "id": "syl_286",
+                  "id": "syl_540",
                   "text": "we\u222bele",
                   "connection": 2,
                   "dropCapitalLength": 0
                 },
                 {
-                  "id": "syl_287",
+                  "id": "syl_541",
                   "text": "//radugiczi",
                   "connection": 2,
                   "dropCapitalLength": 0
                 },
                 {
-                  "id": "syl_288",
+                  "id": "syl_542",
                   "text": "\u222b\u222be",
                   "connection": 2,
                   "dropCapitalLength": 0
                 },
                 {
-                  "id": "syl_289",
+                  "id": "syl_543",
                   "text": "suprascr.//",
                   "connection": 2,
                   "dropCapitalLength": 0
                 },
                 {
-                  "id": "syl_290",
+                  "id": "syl_544",
                   "text": "Chwala",
                   "connection": 2,
                   "dropCapitalLength": 0
                 },
                 {
-                  "id": "syl_291",
+                  "id": "syl_545",
                   "text": "ot\u010bi",
                   "connection": 2,
                   "dropCapitalLength": 0
                 },
                 {
-                  "id": "syl_292",
+                  "id": "syl_546",
                   "text": "y",
                   "connection": 2,
                   "dropCapitalLength": 0
                 },
                 {
-                  "id": "syl_293",
+                  "id": "syl_547",
                   "text": "\u222binu",
                   "connection": 2,
                   "dropCapitalLength": 0
                 },
                 {
-                  "id": "syl_294",
+                  "id": "syl_548",
                   "text": "y",
                   "connection": 2,
                   "dropCapitalLength": 0
                 },
                 {
-                  "id": "syl_295",
+                  "id": "syl_549",
                   "text": "\u222bwatemu",
                   "connection": 2,
                   "dropCapitalLength": 0
                 },
                 {
-                  "id": "syl_296",
+                  "id": "syl_550",
                   "text": "duchu",
                   "connection": 2,
                   "dropCapitalLength": 0
                 },
                 {
-                  "id": "syl_297",
+                  "id": "syl_551",
                   "text": "Iakoz",
                   "connection": 2,
                   "dropCapitalLength": 0
                 },
                 {
-                  "id": "syl_298",
+                  "id": "syl_552",
                   "text": "bila",
                   "connection": 2,
                   "dropCapitalLength": 0
                 },
                 {
-                  "id": "syl_299",
+                  "id": "syl_553",
                   "text": "na",
                   "connection": 2,
                   "dropCapitalLength": 0
                 },
                 {
-                  "id": "syl_300",
+                  "id": "syl_554",
                   "text": "po\u010batku",
                   "connection": 2,
                   "dropCapitalLength": 0
                 },
                 {
-                  "id": "syl_301",
+                  "id": "syl_555",
                   "text": "y",
                   "connection": 2,
                   "dropCapitalLength": 0
                 },
                 {
-                  "id": "syl_302",
+                  "id": "syl_556",
                   "text": "ninye",
                   "connection": 2,
                   "dropCapitalLength": 0
                 },
                 {
-                  "id": "syl_303",
+                  "id": "syl_557",
                   "text": "y",
                   "connection": 2,
                   "dropCapitalLength": 0
                 },
                 {
-                  "id": "syl_304",
+                  "id": "syl_558",
                   "text": "wzdi\u010bki",
                   "connection": 2,
                   "dropCapitalLength": 0
                 },
                 {
-                  "id": "syl_305",
+                  "id": "syl_559",
                   "text": "y",
                   "connection": 2,
                   "dropCapitalLength": 0
                 },
                 {
-                  "id": "syl_306",
+                  "id": "syl_560",
                   "text": "na",
                   "connection": 2,
                   "dropCapitalLength": 0
                 },
                 {
-                  "id": "syl_307",
+                  "id": "syl_561",
                   "text": "wyeki",
                   "connection": 2,
                   "dropCapitalLength": 0
                 },
                 {
-                  "id": "syl_308",
+                  "id": "syl_562",
                   "text": "wyekow",
                   "connection": 2,
                   "dropCapitalLength": 0
                 },
                 {
-                  "id": "syl_309",
+                  "id": "syl_563",
                   "text": "Amen",
                   "connection": 2,
                   "dropCapitalLength": 0
@@ -4123,13 +4955,29 @@
             "sentence": {
               "syllables": [
                 {
-                  "id": "syl_310",
+                  "id": "syl_566",
                   "text": "R",
                   "connection": 2,
                   "dropCapitalLength": 0
                 }
               ]
-            }
+            },
+            "readings": [
+              {
+                "readingName": "Transcription",
+                "coords": "0.18033622468823887,0.576600767089235 0.16239773872101404,0.5628019317298312 0.1485989033616103,0.5310646104032025 0.13617995153814688,0.5186456585797392 0.16101785518507367,0.4951876384687528 0.16101785518507367,0.47492261943258696 0.15560969480657874,0.469514459054092 0.15616303798136547,0.4573409092087836 0.1485989033616103,0.4413721805670782 0.11824146557092204,0.43585264642331667 0.05200705584578402,0.44965148178272046 0.05476682291766478,0.46621008421400495 0.07270530888488964,0.47034973482182607 0.07658032104867468,0.5511011387930148 0.07581011118121367,0.56785333988535 0.07258588558018882,0.5815562986897056 0.095961521187619,0.575107847487656 0.0950583766416789,0.5775162329434962 0.09754321253181641,0.576600767089235",
+                "sentence": {
+                  "syllables": [
+                    {
+                      "id": "syl_565",
+                      "text": "R",
+                      "connection": 2,
+                      "dropCapitalLength": 0
+                    }
+                  ]
+                }
+              }
+            ]
           }
         ]
       },
@@ -4146,13 +4994,29 @@
             "sentence": {
               "syllables": [
                 {
-                  "id": "syl_311",
+                  "id": "syl_569",
                   "text": "Z",
                   "connection": 2,
                   "dropCapitalLength": 0
                 }
               ]
-            }
+            },
+            "readings": [
+              {
+                "readingName": "Transcription",
+                "coords": "0.15135867043349102,0.8815550285320579 0.07132542534894928,0.8829349120679982 0.0644260076692474,0.7835832974802912 0.15273855396943142,0.786343064552172",
+                "sentence": {
+                  "syllables": [
+                    {
+                      "id": "syl_568",
+                      "text": "\u017d",
+                      "connection": 2,
+                      "dropCapitalLength": 0
+                    }
+                  ]
+                }
+              }
+            ]
           }
         ]
       }
@@ -4167,71 +5031,71 @@
           "textID": "page_0:block_7",
           "syllableConnectors": [
             {
-              "syllableID": "syl_52",
+              "syllableID": "syl_54",
               "noteID": "note_0"
             },
             {
-              "syllableID": "syl_53",
+              "syllableID": "syl_55",
               "noteID": "note_1"
             },
             {
-              "syllableID": "syl_54",
+              "syllableID": "syl_56",
               "noteID": "note_2"
             },
             {
-              "syllableID": "syl_55",
+              "syllableID": "syl_57",
               "noteID": "note_6"
             },
             {
-              "syllableID": "syl_56",
+              "syllableID": "syl_58",
               "noteID": "note_7"
             },
             {
-              "syllableID": "syl_57",
+              "syllableID": "syl_59",
               "noteID": "note_8"
             },
             {
-              "syllableID": "syl_58",
+              "syllableID": "syl_60",
               "noteID": "note_10"
             },
             {
-              "syllableID": "syl_59",
+              "syllableID": "syl_61",
               "noteID": "note_11"
             },
             {
-              "syllableID": "syl_60",
+              "syllableID": "syl_62",
               "noteID": "note_12"
             },
             {
-              "syllableID": "syl_61",
+              "syllableID": "syl_63",
               "noteID": "note_13"
             },
             {
-              "syllableID": "syl_62",
+              "syllableID": "syl_64",
               "noteID": "note_14"
             },
             {
-              "syllableID": "syl_63",
+              "syllableID": "syl_65",
               "noteID": "note_16"
             },
             {
-              "syllableID": "syl_64",
+              "syllableID": "syl_66",
               "noteID": "note_17"
             },
             {
-              "syllableID": "syl_65",
+              "syllableID": "syl_67",
               "noteID": "note_18"
             },
             {
-              "syllableID": "syl_66",
+              "syllableID": "syl_68",
               "noteID": "note_20"
             },
             {
-              "syllableID": "syl_67",
+              "syllableID": "syl_69",
               "noteID": "note_23"
             },
             {
-              "syllableID": "syl_68",
+              "syllableID": "syl_70",
               "noteID": "note_24"
             }
           ]
@@ -4241,71 +5105,71 @@
           "textID": "page_0:block_7",
           "syllableConnectors": [
             {
-              "syllableID": "syl_35",
+              "syllableID": "syl_37",
               "noteID": "note_0"
             },
             {
-              "syllableID": "syl_36",
+              "syllableID": "syl_38",
               "noteID": "note_1"
             },
             {
-              "syllableID": "syl_37",
+              "syllableID": "syl_39",
               "noteID": "note_2"
             },
             {
-              "syllableID": "syl_38",
+              "syllableID": "syl_40",
               "noteID": "note_6"
             },
             {
-              "syllableID": "syl_39",
+              "syllableID": "syl_41",
               "noteID": "note_7"
             },
             {
-              "syllableID": "syl_40",
+              "syllableID": "syl_42",
               "noteID": "note_8"
             },
             {
-              "syllableID": "syl_41",
+              "syllableID": "syl_43",
               "noteID": "note_10"
             },
             {
-              "syllableID": "syl_42",
+              "syllableID": "syl_44",
               "noteID": "note_11"
             },
             {
-              "syllableID": "syl_43",
+              "syllableID": "syl_45",
               "noteID": "note_12"
             },
             {
-              "syllableID": "syl_44",
+              "syllableID": "syl_46",
               "noteID": "note_13"
             },
             {
-              "syllableID": "syl_45",
+              "syllableID": "syl_47",
               "noteID": "note_14"
             },
             {
-              "syllableID": "syl_46",
+              "syllableID": "syl_48",
               "noteID": "note_16"
             },
             {
-              "syllableID": "syl_47",
+              "syllableID": "syl_49",
               "noteID": "note_17"
             },
             {
-              "syllableID": "syl_48",
+              "syllableID": "syl_50",
               "noteID": "note_18"
             },
             {
-              "syllableID": "syl_49",
+              "syllableID": "syl_51",
               "noteID": "note_20"
             },
             {
-              "syllableID": "syl_50",
+              "syllableID": "syl_52",
               "noteID": "note_23"
             },
             {
-              "syllableID": "syl_51",
+              "syllableID": "syl_53",
               "noteID": "note_24"
             }
           ]
@@ -4315,87 +5179,87 @@
           "textID": "page_0:block_8",
           "syllableConnectors": [
             {
-              "syllableID": "syl_69",
+              "syllableID": "syl_113",
               "noteID": "note_26"
             },
             {
-              "syllableID": "syl_70",
+              "syllableID": "syl_114",
               "noteID": "note_29"
             },
             {
-              "syllableID": "syl_71",
+              "syllableID": "syl_115",
               "noteID": "note_31"
             },
             {
-              "syllableID": "syl_72",
+              "syllableID": "syl_116",
               "noteID": "note_32"
             },
             {
-              "syllableID": "syl_73",
+              "syllableID": "syl_117",
               "noteID": "note_34"
             },
             {
-              "syllableID": "syl_74",
+              "syllableID": "syl_118",
               "noteID": "note_37"
             },
             {
-              "syllableID": "syl_75",
+              "syllableID": "syl_119",
               "noteID": "note_38"
             },
             {
-              "syllableID": "syl_76",
+              "syllableID": "syl_120",
               "noteID": "note_40"
             },
             {
-              "syllableID": "syl_77",
+              "syllableID": "syl_121",
               "noteID": "note_43"
             },
             {
-              "syllableID": "syl_78",
+              "syllableID": "syl_122",
               "noteID": "note_45"
             },
             {
-              "syllableID": "syl_79",
+              "syllableID": "syl_123",
               "noteID": "note_46"
             },
             {
-              "syllableID": "syl_80",
+              "syllableID": "syl_124",
               "noteID": "note_48"
             },
             {
-              "syllableID": "syl_81",
+              "syllableID": "syl_125",
               "noteID": "note_49"
             },
             {
-              "syllableID": "syl_82",
+              "syllableID": "syl_126",
               "noteID": "note_50"
             },
             {
-              "syllableID": "syl_83",
+              "syllableID": "syl_127",
               "noteID": "note_51"
             },
             {
-              "syllableID": "syl_84",
+              "syllableID": "syl_128",
               "noteID": "note_52"
             },
             {
-              "syllableID": "syl_85",
+              "syllableID": "syl_129",
               "noteID": "note_53"
             },
             {
-              "syllableID": "syl_86",
+              "syllableID": "syl_130",
               "noteID": "note_54"
             },
             {
-              "syllableID": "syl_87",
+              "syllableID": "syl_131",
               "noteID": "note_55"
             },
             {
-              "syllableID": "syl_88",
+              "syllableID": "syl_132",
               "noteID": "note_56"
             },
             {
-              "syllableID": "syl_89",
+              "syllableID": "syl_133",
               "noteID": "note_57"
             }
           ]
@@ -4405,83 +5269,83 @@
           "textID": "page_0:block_9",
           "syllableConnectors": [
             {
-              "syllableID": "syl_90",
+              "syllableID": "syl_174",
               "noteID": "note_58"
             },
             {
-              "syllableID": "syl_91",
+              "syllableID": "syl_175",
               "noteID": "note_59"
             },
             {
-              "syllableID": "syl_92",
+              "syllableID": "syl_176",
               "noteID": "note_60"
             },
             {
-              "syllableID": "syl_93",
+              "syllableID": "syl_177",
               "noteID": "note_61"
             },
             {
-              "syllableID": "syl_94",
+              "syllableID": "syl_178",
               "noteID": "note_62"
             },
             {
-              "syllableID": "syl_95",
+              "syllableID": "syl_179",
               "noteID": "note_63"
             },
             {
-              "syllableID": "syl_96",
+              "syllableID": "syl_180",
               "noteID": "note_65"
             },
             {
-              "syllableID": "syl_97",
+              "syllableID": "syl_181",
               "noteID": "note_66"
             },
             {
-              "syllableID": "syl_98",
+              "syllableID": "syl_182",
               "noteID": "note_67"
             },
             {
-              "syllableID": "syl_99",
+              "syllableID": "syl_183",
               "noteID": "note_69"
             },
             {
-              "syllableID": "syl_100",
+              "syllableID": "syl_184",
               "noteID": "note_72"
             },
             {
-              "syllableID": "syl_101",
+              "syllableID": "syl_185",
               "noteID": "note_74"
             },
             {
-              "syllableID": "syl_102",
+              "syllableID": "syl_186",
               "noteID": "note_76"
             },
             {
-              "syllableID": "syl_103",
+              "syllableID": "syl_187",
               "noteID": "note_77"
             },
             {
-              "syllableID": "syl_104",
+              "syllableID": "syl_188",
               "noteID": "note_78"
             },
             {
-              "syllableID": "syl_105",
+              "syllableID": "syl_189",
               "noteID": "note_79"
             },
             {
-              "syllableID": "syl_106",
+              "syllableID": "syl_190",
               "noteID": "note_81"
             },
             {
-              "syllableID": "syl_107",
+              "syllableID": "syl_191",
               "noteID": "note_82"
             },
             {
-              "syllableID": "syl_108",
+              "syllableID": "syl_192",
               "noteID": "note_84"
             },
             {
-              "syllableID": "syl_109",
+              "syllableID": "syl_193",
               "noteID": "note_85"
             }
           ]
@@ -4491,95 +5355,95 @@
           "textID": "page_0:block_10",
           "syllableConnectors": [
             {
-              "syllableID": "syl_110",
+              "syllableID": "syl_240",
               "noteID": "note_87"
             },
             {
-              "syllableID": "syl_111",
+              "syllableID": "syl_241",
               "noteID": "note_88"
             },
             {
-              "syllableID": "syl_112",
+              "syllableID": "syl_242",
               "noteID": "note_89"
             },
             {
-              "syllableID": "syl_113",
+              "syllableID": "syl_243",
               "noteID": "note_91"
             },
             {
-              "syllableID": "syl_114",
+              "syllableID": "syl_244",
               "noteID": "note_93"
             },
             {
-              "syllableID": "syl_115",
+              "syllableID": "syl_245",
               "noteID": "note_95"
             },
             {
-              "syllableID": "syl_116",
+              "syllableID": "syl_246",
               "noteID": "note_98"
             },
             {
-              "syllableID": "syl_117",
+              "syllableID": "syl_247",
               "noteID": "note_99"
             },
             {
-              "syllableID": "syl_118",
+              "syllableID": "syl_248",
               "noteID": "note_100"
             },
             {
-              "syllableID": "syl_119",
+              "syllableID": "syl_249",
               "noteID": "note_101"
             },
             {
-              "syllableID": "syl_120",
+              "syllableID": "syl_250",
               "noteID": "note_102"
             },
             {
-              "syllableID": "syl_121",
+              "syllableID": "syl_251",
               "noteID": "note_103"
             },
             {
-              "syllableID": "syl_122",
+              "syllableID": "syl_252",
               "noteID": "note_104"
             },
             {
-              "syllableID": "syl_123",
+              "syllableID": "syl_253",
               "noteID": "note_106"
             },
             {
-              "syllableID": "syl_124",
+              "syllableID": "syl_254",
               "noteID": "note_108"
             },
             {
-              "syllableID": "syl_125",
+              "syllableID": "syl_255",
               "noteID": "note_110"
             },
             {
-              "syllableID": "syl_126",
+              "syllableID": "syl_256",
               "noteID": "note_113"
             },
             {
-              "syllableID": "syl_127",
+              "syllableID": "syl_257",
               "noteID": "note_114"
             },
             {
-              "syllableID": "syl_128",
+              "syllableID": "syl_258",
               "noteID": "note_115"
             },
             {
-              "syllableID": "syl_129",
+              "syllableID": "syl_259",
               "noteID": "note_116"
             },
             {
-              "syllableID": "syl_130",
+              "syllableID": "syl_260",
               "noteID": "note_117"
             },
             {
-              "syllableID": "syl_131",
+              "syllableID": "syl_261",
               "noteID": "note_118"
             },
             {
-              "syllableID": "syl_132",
+              "syllableID": "syl_262",
               "noteID": "note_119"
             }
           ]
@@ -4589,83 +5453,83 @@
           "textID": "page_0:block_11",
           "syllableConnectors": [
             {
-              "syllableID": "syl_133",
+              "syllableID": "syl_303",
               "noteID": "note_120"
             },
             {
-              "syllableID": "syl_134",
+              "syllableID": "syl_304",
               "noteID": "note_121"
             },
             {
-              "syllableID": "syl_135",
+              "syllableID": "syl_305",
               "noteID": "note_122"
             },
             {
-              "syllableID": "syl_136",
+              "syllableID": "syl_306",
               "noteID": "note_125"
             },
             {
-              "syllableID": "syl_137",
+              "syllableID": "syl_307",
               "noteID": "note_128"
             },
             {
-              "syllableID": "syl_138",
+              "syllableID": "syl_308",
               "noteID": "note_131"
             },
             {
-              "syllableID": "syl_139",
+              "syllableID": "syl_309",
               "noteID": "note_132"
             },
             {
-              "syllableID": "syl_140",
+              "syllableID": "syl_310",
               "noteID": "note_133"
             },
             {
-              "syllableID": "syl_141",
+              "syllableID": "syl_311",
               "noteID": "note_135"
             },
             {
-              "syllableID": "syl_142",
+              "syllableID": "syl_312",
               "noteID": "note_136"
             },
             {
-              "syllableID": "syl_143",
+              "syllableID": "syl_313",
               "noteID": "note_137"
             },
             {
-              "syllableID": "syl_144",
+              "syllableID": "syl_314",
               "noteID": "note_138"
             },
             {
-              "syllableID": "syl_145",
+              "syllableID": "syl_315",
               "noteID": "note_139"
             },
             {
-              "syllableID": "syl_146",
+              "syllableID": "syl_316",
               "noteID": "note_140"
             },
             {
-              "syllableID": "syl_147",
+              "syllableID": "syl_317",
               "noteID": "note_141"
             },
             {
-              "syllableID": "syl_148",
+              "syllableID": "syl_318",
               "noteID": "note_142"
             },
             {
-              "syllableID": "syl_149",
+              "syllableID": "syl_319",
               "noteID": "note_143"
             },
             {
-              "syllableID": "syl_150",
+              "syllableID": "syl_320",
               "noteID": "note_144"
             },
             {
-              "syllableID": "syl_151",
+              "syllableID": "syl_321",
               "noteID": "note_145"
             },
             {
-              "syllableID": "syl_152",
+              "syllableID": "syl_322",
               "noteID": "note_146"
             }
           ]
@@ -4675,71 +5539,71 @@
           "textID": "page_0:block_12",
           "syllableConnectors": [
             {
-              "syllableID": "syl_153",
+              "syllableID": "syl_357",
               "noteID": "note_147"
             },
             {
-              "syllableID": "syl_154",
+              "syllableID": "syl_358",
               "noteID": "note_150"
             },
             {
-              "syllableID": "syl_155",
+              "syllableID": "syl_359",
               "noteID": "note_151"
             },
             {
-              "syllableID": "syl_156",
+              "syllableID": "syl_360",
               "noteID": "note_152"
             },
             {
-              "syllableID": "syl_157",
+              "syllableID": "syl_361",
               "noteID": "note_153"
             },
             {
-              "syllableID": "syl_158",
+              "syllableID": "syl_362",
               "noteID": "note_154"
             },
             {
-              "syllableID": "syl_159",
+              "syllableID": "syl_363",
               "noteID": "note_156"
             },
             {
-              "syllableID": "syl_160",
+              "syllableID": "syl_364",
               "noteID": "note_157"
             },
             {
-              "syllableID": "syl_161",
+              "syllableID": "syl_365",
               "noteID": "note_158"
             },
             {
-              "syllableID": "syl_162",
+              "syllableID": "syl_366",
               "noteID": "note_160"
             },
             {
-              "syllableID": "syl_163",
+              "syllableID": "syl_367",
               "noteID": "note_163"
             },
             {
-              "syllableID": "syl_164",
+              "syllableID": "syl_368",
               "noteID": "note_165"
             },
             {
-              "syllableID": "syl_165",
+              "syllableID": "syl_369",
               "noteID": "note_166"
             },
             {
-              "syllableID": "syl_166",
+              "syllableID": "syl_370",
               "noteID": "note_167"
             },
             {
-              "syllableID": "syl_169",
+              "syllableID": "syl_373",
               "noteID": "note_172"
             },
             {
-              "syllableID": "syl_168",
+              "syllableID": "syl_372",
               "noteID": "note_171"
             },
             {
-              "syllableID": "syl_167",
+              "syllableID": "syl_371",
               "noteID": "note_170"
             }
           ]
@@ -4749,23 +5613,29 @@
     "works": {
       "works": [
         {
-          "workTitle": "Židovstvo a Jeruzaléme",
-          "meta": {
-            "cantusId": "003511"
-          },
+          "workTitle": "\u017didovstvo a Jeruzal\u00e9me",
           "blocks": [
             "page_0:block_0",
             "page_0:block_1",
             "page_0:block_6",
             "page_0:block_7",
             "page_0:block_8"
-          ]
+          ],
+          "meta": {
+            "cantusId": "003511"
+          }
         },
         {
-          "workTitle": "Raduj se a vesel se, Jeruzaléme",
+          "workTitle": "Chvalte Hospodina v\u0161ichni n\u00e1rodov\u00e9",
+          "blocks": [
+            "page_0:block_14"
+          ],
           "meta": {
-            "cantusId": "002922"
-          },
+            "cantusId": "920116"
+          }
+        },
+        {
+          "workTitle": "Raduj se a vesel se, Jeruzal\u00e9me",
           "blocks": [
             "page_0:block_2",
             "page_0:block_3",
@@ -4774,36 +5644,30 @@
             "page_0:block_10",
             "page_0:block_11",
             "page_0:block_15"
-          ]
+          ],
+          "meta": {
+            "cantusId": "002922"
+          }
         },
         {
-          "workTitle": "Zdrávas naděje naše",
+          "workTitle": "Chvalte d\u00edtka Hospodina",
+          "blocks": [
+            "page_0:block_13"
+          ],
           "meta": {
-            "cantusId": "a00605"
-          },
+            "cantusId": "920112"
+          }
+        },
+        {
+          "workTitle": "Zdr\u00e1vas nad\u011bje na\u0161e",
           "blocks": [
             "page_0:block_5",
             "page_0:block_12",
             "page_0:block_16"
-          ]
-        },
-        {
-          "workTitle": "Chvalte dítka Hospodina",
+          ],
           "meta": {
-            "cantusId": "920112"
-          },
-          "blocks": [
-            "page_0:block_13"
-          ]
-        },
-        {
-          "workTitle": "Chvalte Hospodina všichni národové",
-          "meta": {
-            "cantusId": "920116"
-          },
-          "blocks": [
-            "page_0:block_14"
-          ]
+            "cantusId": "a00605"
+          }
         }
       ]
     },

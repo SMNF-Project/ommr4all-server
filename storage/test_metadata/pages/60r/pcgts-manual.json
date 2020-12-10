@@ -2209,7 +2209,23 @@
                   "dropCapitalLength": 0
                 }
               ]
-            }
+            },
+            "readings": [
+              {
+                "readingName": "Transcription",
+                "coords": "0.20322301893621292,0.11974975409796297 0.17406503081496674,0.06993819105750079 0.1825694440169969,0.0310608735625059 0.0343496710673289,0.034705622077661674 0.056694310783583106,0.1670391690310691 0.0599593984585574,0.16740183020441568 0.066903369472206,0.16266730451329164 0.07321607039370473,0.16203603442114178 0.07700369094660396,0.16519238488189114 0.07416297553192955,0.1705581806651651 0.11502789668252124,0.15914845382161083 0.14198881229587704,0.15974673973951414 0.17875193249350965,0.16826888598353745 0.1922887733907456,0.13189891581514887",
+                "sentence": {
+                  "syllables": [
+                    {
+                      "id": "syl_10000",
+                      "text": "Z",
+                      "connection": 2,
+                      "dropCapitalLength": 0
+                    }
+                  ]
+                }
+              }
+            ]
           }
         ]
       },
@@ -2446,7 +2462,7 @@
                   "syllables": [
                     {
                       "id": "syl_35",
-                      "text": "Zi",
+                      "text": "Ži",
                       "connection": 2,
                       "dropCapitalLength": 1
                     },
@@ -2542,7 +2558,7 @@
                     },
                     {
                       "id": "syl_51",
-                      "text": "vi",
+                      "text": "vyn",
                       "connection": 2,
                       "dropCapitalLength": 0
                     }
@@ -2691,7 +2707,143 @@
                   "dropCapitalLength": 0
                 }
               ]
-            }
+            },
+            "readings": [
+              {
+                "readingName": "Transcription",
+                "coords": "0.06836732387544942,0.2691844432193496 0.06958224004716801,0.241241371269822 0.17855881343856667,0.23935023767517735 0.18101103553133888,0.24155723755867234 0.18308508815908225,0.24155723755867234 0.18493926703115496,0.23923951396858142 0.6296585952094381,0.23152204189607326 0.6296585952094381,0.2570352815021637",
+                "sentence": {
+                  "syllables": [
+                    {
+                      "id": "syl_269",
+                      "text": "ďte",
+                      "connection": 2,
+                      "dropCapitalLength": 0
+                    },
+                    {
+                      "id": "syl_270",
+                      "text": "a",
+                      "connection": 2,
+                      "dropCapitalLength": 0
+                    },
+                    {
+                      "id": "syl_271",
+                      "text": "Hos",
+                      "connection": 2,
+                      "dropCapitalLength": 0
+                    },
+                    {
+                      "id": "syl_272",
+                      "text": "po",
+                      "connection": 1,
+                      "dropCapitalLength": 0
+                    },
+                    {
+                      "id": "syl_273",
+                      "text": "din",
+                      "connection": 1,
+                      "dropCapitalLength": 0
+                    },
+                    {
+                      "id": "syl_274",
+                      "text": "bu",
+                      "connection": 2,
+                      "dropCapitalLength": 0
+                    },
+                    {
+                      "id": "syl_275",
+                      "text": "de",
+                      "connection": 1,
+                      "dropCapitalLength": 0
+                    },
+                    {
+                      "id": "syl_276",
+                      "text": "s vá",
+                      "connection": 2,
+                      "dropCapitalLength": 0
+                    },
+                    {
+                      "id": "syl_277",
+                      "text": "mi",
+                      "connection": 1,
+                      "dropCapitalLength": 0
+                    },
+                    {
+                      "id": "syl_278",
+                      "text": "Chwal",
+                      "connection": 2,
+                      "dropCapitalLength": 0
+                    },
+                    {
+                      "id": "syl_279",
+                      "text": "mež",
+                      "connection": 1,
+                      "dropCapitalLength": 0
+                    },
+                    {
+                      "id": "syl_280",
+                      "text": "Bo",
+                      "connection": 2,
+                      "dropCapitalLength": 0
+                    },
+                    {
+                      "id": "syl_281",
+                      "text": "ha",
+                      "connection": 1,
+                      "dropCapitalLength": 0
+                    },
+                    {
+                      "id": "syl_282",
+                      "text": "y",
+                      "connection": 2,
+                      "dropCapitalLength": 0
+                    },
+                    {
+                      "id": "syl_283",
+                      "text": "na",
+                      "connection": 2,
+                      "dropCapitalLength": 0
+                    },
+                    {
+                      "id": "syl_284",
+                      "text": "vě",
+                      "connection": 2,
+                      "dropCapitalLength": 0
+                    },
+                    {
+                      "id": "syl_285",
+                      "text": "ky",
+                      "connection": 1,
+                      "dropCapitalLength": 0
+                    },
+                    {
+                      "id": "syl_286",
+                      "text": "vě",
+                      "connection": 2,
+                      "dropCapitalLength": 0
+                    },
+                    {
+                      "id": "syl_287",
+                      "text": "kóv",
+                      "connection": 1,
+                      "dropCapitalLength": 0
+                    },
+                    {
+                      "id": "syl_288",
+                      "text": "a",
+                      "connection": 2,
+                      "dropCapitalLength": 0
+                    },
+                    {
+                      "id": "syl_289",
+                      "text": "men",
+                      "connection": 1,
+                      "dropCapitalLength": 0
+                    }
+                  ]
+                }
+              }
+            ]
           }
         ]
       },
@@ -2827,7 +2979,137 @@
                   "dropCapitalLength": 0
                 }
               ]
-            }
+            },
+            "readings": [
+              {
+                "readingName": "Transcription",
+                "coords": "0.6442375892700611,0.5206720907650977 0.6405928407549054,0.5510449950580625 0.15584128823918791,0.5510449950580625 0.15584128823918791,0.5291765039671278",
+                "sentence": {
+                  "syllables": [
+                    {
+                      "id": "syl_390",
+                      "text": "Ra",
+                      "connection": 2,
+                      "dropCapitalLength": 1
+                    },
+                    {
+                      "id": "syl_391",
+                      "text": "duj",
+                      "connection": 1,
+                      "dropCapitalLength": 0
+                    },
+                    {
+                      "id": "syl_392",
+                      "text": "se",
+                      "connection": 2,
+                      "dropCapitalLength": 0
+                    },
+                    {
+                      "id": "syl_393",
+                      "text": "a",
+                      "connection": 2,
+                      "dropCapitalLength": 0
+                    },
+                    {
+                      "id": "syl_394",
+                      "text": "ve",
+                      "connection": 2,
+                      "dropCapitalLength": 0
+                    },
+                    {
+                      "id": "syl_395",
+                      "text": "sel",
+                      "connection": 1,
+                      "dropCapitalLength": 0
+                    },
+                    {
+                      "id": "syl_396",
+                      "text": "se,",
+                      "connection": 2,
+                      "dropCapitalLength": 0
+                    },
+                    {
+                      "id": "syl_397",
+                      "text": "Je",
+                      "connection": 2,
+                      "dropCapitalLength": 0
+                    },
+                    {
+                      "id": "syl_398",
+                      "text": "ru",
+                      "connection": 1,
+                      "dropCapitalLength": 0
+                    },
+                    {
+                      "id": "syl_399",
+                      "text": "za",
+                      "connection": 1,
+                      "dropCapitalLength": 0
+                    },
+                    {
+                      "id": "syl_3100",
+                      "text": "lé",
+                      "connection": 1,
+                      "dropCapitalLength": 0
+                    },
+                    {
+                      "id": "syl_3101",
+                      "text": "me,",
+                      "connection": 1,
+                      "dropCapitalLength": 0
+                    },
+                    {
+                      "id": "syl_3102",
+                      "text": "a",
+                      "connection": 2,
+                      "dropCapitalLength": 0
+                    },
+                    {
+                      "id": "syl_3103",
+                      "text": "aj,",
+                      "connection": 2,
+                      "dropCapitalLength": 0
+                    },
+                    {
+                      "id": "syl_3104",
+                      "text": "král",
+                      "connection": 2,
+                      "dropCapitalLength": 0
+                    },
+                    {
+                      "id": "syl_3105",
+                      "text": "tvój",
+                      "connection": 2,
+                      "dropCapitalLength": 0
+                    },
+                    {
+                      "id": "syl_3106",
+                      "text": "přij",
+                      "connection": 2,
+                      "dropCapitalLength": 0
+                    },
+                    {
+                      "id": "syl_3107",
+                      "text": "de",
+                      "connection": 1,
+                      "dropCapitalLength": 0
+                    },
+                    {
+                      "id": "syl_3108",
+                      "text": "o",
+                      "connection": 2,
+                      "dropCapitalLength": 0
+                    },
+                    {
+                      "id": "syl_3109",
+                      "text": "němž",
+                      "connection": 2,
+                      "dropCapitalLength": 0
+                    }
+                  ]
+                }
+              }
+            ]
           }
         ]
       },
@@ -2981,7 +3263,155 @@
                   "dropCapitalLength": 0
                 }
               ]
-            }
+            },
+            "readings": [
+              {
+                "readingName": "Transcription",
+                "coords": "0.6430226730983426,0.6251548815328966 0.07201207239060518,0.6360891270783637 0.07412259957755113,0.6561391353543503 0.07822828038198232,0.654907431113021 0.08225856238326339,0.6557134875132772 0.0855273019624469,0.6589822270924607 0.6405928407549054,0.6494532049672682",
+                "sentence": {
+                  "syllables": [
+                    {
+                      "id": "syl_4110",
+                      "text": "pro",
+                      "connection": 2,
+                      "dropCapitalLength": 0
+                    },
+                    {
+                      "id": "syl_4111",
+                      "text": "ro",
+                      "connection": 1,
+                      "dropCapitalLength": 0
+                    },
+                    {
+                      "id": "syl_4112",
+                      "text": "ko",
+                      "connection": 1,
+                      "dropCapitalLength": 0
+                    },
+                    {
+                      "id": "syl_4113",
+                      "text": "vé",
+                      "connection": 1,
+                      "dropCapitalLength": 0
+                    },
+                    {
+                      "id": "syl_4114",
+                      "text": "zvěs",
+                      "connection": 2,
+                      "dropCapitalLength": 0
+                    },
+                    {
+                      "id": "syl_4115",
+                      "text": "to",
+                      "connection": 1,
+                      "dropCapitalLength": 0
+                    },
+                    {
+                      "id": "syl_4116",
+                      "text": "va",
+                      "connection": 1,
+                      "dropCapitalLength": 0
+                    },
+                    {
+                      "id": "syl_4117",
+                      "text": "li",
+                      "connection": 1,
+                      "dropCapitalLength": 0
+                    },
+                    {
+                      "id": "syl_4118",
+                      "text": "je",
+                      "connection": 2,
+                      "dropCapitalLength": 0
+                    },
+                    {
+                      "id": "syl_4119",
+                      "text": "muž",
+                      "connection": 1,
+                      "dropCapitalLength": 0
+                    },
+                    {
+                      "id": "syl_4120",
+                      "text": "an",
+                      "connection": 2,
+                      "dropCapitalLength": 0
+                    },
+                    {
+                      "id": "syl_4121",
+                      "text": "je",
+                      "connection": 1,
+                      "dropCapitalLength": 0
+                    },
+                    {
+                      "id": "syl_4122",
+                      "text": "lé",
+                      "connection": 1,
+                      "dropCapitalLength": 0
+                    },
+                    {
+                      "id": "syl_4123",
+                      "text": "kla",
+                      "connection": 2,
+                      "dropCapitalLength": 0
+                    },
+                    {
+                      "id": "syl_4124",
+                      "text": "ně",
+                      "connection": 1,
+                      "dropCapitalLength": 0
+                    },
+                    {
+                      "id": "syl_4125",
+                      "text": "li",
+                      "connection": 1,
+                      "dropCapitalLength": 0
+                    },
+                    {
+                      "id": "syl_4126",
+                      "text": "sú",
+                      "connection": 2,
+                      "dropCapitalLength": 0
+                    },
+                    {
+                      "id": "syl_4127",
+                      "text": "se",
+                      "connection": 2,
+                      "dropCapitalLength": 0
+                    },
+                    {
+                      "id": "syl_4128",
+                      "text": "je",
+                      "connection": 2,
+                      "dropCapitalLength": 0
+                    },
+                    {
+                      "id": "syl_4129",
+                      "text": "muž",
+                      "connection": 1,
+                      "dropCapitalLength": 0
+                    },
+                    {
+                      "id": "syl_4130",
+                      "text": "che",
+                      "connection": 2,
+                      "dropCapitalLength": 0
+                    },
+                    {
+                      "id": "syl_4131",
+                      "text": "ru",
+                      "connection": 1,
+                      "dropCapitalLength": 0
+                    },
+                    {
+                      "id": "syl_4132",
+                      "text": "bin",
+                      "connection": 1,
+                      "dropCapitalLength": 0
+                    }
+                  ]
+                }
+              }
+            ]
           }
         ]
       },
@@ -3117,7 +3547,137 @@
                   "dropCapitalLength": 0
                 }
               ]
-            }
+            },
+            "readings": [
+              {
+                "readingName": "Transcription",
+                "coords": "0.5306443263538194,0.7404641875033444 0.5369554337617329,0.7617641750050524 0.35235554208026315,0.7649197287090093 0.07782236983602599,0.7672863939869768 0.0770334814100368,0.7412530759293335",
+                "sentence": {
+                  "syllables": [
+                    {
+                      "id": "syl_5133",
+                      "text": "a",
+                      "connection": 2,
+                      "dropCapitalLength": 0
+                    },
+                    {
+                      "id": "syl_5134",
+                      "text": "se",
+                      "connection": 2,
+                      "dropCapitalLength": 0
+                    },
+                    {
+                      "id": "syl_5135",
+                      "text": "ra",
+                      "connection": 1,
+                      "dropCapitalLength": 0
+                    },
+                    {
+                      "id": "syl_5136",
+                      "text": "fin",
+                      "connection": 1,
+                      "dropCapitalLength": 0
+                    },
+                    {
+                      "id": "syl_5137",
+                      "text": "Sva",
+                      "connection": 2,
+                      "dropCapitalLength": 0
+                    },
+                    {
+                      "id": "syl_5138",
+                      "text": "tý",
+                      "connection": 1,
+                      "dropCapitalLength": 0
+                    },
+                    {
+                      "id": "syl_5139",
+                      "text": "Sva",
+                      "connection": 2,
+                      "dropCapitalLength": 0
+                    },
+                    {
+                      "id": "syl_5140",
+                      "text": "tý",
+                      "connection": 1,
+                      "dropCapitalLength": 0
+                    },
+                    {
+                      "id": "syl_5141",
+                      "text": "Sva",
+                      "connection": 2,
+                      "dropCapitalLength": 0
+                    },
+                    {
+                      "id": "syl_5142",
+                      "text": "tý",
+                      "connection": 1,
+                      "dropCapitalLength": 0
+                    },
+                    {
+                      "id": "syl_5143",
+                      "text": "pro",
+                      "connection": 2,
+                      "dropCapitalLength": 0
+                    },
+                    {
+                      "id": "syl_5144",
+                      "text": "zpě",
+                      "connection": 1,
+                      "dropCapitalLength": 0
+                    },
+                    {
+                      "id": "syl_5145",
+                      "text": "va",
+                      "connection": 1,
+                      "dropCapitalLength": 0
+                    },
+                    {
+                      "id": "syl_5146",
+                      "text": "jí",
+                      "connection": 1,
+                      "dropCapitalLength": 0
+                    },
+                    {
+                      "id": "syl_5147",
+                      "text": "Sae",
+                      "connection": 2,
+                      "dropCapitalLength": 0
+                    },
+                    {
+                      "id": "syl_5148",
+                      "text": "cu",
+                      "connection": 1,
+                      "dropCapitalLength": 0
+                    },
+                    {
+                      "id": "syl_5149",
+                      "text": "lo",
+                      "connection": 1,
+                      "dropCapitalLength": 0
+                    },
+                    {
+                      "id": "syl_5150",
+                      "text": "rum",
+                      "connection": 1,
+                      "dropCapitalLength": 0
+                    },
+                    {
+                      "id": "syl_5151",
+                      "text": "a",
+                      "connection": 2,
+                      "dropCapitalLength": 0
+                    },
+                    {
+                      "id": "syl_5152",
+                      "text": "men",
+                      "connection": 1,
+                      "dropCapitalLength": 0
+                    }
+                  ]
+                }
+              }
+            ]
           }
         ]
       },
@@ -3235,7 +3795,119 @@
                   "dropCapitalLength": 0
                 }
               ]
-            }
+            }, 
+            "readings": [
+              {
+                "readingName": "Transcription",
+                "coords": "0.5756109666352031,0.8800974389034305 0.29786494096115385,0.8892875647529396 0.2932709706678512,0.8860717855476278 0.27298869316315455,0.8838986843864103 0.24908458038976206,0.8838986843864103 0.24328964395984876,0.8875205196551061 0.24035365018455435,0.8911905118742242 0.23318151610194696,0.8914278251343104 0.23025103699254376,0.8875205196551061 0.21866116413271708,0.8846230514401494 0.14664704588978944,0.8853024299141393 0.14724455132307446,0.8572196745497441 0.4332360341252179,0.8555728905796742 0.4345225461469886,0.860718938666757 0.4381443814156844,0.860718938666757 0.44260150364534795,0.8555189627321494 0.558255421263441,0.8548530092717767 0.5763998550611923,0.8658974472356252",
+                "sentence": {
+                  "syllables": [
+                    {
+                      "id": "syl_6153",
+                      "text": "Zdrá",
+                      "connection": 2,
+                      "dropCapitalLength": 1
+                    },
+                    {
+                      "id": "syl_6154",
+                      "text": "va",
+                      "connection": 1,
+                      "dropCapitalLength": 0
+                    },
+                    {
+                      "id": "syl_6155",
+                      "text": "na",
+                      "connection": 2,
+                      "dropCapitalLength": 0
+                    },
+                    {
+                      "id": "syl_6156",
+                      "text": "dě",
+                      "connection": 1,
+                      "dropCapitalLength": 0
+                    },
+                    {
+                      "id": "syl_6157",
+                      "text": "je",
+                      "connection": 1,
+                      "dropCapitalLength": 0
+                    },
+                    {
+                      "id": "syl_6158",
+                      "text": "na",
+                      "connection": 2,
+                      "dropCapitalLength": 0
+                    },
+                    {
+                      "id": "syl_6159",
+                      "text": "še",
+                      "connection": 1,
+                      "dropCapitalLength": 0
+                    },
+                    {
+                      "id": "syl_6160",
+                      "text": "Bo",
+                      "connection": 2,
+                      "dropCapitalLength": 0
+                    },
+                    {
+                      "id": "syl_6161",
+                      "text": "ží",
+                      "connection": 1,
+                      "dropCapitalLength": 0
+                    },
+                    {
+                      "id": "syl_6162",
+                      "text": "ro",
+                      "connection": 2,
+                      "dropCapitalLength": 0
+                    },
+                    {
+                      "id": "syl_6163",
+                      "text": "di",
+                      "connection": 1,
+                      "dropCapitalLength": 0
+                    },
+                    {
+                      "id": "syl_6164",
+                      "text": "ce",
+                      "connection": 1,
+                      "dropCapitalLength": 0
+                    },
+                    {
+                      "id": "syl_6165",
+                      "text": "ne",
+                      "connection": 2,
+                      "dropCapitalLength": 0
+                    },
+                    {
+                      "id": "syl_6166",
+                      "text": "po",
+                      "connection": 1,
+                      "dropCapitalLength": 0
+                    },
+                    {
+                      "id": "syl_6167",
+                      "text": "skvr",
+                      "connection": 1,
+                      "dropCapitalLength": 0
+                    },
+                    {
+                      "id": "syl_6168",
+                      "text": "ně",
+                      "connection": 1,
+                      "dropCapitalLength": 0
+                    },
+                    {
+                      "id": "syl_6169",
+                      "text": "ná",
+                      "connection": 1,
+                      "dropCapitalLength": 0
+                    }
+                  ]
+                }
+              }      
+            ]
           }
         ]
       },
@@ -3401,7 +4073,167 @@
                   "dropCapitalLength": 0
                 }
               ]
-            }
+            },
+            "readings": [
+              {
+                "readingName": "Transcription",
+                "coords": "0.5606220865414085,0.8643196703836468 0.5589735884613926,0.8066222375830875 0.5620111476050818,0.799872106152667 0.5587807275633805,0.799872106152667 0.558255421263441,0.7814863856547821 0.5266998842238735,0.7806974972287929 0.4257221656972575,0.7838530509327497 0.07624459298404761,0.7830641625067606 0.0770334814100368,0.76413084028302 0.5361665453357438,0.7586086213010957 0.5361665453357438,0.7365197453733985 0.5385332106137113,0.6986531009259176 0.5369554337617329,0.6536864606445338 0.6347775985843921,0.6505309069405771 0.6363553754363706,0.8635307819576576",
+                "sentence": {
+                  "syllables": [
+                    {
+                      "id": "syl_1170",
+                      "text": "Chvalte",
+                      "connection": 2,
+                      "dropCapitalLength": 0
+                    },
+                    {
+                      "id": "syl_1171",
+                      "text": "Hospodina",
+                      "connection": 2,
+                      "dropCapitalLength": 0
+                    },
+                    {
+                      "id": "syl_1172",
+                      "text": "všickni",
+                      "connection": 2,
+                      "dropCapitalLength": 0
+                    },
+                    {
+                      "id": "syl_1173",
+                      "text": "národové,",
+                      "connection": 2,
+                      "dropCapitalLength": 0
+                    },
+                    {
+                      "id": "syl_1174",
+                      "text": "chvalte",
+                      "connection": 2,
+                      "dropCapitalLength": 0
+                    },
+                    {
+                      "id": "syl_1175",
+                      "text": "jeho",
+                      "connection": 2,
+                      "dropCapitalLength": 0
+                    },
+                    {
+                      "id": "syl_1176",
+                      "text": "všickni",
+                      "connection": 2,
+                      "dropCapitalLength": 0
+                    },
+                    {
+                      "id": "syl_1177",
+                      "text": "lidé",
+                      "connection": 2,
+                      "dropCapitalLength": 0
+                    },
+                    {
+                      "id": "syl_1178",
+                      "text": "A",
+                      "connection": 2,
+                      "dropCapitalLength": 0
+                    },
+                    {
+                      "id": "syl_1179",
+                      "text": "pravda",
+                      "connection": 2,
+                      "dropCapitalLength": 0
+                    },
+                    {
+                      "id": "syl_1180",
+                      "text": "Boží",
+                      "connection": 2,
+                      "dropCapitalLength": 0
+                    },
+                    {
+                      "id": "syl_1181",
+                      "text": "zůstává",
+                      "connection": 2,
+                      "dropCapitalLength": 0
+                    },
+                    {
+                      "id": "syl_1182",
+                      "text": "na",
+                      "connection": 2,
+                      "dropCapitalLength": 0
+                    },
+                    {
+                      "id": "syl_1183",
+                      "text": "věky",
+                      "connection": 2,
+                      "dropCapitalLength": 0
+                    },
+                    {
+                      "id": "syl_1184",
+                      "text": "Nebo",
+                      "connection": 2,
+                      "dropCapitalLength": 0
+                    },
+                    {
+                      "id": "syl_1185",
+                      "text": "potvrzeno",
+                      "connection": 2,
+                      "dropCapitalLength": 0
+                    },
+                    {
+                      "id": "syl_1186",
+                      "text": "jest",
+                      "connection": 2,
+                      "dropCapitalLength": 0
+                    },
+                    {
+                      "id": "syl_1187",
+                      "text": "nad",
+                      "connection": 2,
+                      "dropCapitalLength": 0
+                    },
+                    {
+                      "id": "syl_1188",
+                      "text": "námi",
+                      "connection": 2,
+                      "dropCapitalLength": 0
+                    },
+                    {
+                      "id": "syl_1189",
+                      "text": "milosrdenství",
+                      "connection": 2,
+                      "dropCapitalLength": 0
+                    },
+                    {
+                      "id": "syl_1190",
+                      "text": "jeho",
+                      "connection": 2,
+                      "dropCapitalLength": 0
+                    },
+                    {
+                      "id": "syl_1191",
+                      "text": "Chvála",
+                      "connection": 2,
+                      "dropCapitalLength": 0
+                    },
+                    {
+                      "id": "syl_1192",
+                      "text": "Otci",
+                      "connection": 2,
+                      "dropCapitalLength": 0
+                    },
+                    {
+                      "id": "syl_1193",
+                      "text": "i",
+                      "connection": 2,
+                      "dropCapitalLength": 0
+                    },
+                    {
+                      "id": "syl_1194",
+                      "text": "Synu",
+                      "connection": 2,
+                      "dropCapitalLength": 0
+                    }
+                  ]
+                }
+              }
+            ]
           }
         ]
       },
@@ -4129,7 +4961,23 @@
                   "dropCapitalLength": 0
                 }
               ]
-            }
+            },
+            "readings": [
+              {
+                "readingName": "Transcription",
+                "coords": "0.18033622468823887,0.576600767089235 0.16239773872101404,0.5628019317298312 0.1485989033616103,0.5310646104032025 0.13617995153814688,0.5186456585797392 0.16101785518507367,0.4951876384687528 0.16101785518507367,0.47492261943258696 0.15560969480657874,0.469514459054092 0.15616303798136547,0.4573409092087836 0.1485989033616103,0.4413721805670782 0.11824146557092204,0.43585264642331667 0.05200705584578402,0.44965148178272046 0.05476682291766478,0.46621008421400495 0.07270530888488964,0.47034973482182607 0.07658032104867468,0.5511011387930148 0.07581011118121367,0.56785333988535 0.07258588558018882,0.5815562986897056 0.095961521187619,0.575107847487656 0.0950583766416789,0.5775162329434962 0.09754321253181641,0.576600767089235",
+                "sentence": {
+                  "syllables": [
+                    {
+                      "id": "syl_10310",
+                      "text": "R",
+                      "connection": 2,
+                      "dropCapitalLength": 0
+                    }
+                  ]
+                }
+              }
+            ]
           }
         ]
       },
@@ -4152,7 +5000,23 @@
                   "dropCapitalLength": 0
                 }
               ]
-            }
+            },
+            "readings": [
+              {
+                "readingName": "Transcription",
+                "coords": "0.15135867043349102,0.8815550285320579 0.07132542534894928,0.8829349120679982 0.0644260076692474,0.7835832974802912 0.15273855396943142,0.786343064552172",
+                "sentence": {
+                  "syllables": [
+                    {
+                      "id": "syl_10311",
+                      "text": "Ž",
+                      "connection": 2,
+                      "dropCapitalLength": 0
+                    }
+                  ]
+                }
+              }
+            ]
           }
         ]
       }
@@ -4749,23 +5613,29 @@
     "works": {
       "works": [
         {
-          "workTitle": "Židovstvo a Jeruzaléme",
-          "meta": {
-            "cantusId": "003511"
-          },
+          "workTitle": "\u017didovstvo a Jeruzal\u00e9me",
           "blocks": [
             "page_0:block_0",
             "page_0:block_1",
             "page_0:block_6",
             "page_0:block_7",
             "page_0:block_8"
-          ]
+          ],
+          "meta": {
+            "cantusId": "003511"
+          }
         },
         {
-          "workTitle": "Raduj se a vesel se, Jeruzaléme",
+          "workTitle": "Chvalte Hospodina v\u0161ichni n\u00e1rodov\u00e9",
+          "blocks": [
+            "page_0:block_14"
+          ],
           "meta": {
-            "cantusId": "002922"
-          },
+            "cantusId": "920116"
+          }
+        },
+        {
+          "workTitle": "Raduj se a vesel se, Jeruzal\u00e9me",
           "blocks": [
             "page_0:block_2",
             "page_0:block_3",
@@ -4774,36 +5644,30 @@
             "page_0:block_10",
             "page_0:block_11",
             "page_0:block_15"
-          ]
+          ],
+          "meta": {
+            "cantusId": "002922"
+          }
         },
         {
-          "workTitle": "Zdrávas naděje naše",
+          "workTitle": "Chvalte d\u00edtka Hospodina",
+          "blocks": [
+            "page_0:block_13"
+          ],
           "meta": {
-            "cantusId": "a00605"
-          },
+            "cantusId": "920112"
+          }
+        },
+        {
+          "workTitle": "Zdr\u00e1vas nad\u011bje na\u0161e",
           "blocks": [
             "page_0:block_5",
             "page_0:block_12",
             "page_0:block_16"
-          ]
-        },
-        {
-          "workTitle": "Chvalte dítka Hospodina",
+          ],
           "meta": {
-            "cantusId": "920112"
-          },
-          "blocks": [
-            "page_0:block_13"
-          ]
-        },
-        {
-          "workTitle": "Chvalte Hospodina všichni národové",
-          "meta": {
-            "cantusId": "920116"
-          },
-          "blocks": [
-            "page_0:block_14"
-          ]
+            "cantusId": "a00605"
+          }
         }
       ]
     },

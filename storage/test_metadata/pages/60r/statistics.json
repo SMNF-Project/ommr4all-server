@@ -1,19 +1,19 @@
 {
   "actions": {
-    "Undefined": 71,
+    "Undefined": 99,
     "Undo": 1,
     "Locked": 11,
     "Unlocked": 8,
     "LyricsEdit": 278,
-    "LyricsDeselect": 90,
+    "LyricsDeselect": 92,
     "ReadingOrderAuto": 2
   },
   "toolTiming": {
-    "View": 1093100,
+    "View": 1221200,
     "Layout": 4400,
     "Symbol": 29400,
-    "Lyrics": 1362500,
-    "Work": 646000
+    "Lyrics": 1366900,
+    "Work": 1121900
   },
   "actionHistory": [
     {
@@ -1859,6 +1859,126 @@
     {
       "action": 0,
       "time": 58900
+    },
+    {
+      "action": 0,
+      "time": 809300
+    },
+    {
+      "action": 0,
+      "time": 831300
+    },
+    {
+      "action": 0,
+      "time": 836700
+    },
+    {
+      "action": 0,
+      "time": 842100
+    },
+    {
+      "action": 0,
+      "time": 843400
+    },
+    {
+      "action": 0,
+      "time": 853900
+    },
+    {
+      "action": 0,
+      "time": 855100
+    },
+    {
+      "action": 0,
+      "time": 862000
+    },
+    {
+      "action": 0,
+      "time": 863600
+    },
+    {
+      "action": 0,
+      "time": 877500
+    },
+    {
+      "action": 0,
+      "time": 883800
+    },
+    {
+      "action": 0,
+      "time": 2229000
+    },
+    {
+      "action": 0,
+      "time": 2231000
+    },
+    {
+      "action": 0,
+      "time": 2233200
+    },
+    {
+      "action": 0,
+      "time": 7900
+    },
+    {
+      "action": 0,
+      "time": 15900
+    },
+    {
+      "action": 0,
+      "time": 16500
+    },
+    {
+      "action": 0,
+      "time": 20100
+    },
+    {
+      "action": 0,
+      "time": 21400
+    },
+    {
+      "action": 0,
+      "time": 23500
+    },
+    {
+      "action": 0,
+      "time": 24200
+    },
+    {
+      "action": 0,
+      "time": 28000
+    },
+    {
+      "action": 0,
+      "time": 29500
+    },
+    {
+      "action": 0,
+      "time": 31700
+    },
+    {
+      "action": 0,
+      "time": 32600
+    },
+    {
+      "action": 0,
+      "time": 34700
+    },
+    {
+      "action": 0,
+      "time": 35300
+    },
+    {
+      "action": 0,
+      "time": 37800
+    },
+    {
+      "action": 404,
+      "time": 42100
+    },
+    {
+      "action": 404,
+      "time": 42700
     }
   ]
 }

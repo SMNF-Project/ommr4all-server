@@ -4939,7 +4939,707 @@
                   "dropCapitalLength": 0
                 }
               ]
-            }
+            },
+            "readings": [
+              {
+                "readingName": "Transcription",
+                "coords": "0.6305210028370485,0.3033717069796987 0.6331715498452148,0.454452886445177 0.544667464134927,0.4587492012854823 0.5420896752307438,0.42781573443528453 0.06863577982910635,0.4432824678603834 0.0213763165857487,0.4312527863075287 0.0213763165857487,0.40117858242539206 0.06863577982910635,0.3943044786809037 0.06605799092492319,0.3599339599584617 0.029109683298298134,0.36079322292652277 0.02567263142605394,0.32985975607632506 0.06176167608461795,0.3247041782679588 0.029968946266359178,0.3058003929706157 0.031687472202481276,0.2826002928329674 0.06691725389298424,0.2851780817371506 0.06691725389298425,0.26971134831205174 0.6297344979729707,0.25854092972725806 0.6299265009815272,0.2694851012149895 0.6591551072191694,0.2649181314903578 0.6829137722693592,0.2674866358201081 0.6861244026815471,0.27069726623229595 0.6867665287639846,0.3028035703541741",
+                "sentence": {
+                  "syllables": [
+                    {
+                      "id": "syl_20195",
+                      "text": "Chvalte",
+                      "connection": 2,
+                      "dropCapitalLength": 0
+                    },
+                    {
+                      "id": "syl_20196",
+                      "text": "dietky",
+                      "connection": 2,
+                      "dropCapitalLength": 0
+                    },
+                    {
+                      "id": "syl_20197",
+                      "text": "Hospodina,",
+                      "connection": 2,
+                      "dropCapitalLength": 0
+                    },
+                    {
+                      "id": "syl_20198",
+                      "text": "chvalte",
+                      "connection": 2,
+                      "dropCapitalLength": 0
+                    },
+                    {
+                      "id": "syl_20199",
+                      "text": "jméno",
+                      "connection": 2,
+                      "dropCapitalLength": 0
+                    },
+                    {
+                      "id": "syl_20200",
+                      "text": "Hospodinovo//božie",
+                      "connection": 2,
+                      "dropCapitalLength": 0
+                    },
+                    {
+                      "id": "syl_20201",
+                      "text": "suprascr.//",
+                      "connection": 2,
+                      "dropCapitalLength": 0
+                    },
+                    {
+                      "id": "syl_20202",
+                      "text": "Buď",
+                      "connection": 2,
+                      "dropCapitalLength": 0
+                    },
+                    {
+                      "id": "syl_20203",
+                      "text": "jméno",
+                      "connection": 2,
+                      "dropCapitalLength": 0
+                    },
+                    {
+                      "id": "syl_20204",
+                      "text": "Božie",
+                      "connection": 2,
+                      "dropCapitalLength": 0
+                    },
+                    {
+                      "id": "syl_20205",
+                      "text": "pochváleno",
+                      "connection": 2,
+                      "dropCapitalLength": 0
+                    },
+                    {
+                      "id": "syl_20206",
+                      "text": "od",
+                      "connection": 2,
+                      "dropCapitalLength": 0
+                    },
+                    {
+                      "id": "syl_20207",
+                      "text": "nynějšího",
+                      "connection": 2,
+                      "dropCapitalLength": 0
+                    },
+                    {
+                      "id": "syl_20208",
+                      "text": "času",
+                      "connection": 2,
+                      "dropCapitalLength": 0
+                    },
+                    {
+                      "id": "syl_20209",
+                      "text": "(z toho",
+                      "connection": 2,
+                      "dropCapitalLength": 0
+                    },
+                    {
+                      "id": "syl_20210",
+                      "text": "marg.)",
+                      "connection": 2,
+                      "dropCapitalLength": 0
+                    },
+                    {
+                      "id": "syl_20211",
+                      "text": "(vždycky",
+                      "connection": 2,
+                      "dropCapitalLength": 0
+                    },
+                    {
+                      "id": "syl_20212",
+                      "text": "marg.)",
+                      "connection": 2,
+                      "dropCapitalLength": 0
+                    },
+                    {
+                      "id": "syl_20213",
+                      "text": "nyní",
+                      "connection": 2,
+                      "dropCapitalLength": 0
+                    },
+                    {
+                      "id": "syl_20214",
+                      "text": "až",
+                      "connection": 2,
+                      "dropCapitalLength": 0
+                    },
+                    {
+                      "id": "syl_20215",
+                      "text": "na",
+                      "connection": 2,
+                      "dropCapitalLength": 0
+                    },
+                    {
+                      "id": "syl_20216",
+                      "text": "věky.",
+                      "connection": 2,
+                      "dropCapitalLength": 0
+                    },
+                    {
+                      "id": "syl_20217",
+                      "text": "Od",
+                      "connection": 2,
+                      "dropCapitalLength": 0
+                    },
+                    {
+                      "id": "syl_20218",
+                      "text": "východa",
+                      "connection": 2,
+                      "dropCapitalLength": 0
+                    },
+                    {
+                      "id": "syl_20219",
+                      "text": "slunečného",
+                      "connection": 2,
+                      "dropCapitalLength": 0
+                    },
+                    {
+                      "id": "syl_20220",
+                      "text": "až",
+                      "connection": 2,
+                      "dropCapitalLength": 0
+                    },
+                    {
+                      "id": "syl_20221",
+                      "text": "do",
+                      "connection": 2,
+                      "dropCapitalLength": 0
+                    },
+                    {
+                      "id": "syl_20222",
+                      "text": "západa",
+                      "connection": 2,
+                      "dropCapitalLength": 0
+                    },
+                    {
+                      "id": "syl_20223",
+                      "text": "chváleno",
+                      "connection": 2,
+                      "dropCapitalLength": 0
+                    },
+                    {
+                      "id": "syl_20224",
+                      "text": "buď",
+                      "connection": 2,
+                      "dropCapitalLength": 0
+                    },
+                    {
+                      "id": "syl_20225",
+                      "text": "jméno",
+                      "connection": 2,
+                      "dropCapitalLength": 0
+                    },
+                    {
+                      "id": "syl_20226",
+                      "text": "božie.",
+                      "connection": 2,
+                      "dropCapitalLength": 0
+                    },
+                    {
+                      "id": "syl_20227",
+                      "text": "Vysoký",
+                      "connection": 2,
+                      "dropCapitalLength": 0
+                    },
+                    {
+                      "id": "syl_20228",
+                      "text": "(povýšený",
+                      "connection": 2,
+                      "dropCapitalLength": 0
+                    },
+                    {
+                      "id": "syl_20229",
+                      "text": "marg.)",
+                      "connection": 2,
+                      "dropCapitalLength": 0
+                    },
+                    {
+                      "id": "syl_20230",
+                      "text": "nade",
+                      "connection": 2,
+                      "dropCapitalLength": 0
+                    },
+                    {
+                      "id": "syl_20231",
+                      "text": "všecky",
+                      "connection": 2,
+                      "dropCapitalLength": 0
+                    },
+                    {
+                      "id": "syl_20232",
+                      "text": "lidi",
+                      "connection": 2,
+                      "dropCapitalLength": 0
+                    },
+                    {
+                      "id": "syl_20233",
+                      "text": "Hospodin//pán",
+                      "connection": 2,
+                      "dropCapitalLength": 0
+                    },
+                    {
+                      "id": "syl_20234",
+                      "text": "suprascr.//",
+                      "connection": 2,
+                      "dropCapitalLength": 0
+                    },
+                    {
+                      "id": "syl_20235",
+                      "text": "a",
+                      "connection": 2,
+                      "dropCapitalLength": 0
+                    },
+                    {
+                      "id": "syl_20236",
+                      "text": "nad",
+                      "connection": 2,
+                      "dropCapitalLength": 0
+                    },
+                    {
+                      "id": "syl_20237",
+                      "text": "nebesa",
+                      "connection": 2,
+                      "dropCapitalLength": 0
+                    },
+                    {
+                      "id": "syl_20238",
+                      "text": "chvála",
+                      "connection": 2,
+                      "dropCapitalLength": 0
+                    },
+                    {
+                      "id": "syl_20239",
+                      "text": "jeho",
+                      "connection": 2,
+                      "dropCapitalLength": 0
+                    },
+                    {
+                      "id": "syl_20240",
+                      "text": "Kto",
+                      "connection": 2,
+                      "dropCapitalLength": 0
+                    },
+                    {
+                      "id": "syl_20241",
+                      "text": "jakžto",
+                      "connection": 2,
+                      "dropCapitalLength": 0
+                    },
+                    {
+                      "id": "syl_20242",
+                      "text": "Hospodin",
+                      "connection": 2,
+                      "dropCapitalLength": 0
+                    },
+                    {
+                      "id": "syl_20243",
+                      "text": "Bóh",
+                      "connection": 2,
+                      "dropCapitalLength": 0
+                    },
+                    {
+                      "id": "syl_20244",
+                      "text": "náš,",
+                      "connection": 2,
+                      "dropCapitalLength": 0
+                    },
+                    {
+                      "id": "syl_20245",
+                      "text": "kterýž",
+                      "connection": 2,
+                      "dropCapitalLength": 0
+                    },
+                    {
+                      "id": "syl_20246",
+                      "text": "u",
+                      "connection": 2,
+                      "dropCapitalLength": 0
+                    },
+                    {
+                      "id": "syl_20247",
+                      "text": "vysokosti",
+                      "connection": 2,
+                      "dropCapitalLength": 0
+                    },
+                    {
+                      "id": "syl_20248",
+                      "text": "přebývá",
+                      "connection": 2,
+                      "dropCapitalLength": 0
+                    },
+                    {
+                      "id": "syl_20249",
+                      "text": "a",
+                      "connection": 2,
+                      "dropCapitalLength": 0
+                    },
+                    {
+                      "id": "syl_20250",
+                      "text": "//nás",
+                      "connection": 2,
+                      "dropCapitalLength": 0
+                    },
+                    {
+                      "id": "syl_20251",
+                      "text": "suprascr.//",
+                      "connection": 2,
+                      "dropCapitalLength": 0
+                    },
+                    {
+                      "id": "syl_20252",
+                      "text": "pokorné",
+                      "connection": 2,
+                      "dropCapitalLength": 0
+                    },
+                    {
+                      "id": "syl_20253",
+                      "text": "obezří",
+                      "connection": 2,
+                      "dropCapitalLength": 0
+                    },
+                    {
+                      "id": "syl_20254",
+                      "text": "na",
+                      "connection": 2,
+                      "dropCapitalLength": 0
+                    },
+                    {
+                      "id": "syl_20255",
+                      "text": "nebi",
+                      "connection": 2,
+                      "dropCapitalLength": 0
+                    },
+                    {
+                      "id": "syl_20256",
+                      "text": "i",
+                      "connection": 2,
+                      "dropCapitalLength": 0
+                    },
+                    {
+                      "id": "syl_20257",
+                      "text": "na",
+                      "connection": 2,
+                      "dropCapitalLength": 0
+                    },
+                    {
+                      "id": "syl_20258",
+                      "text": "zemi?",
+                      "connection": 2,
+                      "dropCapitalLength": 0
+                    },
+                    {
+                      "id": "syl_20259",
+                      "text": "Vzkřešuje",
+                      "connection": 2,
+                      "dropCapitalLength": 0
+                    },
+                    {
+                      "id": "syl_20260",
+                      "text": "od",
+                      "connection": 2,
+                      "dropCapitalLength": 0
+                    },
+                    {
+                      "id": "syl_20261",
+                      "text": "země",
+                      "connection": 2,
+                      "dropCapitalLength": 0
+                    },
+                    {
+                      "id": "syl_20262",
+                      "text": "pracného",
+                      "connection": 2,
+                      "dropCapitalLength": 0
+                    },
+                    {
+                      "id": "syl_20263",
+                      "text": "a",
+                      "connection": 2,
+                      "dropCapitalLength": 0
+                    },
+                    {
+                      "id": "syl_20264",
+                      "text": "z bláta",
+                      "connection": 2,
+                      "dropCapitalLength": 0
+                    },
+                    {
+                      "id": "syl_20265",
+                      "text": "vyzdvihuje",
+                      "connection": 2,
+                      "dropCapitalLength": 0
+                    },
+                    {
+                      "id": "syl_20266",
+                      "text": "chudého,",
+                      "connection": 2,
+                      "dropCapitalLength": 0
+                    },
+                    {
+                      "id": "syl_20267",
+                      "text": "aby",
+                      "connection": 2,
+                      "dropCapitalLength": 0
+                    },
+                    {
+                      "id": "syl_20268",
+                      "text": "usadil",
+                      "connection": 2,
+                      "dropCapitalLength": 0
+                    },
+                    {
+                      "id": "syl_20269",
+                      "text": "jeho",
+                      "connection": 2,
+                      "dropCapitalLength": 0
+                    },
+                    {
+                      "id": "syl_20270",
+                      "text": "s",
+                      "connection": 2,
+                      "dropCapitalLength": 0
+                    },
+                    {
+                      "id": "syl_20271",
+                      "text": "kniežaty,",
+                      "connection": 2,
+                      "dropCapitalLength": 0
+                    },
+                    {
+                      "id": "syl_20272",
+                      "text": "s",
+                      "connection": 2,
+                      "dropCapitalLength": 0
+                    },
+                    {
+                      "id": "syl_20273",
+                      "text": "kniežaty",
+                      "connection": 2,
+                      "dropCapitalLength": 0
+                    },
+                    {
+                      "id": "syl_20274",
+                      "text": "lidu",
+                      "connection": 2,
+                      "dropCapitalLength": 0
+                    },
+                    {
+                      "id": "syl_20275",
+                      "text": "svého,",
+                      "connection": 2,
+                      "dropCapitalLength": 0
+                    },
+                    {
+                      "id": "syl_20276",
+                      "text": "kterýž",
+                      "connection": 2,
+                      "dropCapitalLength": 0
+                    },
+                    {
+                      "id": "syl_20277",
+                      "text": "přebývati",
+                      "connection": 2,
+                      "dropCapitalLength": 0
+                    },
+                    {
+                      "id": "syl_20278",
+                      "text": "velí",
+                      "connection": 2,
+                      "dropCapitalLength": 0
+                    },
+                    {
+                      "id": "syl_20279",
+                      "text": "bezdětkyni",
+                      "connection": 2,
+                      "dropCapitalLength": 0
+                    },
+                    {
+                      "id": "syl_20280",
+                      "text": "(neplodné",
+                      "connection": 2,
+                      "dropCapitalLength": 0
+                    },
+                    {
+                      "id": "syl_20281",
+                      "text": "marg.)",
+                      "connection": 2,
+                      "dropCapitalLength": 0
+                    },
+                    {
+                      "id": "syl_20282",
+                      "text": "v",
+                      "connection": 2,
+                      "dropCapitalLength": 0
+                    },
+                    {
+                      "id": "syl_20283",
+                      "text": "domu",
+                      "connection": 2,
+                      "dropCapitalLength": 0
+                    },
+                    {
+                      "id": "syl_20284",
+                      "text": "mateři",
+                      "connection": 2,
+                      "dropCapitalLength": 0
+                    },
+                    {
+                      "id": "syl_20285",
+                      "text": "synóv",
+                      "connection": 2,
+                      "dropCapitalLength": 0
+                    },
+                    {
+                      "id": "syl_20286",
+                      "text": "veselé",
+                      "connection": 2,
+                      "dropCapitalLength": 0
+                    },
+                    {
+                      "id": "syl_20287",
+                      "text": "//radující",
+                      "connection": 2,
+                      "dropCapitalLength": 0
+                    },
+                    {
+                      "id": "syl_20288",
+                      "text": "se",
+                      "connection": 2,
+                      "dropCapitalLength": 0
+                    },
+                    {
+                      "id": "syl_20289",
+                      "text": "suprascr.//.",
+                      "connection": 2,
+                      "dropCapitalLength": 0
+                    },
+                    {
+                      "id": "syl_20290",
+                      "text": "Chvála",
+                      "connection": 2,
+                      "dropCapitalLength": 0
+                    },
+                    {
+                      "id": "syl_20291",
+                      "text": "Otci",
+                      "connection": 2,
+                      "dropCapitalLength": 0
+                    },
+                    {
+                      "id": "syl_20292",
+                      "text": "i",
+                      "connection": 2,
+                      "dropCapitalLength": 0
+                    },
+                    {
+                      "id": "syl_20293",
+                      "text": "Synu",
+                      "connection": 2,
+                      "dropCapitalLength": 0
+                    },
+                    {
+                      "id": "syl_20294",
+                      "text": "i",
+                      "connection": 2,
+                      "dropCapitalLength": 0
+                    },
+                    {
+                      "id": "syl_20295",
+                      "text": "Svatému",
+                      "connection": 2,
+                      "dropCapitalLength": 0
+                    },
+                    {
+                      "id": "syl_20296",
+                      "text": "duchu",
+                      "connection": 2,
+                      "dropCapitalLength": 0
+                    },
+                    {
+                      "id": "syl_20297",
+                      "text": "jakož",
+                      "connection": 2,
+                      "dropCapitalLength": 0
+                    },
+                    {
+                      "id": "syl_20298",
+                      "text": "byla",
+                      "connection": 2,
+                      "dropCapitalLength": 0
+                    },
+                    {
+                      "id": "syl_20299",
+                      "text": "na",
+                      "connection": 2,
+                      "dropCapitalLength": 0
+                    },
+                    {
+                      "id": "syl_20300",
+                      "text": "počátku",
+                      "connection": 2,
+                      "dropCapitalLength": 0
+                    },
+                    {
+                      "id": "syl_20301",
+                      "text": "i",
+                      "connection": 2,
+                      "dropCapitalLength": 0
+                    },
+                    {
+                      "id": "syl_20302",
+                      "text": "nynie",
+                      "connection": 2,
+                      "dropCapitalLength": 0
+                    },
+                    {
+                      "id": "syl_20303",
+                      "text": "i",
+                      "connection": 2,
+                      "dropCapitalLength": 0
+                    },
+                    {
+                      "id": "syl_20304",
+                      "text": "vždycky",
+                      "connection": 2,
+                      "dropCapitalLength": 0
+                    },
+                    {
+                      "id": "syl_20305",
+                      "text": "i",
+                      "connection": 2,
+                      "dropCapitalLength": 0
+                    },
+                    {
+                      "id": "syl_20306",
+                      "text": "na",
+                      "connection": 2,
+                      "dropCapitalLength": 0
+                    },
+                    {
+                      "id": "syl_20307",
+                      "text": "věky",
+                      "connection": 2,
+                      "dropCapitalLength": 0
+                    },
+                    {
+                      "id": "syl_20308",
+                      "text": "věkóv.",
+                      "connection": 2,
+                      "dropCapitalLength": 0
+                    },
+                    {
+                      "id": "syl_20309",
+                      "text": "Amen.",
+                      "connection": 2,
+                      "dropCapitalLength": 0
+                    }
+                  ]
+                }
+              }
+            ]
           }
         ]
       },

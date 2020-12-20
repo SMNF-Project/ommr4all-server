@@ -1,7 +1,0 @@
-{
-  "preprocessing": {
-    "auto_line_distance": true,
-    "average_line_distance": -1,
-    "deskewing_degrees": 1.25
-  }
-}

@@ -1,6 +1,6 @@
 {
   "id": "test_metadata",
-  "name": "test_metadata",
+  "name": "Testing book",
   "created": "2020-11-26T13:22:56.676025",
   "creator": {
     "username": "hajicj",
@@ -10,5 +10,18 @@
   "last_opened": "",
   "notationStyle": "french14",
   "numberOfStaffLines": 4,
-  "algorithmPredictorParams": {}
+  "algorithmPredictorParams": {
+    "text_calamari": {
+      "modelId": "i/french14/text_calamari/text_calamari",
+      "automaticLd": true,
+      "avgLd": 10,
+      "minNumberOfStaffLines": null,
+      "maxNumberOfStaffLines": null,
+      "ctcDecoder": {
+        "beamWidth": 50,
+        "wordSeparator": " "
+      },
+      "initialLine": null
+    }
+  }
 }

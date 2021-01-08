@@ -377,6 +377,14 @@
               }
             ],
             "symbols": [
+            {
+                "id": "clef_1",
+                "type": "clef",
+                "fixedSorting": false,
+                "coord": "0.06402220689189998,0.1737770260737688",
+                "positionInStaff": 9,
+                "clefType": "c"
+              },
               {
                 "id": "note_26",
                 "type": "note",
@@ -770,7 +778,7 @@
             ],
             "symbols": [
               {
-                "id": "clef_1",
+                "id": "clef_2",
                 "type": "clef",
                 "fixedSorting": false,
                 "coord": "0.16039102031352576,0.46052954610356417",
@@ -1137,7 +1145,7 @@
             ],
             "symbols": [
               {
-                "id": "clef_2",
+                "id": "clef_3",
                 "type": "clef",
                 "fixedSorting": false,
                 "coord": "0.06207689077500997,0.5659385097324883",
@@ -1548,7 +1556,7 @@
             ],
             "symbols": [
               {
-                "id": "clef_3",
+                "id": "clef_4",
                 "type": "clef",
                 "fixedSorting": false,
                 "coord": "0.07018527259261953,0.6683068301798089",
@@ -1893,7 +1901,7 @@
             ],
             "symbols": [
               {
-                "id": "clef_4",
+                "id": "clef_5",
                 "type": "clef",
                 "fixedSorting": false,
                 "coord": "0.1500982308284492,0.7930661958253769",

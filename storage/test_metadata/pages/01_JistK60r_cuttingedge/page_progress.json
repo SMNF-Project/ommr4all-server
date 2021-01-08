@@ -2,7 +2,7 @@
   "locked": {
     "StaffLines": true,
     "Layout": true,
-    "Symbols": true,
+    "Symbols": false,
     "Text": false
   },
   "verified": false

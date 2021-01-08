@@ -1,7 +1,43 @@
 {
-  "actions": {},
-  "toolTiming": {
-    "View": 6800
+  "actions": {
+    "Undefined": 4,
+    "Unlocked": 1,
+    "SymbolsDrag": 1,
+    "SymbolsInsert": 1
   },
-  "actionHistory": []
+  "toolTiming": {
+    "View": 13800,
+    "Symbol": 15800,
+    "Work": 30900
+  },
+  "actionHistory": [
+    {
+      "action": 0,
+      "time": 14800
+    },
+    {
+      "action": 0,
+      "time": 45600
+    },
+    {
+      "action": 0,
+      "time": 49700
+    },
+    {
+      "action": 0,
+      "time": 55200
+    },
+    {
+      "action": 5,
+      "time": 92200
+    },
+    {
+      "action": 303,
+      "time": 102200
+    },
+    {
+      "action": 301,
+      "time": 106500
+    }
+  ]
 }

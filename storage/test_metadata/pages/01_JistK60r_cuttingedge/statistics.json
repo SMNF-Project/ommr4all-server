@@ -1,5 +1,7 @@
 {
   "actions": {},
-  "toolTiming": {},
+  "toolTiming": {
+    "View": 6800
+  },
   "actionHistory": []
 }

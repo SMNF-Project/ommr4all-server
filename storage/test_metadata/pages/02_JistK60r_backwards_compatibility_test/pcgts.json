@@ -2769,7 +2769,7 @@
         "lines": [
           {
             "id": "page_0:block_11:line_11",
-            "coords": "0.5306443263538194,0.7404641875033444 0.5369554337617329,0.7617641750050524 0.35235554208026315,0.7649197287090093 0.07782236983602599,0.7672863939869768 0.0770334814100368,0.7412530759293335",
+            "coords": "0.5306443263538194,0.7404641875033444 0.5369554337617329,0.7617641750050524 0.5343730341371035,0.7819080279676476 0.07903581978307159,0.7854881431926608 0.0770334814100368,0.7412530759293335",
             "reconstructed": false,
             "sentence": {
               "syllables": [
@@ -3023,7 +3023,7 @@
         "lines": [
           {
             "id": "page_0:block_13:line_13",
-            "coords": "0.5606220865414085,0.8643196703836468 0.5589735884613926,0.8066222375830875 0.5620111476050818,0.799872106152667 0.5587807275633805,0.799872106152667 0.558255421263441,0.7814863856547821 0.5266998842238735,0.7806974972287929 0.4257221656972575,0.7838530509327497 0.07624459298404761,0.7830641625067606 0.0770334814100368,0.76413084028302 0.5361665453357438,0.7586086213010957 0.5361665453357438,0.7365197453733985 0.5385332106137113,0.6986531009259176 0.5369554337617329,0.6536864606445338 0.6347775985843921,0.6505309069405771 0.6363553754363706,0.8635307819576576",
+            "coords": "0.5606220865414085,0.8643196703836468 0.5589735884613926,0.8066222375830875 0.5620111476050818,0.799872106152667 0.5587807275633805,0.799872106152667 0.558255421263441,0.7814863856547821 0.5266998842238735,0.7806974972287929 0.537359560825453,0.7887068507209322 0.5349286729672851,0.7794238126656238 0.5369310113403198,0.76413084028302 0.5361665453357438,0.7586086213010957 0.5361665453357438,0.7365197453733985 0.5385332106137113,0.6986531009259176 0.5369554337617329,0.6536864606445338 0.6347775985843921,0.6505309069405771 0.6363553754363706,0.8635307819576576",
             "reconstructed": false,
             "sentence": {
               "syllables": [
@@ -3939,80 +3939,6 @@
     "annotations": {
       "connections": [
         {
-          "musicID": "page_0:block_0",
-          "textID": "page_0:block_7",
-          "syllableConnectors": [
-            {
-              "syllableID": "syl_19",
-              "noteID": "note_0"
-            },
-            {
-              "syllableID": "syl_20",
-              "noteID": "note_1"
-            },
-            {
-              "syllableID": "syl_21",
-              "noteID": "note_2"
-            },
-            {
-              "syllableID": "syl_22",
-              "noteID": "note_6"
-            },
-            {
-              "syllableID": "syl_23",
-              "noteID": "note_7"
-            },
-            {
-              "syllableID": "syl_24",
-              "noteID": "note_8"
-            },
-            {
-              "syllableID": "syl_25",
-              "noteID": "note_10"
-            },
-            {
-              "syllableID": "syl_26",
-              "noteID": "note_11"
-            },
-            {
-              "syllableID": "syl_27",
-              "noteID": "note_12"
-            },
-            {
-              "syllableID": "syl_28",
-              "noteID": "note_13"
-            },
-            {
-              "syllableID": "syl_29",
-              "noteID": "note_14"
-            },
-            {
-              "syllableID": "syl_30",
-              "noteID": "note_16"
-            },
-            {
-              "syllableID": "syl_31",
-              "noteID": "note_17"
-            },
-            {
-              "syllableID": "syl_32",
-              "noteID": "note_18"
-            },
-            {
-              "syllableID": "syl_33",
-              "noteID": "note_20"
-            },
-            {
-              "syllableID": "syl_34",
-              "noteID": "note_23"
-            },
-            {
-              "syllableID": "syl_35",
-              "noteID": "note_24"
-            }
-          ]
-        },
-        {
           "musicID": "page_0:block_1",
           "textID": "page_0:block_8",
           "syllableConnectors": [
@@ -4443,6 +4369,80 @@
             {
               "syllableID": "syl_235",
               "noteID": "note_170"
+            }
+          ]
+        },
+        {
+          "musicID": "page_0:block_0",
+          "textID": "page_0:block_7",
+          "syllableConnectors": [
+            {
+              "syllableID": "syl_19",
+              "noteID": "note_0"
+            },
+            {
+              "syllableID": "syl_20",
+              "noteID": "note_1"
+            },
+            {
+              "syllableID": "syl_21",
+              "noteID": "note_2"
+            },
+            {
+              "syllableID": "syl_22",
+              "noteID": "note_6"
+            },
+            {
+              "syllableID": "syl_23",
+              "noteID": "note_7"
+            },
+            {
+              "syllableID": "syl_24",
+              "noteID": "note_8"
+            },
+            {
+              "syllableID": "syl_25",
+              "noteID": "note_10"
+            },
+            {
+              "syllableID": "syl_26",
+              "noteID": "note_11"
+            },
+            {
+              "syllableID": "syl_27",
+              "noteID": "note_12"
+            },
+            {
+              "syllableID": "syl_28",
+              "noteID": "note_13"
+            },
+            {
+              "syllableID": "syl_29",
+              "noteID": "note_14"
+            },
+            {
+              "syllableID": "syl_30",
+              "noteID": "note_16"
+            },
+            {
+              "syllableID": "syl_31",
+              "noteID": "note_17"
+            },
+            {
+              "syllableID": "syl_32",
+              "noteID": "note_18"
+            },
+            {
+              "syllableID": "syl_33",
+              "noteID": "note_21"
+            },
+            {
+              "syllableID": "syl_34",
+              "noteID": "note_23"
+            },
+            {
+              "syllableID": "syl_35",
+              "noteID": "note_24"
             }
           ]
         }

@@ -13,23 +13,19 @@ class LineReading:
     """Container class for a reading of a text Line."""
     def __init__(self,
                  readingName: str,
-                 sentence: Sentence,
-                 coords: Coords):
+                 sentence: Sentence):
         self.reading_name = readingName
         self.sentence = sentence
-        self.coords = coords
 
     @staticmethod
     def from_json(d: dict) -> 'Reading':
         return LineReading(
             d.get('readingName'),
             Sentence.from_json(d.get('sentence', '')),
-            Coords.from_json(d.get('coords', '')),
         )
 
     def to_json(self) -> dict:
         return {'readingName': self.reading_name,
-                'coords': self.coords.to_json(),
                 'sentence': self.sentence.to_json()}
 
     def syllable_by_id(self, syllable_id):

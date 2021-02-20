@@ -4456,47 +4456,74 @@
         {
           "id": "page_0:block_6:line_6",
           "text": "\u017d",
-          "aabb": null
+          "aabb": null,
+          "author": null,
+          "timestamp": null,
+          "children": null
         },
         {
           "id": "page_0:block_7:line_7",
           "text": "y-dov-stvo a Je-ru-zal\u00e9-me ne-ro\u010f-te se b\u00e1-ti z\u00ed-tra vy- ",
-          "aabb": null
+          "aabb": null,
+          "author": null,
+          "timestamp": null,
+          "children": null
         },
         {
           "id": "page_0:block_8:line_8",
           "text": "\u0148\u010fte a Hos-po-din bu-de s v\u00e1-mi chval-me\u017e Bo-ha na v\u011b-ky v\u011b-k\u00f3v a-men",
-          "aabb": null
+          "aabb": null,
+          "author": null,
+          "timestamp": null,
+          "children": null
         },
         {
           "id": "page_0:block_15:line_15",
           "text": "R",
-          "aabb": null
+          "aabb": null,
+          "author": null,
+          "timestamp": null,
+          "children": null
         },
         {
           "id": "page_0:block_9:line_9",
           "text": "a-duj se a ve-sel se Je-ru-za-l\u00e9-me a aj kr\u00e1l tv\u016fj p\u0159ij-de o n\u011bm\u017e",
-          "aabb": null
+          "aabb": null,
+          "author": null,
+          "timestamp": null,
+          "children": null
         },
         {
           "id": "page_0:block_10:line_10",
           "text": "pro-ro-ko-v\u00e9 zv\u011bs-to-va-li je-mu\u017e an-je-l\u00e9 kla-n\u011b-li s\u00fa se je-mu\u017e che-ru-bin",
-          "aabb": null
+          "aabb": null,
+          "author": null,
+          "timestamp": null,
+          "children": null
         },
         {
           "id": "page_0:block_11:line_11",
           "text": "a se-ra-phin Sva-t\u00fd sva-t\u00fd sva-t\u00fd pro-zpv\u011b-va-j\u00ed. E u o u a e",
-          "aabb": null
+          "aabb": null,
+          "author": null,
+          "timestamp": null,
+          "children": null
         },
         {
           "id": "page_0:block_12:line_12",
           "text": "dr\u00e1-va, na-d\u011b-je na-\u0161e, bo-\u017eie ro-di-ce ne-po-skvr-n\u011b-n\u00e1,",
-          "aabb": null
+          "aabb": null,
+          "author": null,
+          "timestamp": null,
+          "children": null
         },
         {
           "id": "page_0:block_16:line_16",
           "text": "Z",
-          "aabb": null
+          "aabb": null,
+          "author": null,
+          "timestamp": null,
+          "children": null
         }
       ]
     },

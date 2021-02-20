@@ -3,10 +3,15 @@ from typing import List
 
 
 class UserComment:
-    def __init__(self, uc_id="", text="", aabb: Rect = None):
+    def __init__(self, uc_id="", text="", aabb: Rect = None,
+                 author="", timestamp="", children=None):
         self.id = uc_id
         self.text = text
         self.aabb = aabb
+
+        self.author = author
+        self.timestamp = timestamp
+        self.children = children
 
     @staticmethod
     def from_json(json: dict):
@@ -17,6 +22,9 @@ class UserComment:
             json.get("id", ""),
             json.get("text", ""),
             Rect.from_json(json["aabb"]) if json.get('aabb', None) else None,
+            json.get("author", ""),
+            json.get("timestamp", ""),
+            [UserComment.from_json(j) for j in json["children"]] if json.get('children', None) else None,
         )
 
     def to_json(self):
@@ -24,6 +32,9 @@ class UserComment:
             "id": self.id,
             "text": self.text,
             "aabb": self.aabb.to_json() if self.aabb else None,
+            "author": self.author,
+            "timestamp": self.timestamp,
+            "children": [ch.to_json() for ch in self.children] if self.children else None
         }
 
 

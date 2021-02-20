@@ -1,43 +1,33 @@
 {
   "actions": {
     "Undefined": 4,
-    "Unlocked": 1,
-    "SymbolsDrag": 1,
-    "SymbolsInsert": 1
+    "Locked": 1
   },
   "toolTiming": {
-    "View": 13800,
-    "Symbol": 15800,
-    "Work": 30900
+    "View": 21400,
+    "WorkCreator": 1800,
+    "Discussion": 122800
   },
   "actionHistory": [
     {
       "action": 0,
-      "time": 14800
+      "time": 548500
     },
     {
       "action": 0,
-      "time": 45600
+      "time": 582600
+    },
+    {
+      "action": 4,
+      "time": 641500
     },
     {
       "action": 0,
-      "time": 49700
+      "time": 827900
     },
     {
       "action": 0,
-      "time": 55200
-    },
-    {
-      "action": 5,
-      "time": 92200
-    },
-    {
-      "action": 303,
-      "time": 102200
-    },
-    {
-      "action": 301,
-      "time": 106500
+      "time": 831200
     }
   ]
 }

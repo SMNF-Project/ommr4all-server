@@ -5,5 +5,5 @@ from .block import BlockType, Block
 from .line import Line
 from .staffline import StaffLines, StaffLine
 from .musicsymbol import *
-from .annotations import *
+from .annotations import Annotations, Connection, SyllableConnector
 from .page import Page

@@ -1,0 +1,33 @@
+{
+  "actions": {
+    "Undefined": 4,
+    "Locked": 1
+  },
+  "toolTiming": {
+    "View": 21400,
+    "WorkCreator": 1800,
+    "Discussion": 122800
+  },
+  "actionHistory": [
+    {
+      "action": 0,
+      "time": 548500
+    },
+    {
+      "action": 0,
+      "time": 582600
+    },
+    {
+      "action": 4,
+      "time": 641500
+    },
+    {
+      "action": 0,
+      "time": 827900
+    },
+    {
+      "action": 0,
+      "time": 831200
+    }
+  ]
+}

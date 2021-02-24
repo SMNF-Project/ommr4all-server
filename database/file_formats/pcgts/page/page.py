@@ -2,6 +2,7 @@ from database.file_formats.pcgts.page import Coords, Point, Block, BlockType, Li
 from database.file_formats.pcgts.page import annotations as annotations
 from database.file_formats.pcgts.page.usercomment import UserComments
 from database.file_formats.pcgts.page.readingorder import ReadingOrder
+from database.file_formats.pcgts.page import work as work
 from typing import List, TYPE_CHECKING, Union, Optional, Iterable
 import numpy as np
 from enum import IntEnum
@@ -40,6 +41,7 @@ class Page:
         self.image_height = image_height
         self.image_width = image_width
         self.annotations = annotations.Annotations(self)
+        self.works = work.Works(self)
         self.comments = UserComments(self)
         self.reading_order = ReadingOrder(self)
         self.location = location
@@ -73,6 +75,9 @@ class Page:
         if 'readingOrder' in json:
             page.reading_order = ReadingOrder.from_json(json['readingOrder'], page)
 
+        if 'works' in json:
+            page.works = work.Works.from_json(json['works'], page)
+
         page.update_note_names()
         return page
 
@@ -83,6 +88,7 @@ class Page:
             "imageWidth": self.image_width,
             "imageHeight": self.image_height,
             'annotations': self.annotations.to_json(),
+            'works': self.works.to_json(),
             'comments': self.comments.to_json(),
             'readingOrder': self.reading_order.to_json(),
         }

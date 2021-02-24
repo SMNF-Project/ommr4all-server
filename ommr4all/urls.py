@@ -18,3 +18,4 @@ urlpatterns = \
         ) \
     + static(settings.STATIC_URL, document_root=settings.STATIC_ROOT) \
     + static('assets', document_root=os.path.join(settings.STATIC_ROOT, 'ommr4all-client', 'assets'))
+

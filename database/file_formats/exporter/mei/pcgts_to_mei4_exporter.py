@@ -2,6 +2,7 @@ from six import StringIO
 
 import database.file_formats.pcgts as ns_pcgts
 from typing import List, NamedTuple, Union, Optional
+import html
 from lxml import etree
 import numpy as np
 from database.file_formats.exporter.mei.neume_dict import NeumeDict
@@ -18,6 +19,7 @@ class PcgtsToMeiConverter:
         self.neume_dict = NeumeDict()
         self.doc = None
         self.root = None
+        self.head = None
         self.music = None
         self.score = None  # Page
         self.scoreDef = None
@@ -36,8 +38,8 @@ class PcgtsToMeiConverter:
     def init(self):
         self.root = etree.Element("mei", meiversion="4.0.1", xmlns="http://www.music-encoding.org/ns/mei")
         self.doc = etree.ElementTree(self.root)
-        head = etree.SubElement(self.root, 'meiHead')
-        file_desc = etree.SubElement(head, 'fileDesc')
+        self.head = etree.SubElement(self.root, 'meiHead')
+        file_desc = etree.SubElement(self.head, 'fileDesc')
         title_stmt = etree.SubElement(file_desc, 'titleStmt')
         title = etree.SubElement(title_stmt, 'title').text = 'MEI Encoding Output'
         title_stmt = etree.SubElement(file_desc, 'pubStmt')
@@ -94,6 +96,16 @@ class PcgtsToMeiConverter:
             else:
                 tr = element
                 self.add_accompanying_text(tr)
+
+        self.add_mei_head(pcgts)
+
+    def add_mei_head(self, pcgts):
+        if pcgts.mei_head_meta is None:
+            return
+        mei_head = pcgts.mei_head_meta.get_content_as_xml_tree()
+        self.root.remove(self.head)
+        self.head = mei_head
+        self.root.insert(0, mei_head)
 
     def add_accompanying_text(self, text_block):
         div = etree.SubElement(self.section, 'div')
@@ -206,10 +218,11 @@ class PcgtsToMeiConverter:
         return result
 
     def write(self, fp, pretty_print=True):
-        self.doc.write(fp, pretty_print=pretty_print)
+        fp.write(self.to_string().encode('utf-8'))
+        # self.doc.write(fp, pretty_print=pretty_print)
 
     def to_string(self,  pretty_print=True):
-        return etree.tostring(self.doc, pretty_print=pretty_print).decode('utf-8')
+        return html.unescape(etree.tostring(self.doc, pretty_print=pretty_print).decode('utf-8'))
 
 
 if __name__ == "__main__":

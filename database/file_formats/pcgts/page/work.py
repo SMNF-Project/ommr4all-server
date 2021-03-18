@@ -20,10 +20,12 @@ class Work:
 
     def __init__(self,
                  page: 'Page',
+                 _id: str,
                  work_title: str,
                  blocks: List[Block],
                  meta=None):
         self.page = page
+        self._id = _id
         self.work_title = work_title
         self.blocks = blocks
         if meta is None:
@@ -37,13 +39,17 @@ class Work:
         are findable by ID."""
         return Work(
             page=page,
+            _id=json.get('id', ""),
             work_title=json.get('workTitle', ""),
             blocks=[page.block_by_id(id) for id in json.get('blocks', [])],
             meta=json.get('meta', None)
         )
 
     def to_json(self):
+        # print('Work ' + self.work_title + ' to_json(): id')
+        # print(self._id)
         return {
+            "id": self._id,
             "workTitle": self.work_title,
             "blocks": [b.id for b in self.blocks],
             "meta": self.meta

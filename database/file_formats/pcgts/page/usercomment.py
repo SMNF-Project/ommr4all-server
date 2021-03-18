@@ -48,6 +48,8 @@ class UserComments:
         comments = UserComments(page)
         if json:
             comments.comments = [UserComment.from_json(c) for c in json.get('comments', [])]
+        # print('Comment holders:')
+        # print([c.id for c in comments.comments])
         return comments
 
     def to_json(self):

@@ -1,7 +1,20 @@
 {
-  "actions": {},
-  "toolTiming": {
-    "Discussion": 1000
+  "actions": {
+    "LayoutDelete": 1,
+    "LayoutSelect": 1
   },
-  "actionHistory": []
+  "toolTiming": {
+    "View": 9000,
+    "Layout": 5000
+  },
+  "actionHistory": [
+    {
+      "action": 225,
+      "time": 22600
+    },
+    {
+      "action": 223,
+      "time": 23400
+    }
+  ]
 }

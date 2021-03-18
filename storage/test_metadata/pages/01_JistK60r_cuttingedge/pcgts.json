@@ -5715,6 +5715,21 @@
             ]
           }
         ]
+      },
+      {
+        "id": "page_0:block_17",
+        "coords": "",
+        "type": "lyrics",
+        "lines": [
+          {
+            "id": "page_0:block_17:line_17",
+            "coords": "0.6754276152044124,0.028366093869390402 0.684608407783846,0.2318736627135039 0.6402345769832499,0.2425845873895099 0.635644180693533,0.031426358062534965",
+            "reconstructed": false,
+            "sentence": {
+              "syllables": []
+            }
+          }
+        ]
       }
     ],
     "imageFilename": "color_norm.jpg",
@@ -6309,6 +6324,7 @@
     "works": {
       "works": [
         {
+          "id": "page_0:work_0",
           "workTitle": "\u017didovstvo a Jeruzal\u00e9me",
           "blocks": [
             "page_0:block_0",
@@ -6322,6 +6338,7 @@
           }
         },
         {
+          "id": "page_0:work_1",
           "workTitle": "Chvalte Hospodina v\u0161ichni n\u00e1rodov\u00e9",
           "blocks": [
             "page_0:block_14"
@@ -6331,6 +6348,7 @@
           }
         },
         {
+          "id": "page_0:work_2",
           "workTitle": "Raduj se a vesel se, Jeruzal\u00e9me",
           "blocks": [
             "page_0:block_2",
@@ -6346,6 +6364,7 @@
           }
         },
         {
+          "id": "page_0:work_3",
           "workTitle": "Chvalte d\u00edtka Hospodina",
           "blocks": [
             "page_0:block_13"
@@ -6355,6 +6374,7 @@
           }
         },
         {
+          "id": "page_0:work_4",
           "workTitle": "Zdr\u00e1vas nad\u011bje na\u0161e",
           "blocks": [
             "page_0:block_5",
@@ -6436,27 +6456,11 @@
           "children": null
         },
         {
-          "id": "page_0:block_12:line_12",
-          "text": "dr\u00e1-va, na-d\u011b-je na-\u0161e, bo-\u017eie ro-di-ce ne-po-skvr-n\u011b-n\u00e1,",
+          "id": "page_0:work_4",
+          "text": "Test comment 8",
           "aabb": null,
           "author": null,
-          "timestamp": null,
-          "children": null
-        },
-        {
-          "id": "page_0:block_16:line_16",
-          "text": "Z",
-          "aabb": null,
-          "author": null,
-          "timestamp": null,
-          "children": null
-        },
-        {
-          "id": "page_0:block_15:line_15",
-          "text": "",
-          "aabb": null,
-          "author": null,
-          "timestamp": "2021-02-17T13:36:28",
+          "timestamp": "2021-03-18T01:10:27",
           "children": null
         }
       ]
@@ -6471,7 +6475,8 @@
         "page_0:block_10:line_10",
         "page_0:block_11:line_11",
         "page_0:block_16:line_16",
-        "page_0:block_12:line_12"
+        "page_0:block_12:line_12",
+        "page_0:block_17:line_17"
       ]
     }
   },

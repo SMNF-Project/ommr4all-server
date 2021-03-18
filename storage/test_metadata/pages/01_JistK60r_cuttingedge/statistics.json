@@ -1,12 +1,22 @@
 {
   "actions": {
-    "Undefined": 4,
-    "Locked": 1
+    "Undefined": 15,
+    "Locked": 1,
+    "Unlocked": 2,
+    "LayoutDelete": 1,
+    "LayoutSelect": 2,
+    "LayoutNewRegion": 2,
+    "LyricsDeselect": 5,
+    "WorkSelect": 10,
+    "WorkDeselect": 4
   },
   "toolTiming": {
-    "View": 21400,
+    "View": 86200,
+    "Layout": 26000,
+    "Lyrics": 44900,
+    "Work": 114500,
     "WorkCreator": 1800,
-    "Discussion": 122800
+    "Discussion": 172500
   },
   "actionHistory": [
     {
@@ -28,6 +38,154 @@
     {
       "action": 0,
       "time": 831200
+    },
+    {
+      "action": 5,
+      "time": 8100
+    },
+    {
+      "action": 229,
+      "time": 15800
+    },
+    {
+      "action": 225,
+      "time": 17000
+    },
+    {
+      "action": 5,
+      "time": 18700
+    },
+    {
+      "action": 404,
+      "time": 20800
+    },
+    {
+      "action": 404,
+      "time": 26600
+    },
+    {
+      "action": 404,
+      "time": 37200
+    },
+    {
+      "action": 404,
+      "time": 12000
+    },
+    {
+      "action": 225,
+      "time": 4482200
+    },
+    {
+      "action": 223,
+      "time": 4482900
+    },
+    {
+      "action": 229,
+      "time": 4494600
+    },
+    {
+      "action": 404,
+      "time": 4498100
+    },
+    {
+      "action": 0,
+      "time": 303500
+    },
+    {
+      "action": 0,
+      "time": 306200
+    },
+    {
+      "action": 0,
+      "time": 309100
+    },
+    {
+      "action": 803,
+      "time": 311100
+    },
+    {
+      "action": 804,
+      "time": 341900
+    },
+    {
+      "action": 0,
+      "time": 108000
+    },
+    {
+      "action": 0,
+      "time": 109800
+    },
+    {
+      "action": 0,
+      "time": 110400
+    },
+    {
+      "action": 0,
+      "time": 110900
+    },
+    {
+      "action": 803,
+      "time": 120900
+    },
+    {
+      "action": 804,
+      "time": 122800
+    },
+    {
+      "action": 0,
+      "time": 343000
+    },
+    {
+      "action": 803,
+      "time": 13400
+    },
+    {
+      "action": 804,
+      "time": 21300
+    },
+    {
+      "action": 0,
+      "time": 25600
+    },
+    {
+      "action": 0,
+      "time": 27000
+    },
+    {
+      "action": 803,
+      "time": 14100
+    },
+    {
+      "action": 804,
+      "time": 32800
+    },
+    {
+      "action": 0,
+      "time": 35100
+    },
+    {
+      "action": 803,
+      "time": 9600
+    },
+    {
+      "action": 803,
+      "time": 24000
+    },
+    {
+      "action": 803,
+      "time": 56300
+    },
+    {
+      "action": 803,
+      "time": 11800
+    },
+    {
+      "action": 803,
+      "time": 9700
+    },
+    {
+      "action": 803,
+      "time": 60700
     }
   ]
 }

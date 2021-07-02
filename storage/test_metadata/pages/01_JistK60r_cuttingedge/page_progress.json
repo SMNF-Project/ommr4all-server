@@ -3,7 +3,7 @@
     "StaffLines": true,
     "Layout": false,
     "Symbols": true,
-    "Text": false
+    "Text": true
   },
   "verified": false
 }

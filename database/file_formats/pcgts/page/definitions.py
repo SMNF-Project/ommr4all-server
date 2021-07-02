@@ -8,6 +8,7 @@ class BlockType(Enum):
     DROP_CAPITAL = 'dropCapital'
     FOLIO_NUMBER = 'folioNumber'
     MUSIC = 'music'
+    GENERIC = 'generic'
 
 
 class MusicSymbolPositionInStaff(IntEnum):

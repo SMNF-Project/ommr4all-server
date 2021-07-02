@@ -1,191 +1,224 @@
 {
   "actions": {
-    "Undefined": 15,
-    "Locked": 1,
-    "Unlocked": 2,
-    "LayoutDelete": 1,
-    "LayoutSelect": 2,
+    "Undefined": 2,
+    "Locked": 3,
+    "Unlocked": 4,
+    "LockAll": 1,
+    "LayoutDelete": 2,
+    "LayoutSelect": 4,
     "LayoutNewRegion": 2,
-    "LyricsDeselect": 5,
-    "WorkSelect": 10,
-    "WorkDeselect": 4
+    "LayoutChangeType": 1,
+    "CommentsAdded": 1,
+    "CommentsText": 1,
+    "WorkAdded": 9,
+    "WorkRemoved": 9,
+    "WorkSelect": 9,
+    "WorkDeselect": 1
   },
   "toolTiming": {
-    "View": 86200,
-    "Layout": 26000,
-    "Lyrics": 44900,
-    "Work": 114500,
-    "WorkCreator": 1800,
-    "Discussion": 172500
+    "View": 98900,
+    "Layout": 62500,
+    "LayoutExtractConnectedComponents": 2100,
+    "Work": 137362,
+    "WorkCreator": 306100,
+    "Discussion": 68600
   },
   "actionHistory": [
     {
-      "action": 0,
-      "time": 548500
+      "action": 803,
+      "time": 16421
     },
     {
-      "action": 0,
-      "time": 582600
+      "action": 804,
+      "time": 43328
     },
     {
-      "action": 4,
-      "time": 641500
+      "action": 801,
+      "time": 9400
     },
     {
-      "action": 0,
-      "time": 827900
+      "action": 803,
+      "time": 92100
     },
     {
-      "action": 0,
-      "time": 831200
+      "action": 802,
+      "time": 94900
+    },
+    {
+      "action": 801,
+      "time": 18000
+    },
+    {
+      "action": 801,
+      "time": 24200
+    },
+    {
+      "action": 801,
+      "time": 32600
+    },
+    {
+      "action": 803,
+      "time": 430400
+    },
+    {
+      "action": 802,
+      "time": 436200
+    },
+    {
+      "action": 803,
+      "time": 437300
+    },
+    {
+      "action": 802,
+      "time": 442000
+    },
+    {
+      "action": 803,
+      "time": 443300
+    },
+    {
+      "action": 802,
+      "time": 445500
+    },
+    {
+      "action": 801,
+      "time": 218900
+    },
+    {
+      "action": 803,
+      "time": 226800
+    },
+    {
+      "action": 802,
+      "time": 231100
+    },
+    {
+      "action": 801,
+      "time": 252600
+    },
+    {
+      "action": 803,
+      "time": 48800
+    },
+    {
+      "action": 802,
+      "time": 51200
+    },
+    {
+      "action": 801,
+      "time": 76100
+    },
+    {
+      "action": 803,
+      "time": 83900
+    },
+    {
+      "action": 802,
+      "time": 85900
+    },
+    {
+      "action": 801,
+      "time": 14200
+    },
+    {
+      "action": 803,
+      "time": 23300
+    },
+    {
+      "action": 802,
+      "time": 24600
+    },
+    {
+      "action": 6,
+      "time": 151000
     },
     {
       "action": 5,
-      "time": 8100
-    },
-    {
-      "action": 229,
-      "time": 15800
-    },
-    {
-      "action": 225,
-      "time": 17000
+      "time": 155600
     },
     {
       "action": 5,
-      "time": 18700
-    },
-    {
-      "action": 404,
-      "time": 20800
-    },
-    {
-      "action": 404,
-      "time": 26600
-    },
-    {
-      "action": 404,
-      "time": 37200
-    },
-    {
-      "action": 404,
-      "time": 12000
+      "time": 159400
     },
     {
       "action": 225,
-      "time": 4482200
+      "time": 161900
     },
     {
       "action": 223,
-      "time": 4482900
+      "time": 163100
+    },
+    {
+      "action": 4,
+      "time": 164700
+    },
+    {
+      "action": 4,
+      "time": 168400
+    },
+    {
+      "action": 801,
+      "time": 13000
+    },
+    {
+      "action": 802,
+      "time": 16000
+    },
+    {
+      "action": 5,
+      "time": 923500
     },
     {
       "action": 229,
-      "time": 4494600
+      "time": 929700
     },
     {
-      "action": 404,
-      "time": 4498100
+      "action": 225,
+      "time": 939800
     },
     {
-      "action": 0,
-      "time": 303500
+      "action": 225,
+      "time": 952900
     },
     {
-      "action": 0,
-      "time": 306200
+      "action": 232,
+      "time": 955800
     },
     {
-      "action": 0,
-      "time": 309100
+      "action": 701,
+      "time": 958800
     },
     {
-      "action": 803,
-      "time": 311100
-    },
-    {
-      "action": 804,
-      "time": 341900
+      "action": 703,
+      "time": 976900
     },
     {
       "action": 0,
-      "time": 108000
+      "time": 981400
     },
     {
       "action": 0,
-      "time": 109800
+      "time": 988900
     },
     {
-      "action": 0,
-      "time": 110400
+      "action": 225,
+      "time": 994800
     },
     {
-      "action": 0,
-      "time": 110900
+      "action": 223,
+      "time": 995500
     },
     {
-      "action": 803,
-      "time": 120900
+      "action": 4,
+      "time": 997700
     },
     {
-      "action": 804,
-      "time": 122800
+      "action": 5,
+      "time": 15800
     },
     {
-      "action": 0,
-      "time": 343000
-    },
-    {
-      "action": 803,
-      "time": 13400
-    },
-    {
-      "action": 804,
-      "time": 21300
-    },
-    {
-      "action": 0,
-      "time": 25600
-    },
-    {
-      "action": 0,
-      "time": 27000
-    },
-    {
-      "action": 803,
-      "time": 14100
-    },
-    {
-      "action": 804,
-      "time": 32800
-    },
-    {
-      "action": 0,
-      "time": 35100
-    },
-    {
-      "action": 803,
-      "time": 9600
-    },
-    {
-      "action": 803,
-      "time": 24000
-    },
-    {
-      "action": 803,
-      "time": 56300
-    },
-    {
-      "action": 803,
-      "time": 11800
-    },
-    {
-      "action": 803,
-      "time": 9700
-    },
-    {
-      "action": 803,
-      "time": 60700
+      "action": 229,
+      "time": 26500
     }
   ]
 }

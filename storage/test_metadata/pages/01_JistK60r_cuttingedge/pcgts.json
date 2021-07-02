@@ -5719,11 +5719,11 @@
       {
         "id": "page_0:block_17",
         "coords": "",
-        "type": "lyrics",
+        "type": "generic",
         "lines": [
           {
             "id": "page_0:block_17:line_17",
-            "coords": "0.6754276152044124,0.028366093869390402 0.684608407783846,0.2318736627135039 0.6402345769832499,0.2425845873895099 0.635644180693533,0.031426358062534965",
+            "coords": "0.4456028054906518,0.009362204172796467 0.586036898300964,0.022325351201440656 0.5806355870390288,0.04177007174440695 0.38186733259981787,0.07093715255885638 0.3451384160186593,0.04717138300634203 0.33865684250433725,0.013683253182344531",
             "reconstructed": false,
             "sentence": {
               "syllables": []
@@ -6328,9 +6328,9 @@
           "workTitle": "\u017didovstvo a Jeruzal\u00e9me",
           "blocks": [
             "page_0:block_0",
-            "page_0:block_1",
             "page_0:block_6",
             "page_0:block_7",
+            "page_0:block_1",
             "page_0:block_8"
           ],
           "meta": {
@@ -6351,13 +6351,13 @@
           "id": "page_0:work_2",
           "workTitle": "Raduj se a vesel se, Jeruzal\u00e9me",
           "blocks": [
+            "page_0:block_15",
             "page_0:block_2",
-            "page_0:block_3",
-            "page_0:block_4",
             "page_0:block_9",
+            "page_0:block_3",
             "page_0:block_10",
-            "page_0:block_11",
-            "page_0:block_15"
+            "page_0:block_4",
+            "page_0:block_11"
           ],
           "meta": {
             "cantusId": "002922"
@@ -6377,9 +6377,9 @@
           "id": "page_0:work_4",
           "workTitle": "Zdr\u00e1vas nad\u011bje na\u0161e",
           "blocks": [
+            "page_0:block_16",
             "page_0:block_5",
-            "page_0:block_12",
-            "page_0:block_16"
+            "page_0:block_12"
           ],
           "meta": {
             "cantusId": "a00605"
@@ -6399,7 +6399,7 @@
         },
         {
           "id": "page_0:block_7:line_7",
-          "text": "y-dov-stvo a Je-ru-zal\u00e9-me ne-ro\u010f-te se b\u00e1-ti z\u00ed-tra vy- ",
+          "text": "<p>y-dov-stvo a <b>Je-ru-zal\u00e9-me</b> ne-ro\u010f-te se b\u00e1-ti z\u00ed-tra vy- <a href=\"http://www.hymnologica.cz\" target=\"_blank\">some link</a></p>",
           "aabb": null,
           "author": null,
           "timestamp": null,
@@ -6475,8 +6475,7 @@
         "page_0:block_10:line_10",
         "page_0:block_11:line_11",
         "page_0:block_16:line_16",
-        "page_0:block_12:line_12",
-        "page_0:block_17:line_17"
+        "page_0:block_12:line_12"
       ]
     }
   },

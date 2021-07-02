@@ -1,20 +1,192 @@
 {
   "actions": {
-    "LayoutDelete": 1,
-    "LayoutSelect": 1
+    "LyricsEdit": 4,
+    "LyricsDeselect": 4,
+    "SyllablesAddToNeume": 22,
+    "SyllabelsDeleteConnection": 14
   },
   "toolTiming": {
-    "View": 9000,
-    "Layout": 5000
+    "View": 31934,
+    "Lyrics": 8417,
+    "Syllables": 108676,
+    "Work": 2833
   },
   "actionHistory": [
     {
-      "action": 225,
-      "time": 22600
+      "action": 503,
+      "time": 36363
     },
     {
-      "action": 223,
-      "time": 23400
+      "action": 504,
+      "time": 47016
+    },
+    {
+      "action": 504,
+      "time": 49609
+    },
+    {
+      "action": 503,
+      "time": 52979
+    },
+    {
+      "action": 503,
+      "time": 58439
+    },
+    {
+      "action": 503,
+      "time": 63285
+    },
+    {
+      "action": 503,
+      "time": 64212
+    },
+    {
+      "action": 503,
+      "time": 66032
+    },
+    {
+      "action": 503,
+      "time": 66469
+    },
+    {
+      "action": 503,
+      "time": 67024
+    },
+    {
+      "action": 503,
+      "time": 67582
+    },
+    {
+      "action": 404,
+      "time": 73014
+    },
+    {
+      "action": 401,
+      "time": 74866
+    },
+    {
+      "action": 401,
+      "time": 75456
+    },
+    {
+      "action": 401,
+      "time": 75569
+    },
+    {
+      "action": 401,
+      "time": 75649
+    },
+    {
+      "action": 404,
+      "time": 76521
+    },
+    {
+      "action": 404,
+      "time": 77746
+    },
+    {
+      "action": 404,
+      "time": 78489
+    },
+    {
+      "action": 503,
+      "time": 82128
+    },
+    {
+      "action": 504,
+      "time": 11095
+    },
+    {
+      "action": 504,
+      "time": 11604
+    },
+    {
+      "action": 504,
+      "time": 12283
+    },
+    {
+      "action": 504,
+      "time": 14722
+    },
+    {
+      "action": 504,
+      "time": 15880
+    },
+    {
+      "action": 504,
+      "time": 16655
+    },
+    {
+      "action": 504,
+      "time": 17618
+    },
+    {
+      "action": 504,
+      "time": 18293
+    },
+    {
+      "action": 503,
+      "time": 10185570
+    },
+    {
+      "action": 503,
+      "time": 10187423
+    },
+    {
+      "action": 503,
+      "time": 10195493
+    },
+    {
+      "action": 503,
+      "time": 10215015
+    },
+    {
+      "action": 504,
+      "time": 10225180
+    },
+    {
+      "action": 504,
+      "time": 10227927
+    },
+    {
+      "action": 504,
+      "time": 10230118
+    },
+    {
+      "action": 504,
+      "time": 10231454
+    },
+    {
+      "action": 503,
+      "time": 10236626
+    },
+    {
+      "action": 503,
+      "time": 10237304
+    },
+    {
+      "action": 503,
+      "time": 10237788
+    },
+    {
+      "action": 503,
+      "time": 10238238
+    },
+    {
+      "action": 503,
+      "time": 10238793
+    },
+    {
+      "action": 503,
+      "time": 10239396
+    },
+    {
+      "action": 503,
+      "time": 10239894
+    },
+    {
+      "action": 503,
+      "time": 10240550
     }
   ]
 }

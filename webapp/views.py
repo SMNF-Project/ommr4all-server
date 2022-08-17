@@ -30,6 +30,9 @@ def extract_content(language_code):
             elif line.startswith("<script src="):
                 for m in script_search.finditer(line):
                     scripts.append({'src': m.group(1), 'module': m.group(2)})
+            elif line.startswith("<style>"):
+                for m in styles_search.finditer(line):
+                    styles.append({'href': m.group(1)})
     return scripts, styles
 
 
